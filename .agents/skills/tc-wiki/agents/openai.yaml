@@ -1,4 +1,4 @@
 interface:
-  display_name: "Hurricane Wiki"
-  short_description: "Curate hurricane research wiki"
-  default_prompt: "Use $hurricane-wiki to grow and curate a wiki of peer-reviewed hurricane research."
+  display_name: "tc-wiki"
+  short_description: "Curate a tropical cyclone research wiki"
+  default_prompt: "Use $tc-wiki to grow and curate a wiki of peer-reviewed tropical cyclone research."
