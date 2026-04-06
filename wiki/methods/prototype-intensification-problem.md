@@ -2,8 +2,8 @@
 title: "Prototype Intensification Problem"
 page_type: "method"
 status: "active"
-last_updated: "2026-04-05"
-source_count: 1
+last_updated: "2026-04-06"
+source_count: 2
 ---
 
 # Definition
@@ -16,11 +16,15 @@ In the review, this framework considers the spin-up of an initially balanced, ax
 
 The same review also stresses its limits. Because real tropical cyclones intensify through asymmetric deep convection and eddy processes, the prototype problem should be treated as a controlled reduction of the full problem, not as the full problem itself.
 
+[Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) use nearly matched 3-D and axisymmetric CM1 configurations to test this framework directly. Their results show that the prototype problem is not dimensionally neutral: the 3-D and axisymmetric evolutions diverge because convection organizes differently and because eddy momentum fluxes above the boundary layer are not captured by the axisymmetric closure assumptions.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) organize Section 3 around this prototype problem to compare intensification paradigms.
 - The review uses it to assess classical spin-up ideas, WISHE-type arguments, rotating convection, and boundary-layer dynamics in a common framework.
 - Later in the paper, the authors argue that strictly axisymmetric studies have intrinsic limitations for understanding intensification, especially when cloud-generated vorticity and eddy momentum fluxes become important.
+- [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) implement the prototype problem in matched 3-D and axisymmetric CM1 experiments using the same initial vortex and closely aligned physics choices.
+- The same paper shows that the 3-D solution has weaker azimuthal-mean heating and a weaker mature vortex than the axisymmetric solution for much of the integration, but it also shows episodic periods when 3-D spin-up briefly exceeds the axisymmetric maximum because of localized intense convection and vertical eddy momentum transport.
 
 # Open Questions
 

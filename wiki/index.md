@@ -1,16 +1,17 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus one primary theoretical paper. Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus two primary papers: one theoretical boundary-layer paper and one idealized 3-D versus axisymmetric modeling study. Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
 - [Recent Developments in the Fluid Dynamics of Tropical Cyclones](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md): Peer-reviewed review article on vortex intensification, structure, boundary-layer control, potential intensity, and quasi-steady-state behavior.
 - [Hurricane Boundary-Layer Theory](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md): Primary theoretical paper distinguishing steady and unsteady hurricane boundary-layer influence and arguing for a dynamical boundary-layer definition based on agradient flow.
+- [Asymmetric and Axisymmetric Dynamics of Tropical Cyclones](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md): Primary idealized modeling study comparing 3-D and axisymmetric tropical cyclone evolution, with emphasis on convective organization, eddy momentum fluxes, drag sensitivity, and the limits of strict axisymmetric theory.
 
 ## Topics
 
 - [Tropical Cyclone Intensification](topics/tropical-cyclone-intensification.md): Current seed synthesis of how spin-up is framed in the review literature.
-- [Rotating Convection Paradigm](topics/rotating-convection-paradigm.md): Review-based page on rotating deep convection, vortex-tube stretching, and asymmetric spin-up.
+- [Rotating Convection Paradigm](topics/rotating-convection-paradigm.md): Synthesis of rotating deep convection, vortex-tube stretching, vortical plumes, and asymmetric spin-up.
 - [Boundary-Layer Control](topics/boundary-layer-control.md): Role of the frictional boundary layer in eyewall placement, spin-up, and thermodynamic structure.
 - [Potential Intensity](topics/potential-intensity.md): Upper-bound intensity theory, its utility, and limitations emphasized in the review.
 - [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md): Early page on inner-core and outer-wind expansion as discussed in the review.
@@ -18,7 +19,7 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 
 ## Methods
 
-- [Prototype Intensification Problem](methods/prototype-intensification-problem.md): The simplified framework used to compare intensification paradigms and isolate core dynamics.
+- [Prototype Intensification Problem](methods/prototype-intensification-problem.md): The simplified framework used to compare intensification paradigms and direct 3-D versus axisymmetric dynamics under controlled conditions.
 - [Hurricane Boundary-Layer Models](methods/hurricane-boundary-layer-models.md): Method page on steady versus time-dependent boundary-layer formulations and the implications of upper-boundary assumptions.
 
 ## Syntheses

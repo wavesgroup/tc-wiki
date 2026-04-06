@@ -2,8 +2,8 @@
 title: "Potential Intensity"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-05"
-source_count: 2
+last_updated: "2026-04-06"
+source_count: 3
 ---
 
 # Definition
@@ -18,6 +18,8 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 
 [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md) is not itself a PI paper, but it strengthens one of these caveats. The paper argues that steady boundary-layer formulations with standard zero-gradient upper-boundary conditions do not directly determine unbalanced flow above the layer. By implication, PI arguments that depend on steady, approximately balanced boundary-layer control need to be interpreted carefully.
 
+[Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) sharpen a related caveat from the modeling side. In disputing an earlier PI-style interpretation of why 3-D simulated storms are weaker than axisymmetric ones, the authors argue that such explanations can miss the roles of unbalanced boundary-layer dynamics, convective organization, and resolved eddy momentum fluxes.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) summarize PI as a prediction of the maximum possible intensity in a given environment, usually in terms of maximum gradient wind.
@@ -27,6 +29,7 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 - Montgomery and Smith (2017) conclude that 3D effects need to be accounted for properly in a consistent formulation of the maximum-intensity problem.
 - Smith and Montgomery (2010) show analytically that a steady continuous boundary-layer model with negligible friction near its top and zero vertical wind gradients there cannot directly determine the flow above it when that flow departs from gradient balance.
 - Inference for this wiki: that result helps explain why PI theories tied to steady boundary-layer control can miss supergradient amplification and other unbalanced inner-core dynamics.
+- [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) explicitly question a previous explanation of 3-D versus axisymmetric intensity differences based mainly on Emanuel-style PI arguments, arguing that it neglects known PI weaknesses, unbalanced boundary-layer dynamics, and differences in convective organization.
 
 # Open Questions
 

@@ -2,7 +2,7 @@
 title: "Recent Developments in the Fluid Dynamics of Tropical Cyclones"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-05"
+last_updated: "2026-04-06"
 source_count: 1
 ---
 
@@ -57,7 +57,7 @@ This is a curated ingest queue, not a dump of the full bibliography. It lists th
 - `Boundary-layer theory:` [Smith and Montgomery (2010): *Hurricane boundary-layer theory*](smith-montgomery-2010-hurricane-boundary-layer-theory.md). Primary theoretical paper on dynamical boundary-layer definition, steady versus unsteady boundary-layer influence, and upper-boundary-condition limits.
 - `Boundary-layer parameterization:` Smith, R. K., and G. L. Thomsen, 2010: *Dependence of tropical-cyclone intensification on the boundary layer representation in a numerical model*. *Quarterly Journal of the Royal Meteorological Society*, 136, 1671-1685.
 - `Spin-up mechanism:` Smith, R. K., M. T. Montgomery, and S. V. Nguyen, 2009: *Tropical cyclone spin up revisited*. *Quarterly Journal of the Royal Meteorological Society*, 135, 1321-1335.
-- `Asymmetric spin-up dynamics:` Persing, J., M. T. Montgomery, J. McWilliams, and R. K. Smith, 2013: *Asymmetric and axisymmetric dynamics of tropical cyclones*. *Atmospheric Chemistry and Physics*, 13, 12299-12341.
+- `Asymmetric spin-up dynamics:` [Persing et al. (2013): *Asymmetric and axisymmetric dynamics of tropical cyclones*](persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md). Primary idealized modeling study comparing 3-D and axisymmetric tropical cyclone evolution, with emphasis on convective organization, eddy momentum fluxes, and limits of strict axisymmetric theory.
 - `Steady-state challenge:` Smith, R. K., M. T. Montgomery, and J. Persing, 2014: *On steady-state tropical cyclones*. *Quarterly Journal of the Royal Meteorological Society*, 140, 2638-2649.
 - `Intensity-size constraint:` Smith, R. K., C. W. Schmidt, and M. T. Montgomery, 2011: *Dynamical constraints on the intensity and size of tropical cyclones*. *Quarterly Journal of the Royal Meteorological Society*, 137, 1841-1855.
 - `Radiative-convective-equilibrium size:` Chavas, D. R., and K. Emanuel, 2014: *Equilibrium tropical cyclone size in an idealized state of axisymmetric radiative convective equilibrium*. *Journal of the Atmospheric Sciences*, 71, 1663-1680.

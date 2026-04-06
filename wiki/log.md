@@ -47,3 +47,24 @@ Pages updated:
 Notes:
 - This ingest adds the first primary-study support for the current boundary-layer synthesis.
 - The paper is theoretical and axisymmetric, so direct observational and 3D tests are still high-priority gaps.
+
+## [2026-04-06] ingest | persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones
+
+Ingested Persing et al. (2013), a peer-reviewed primary idealized modeling study comparing three-dimensional and axisymmetric tropical cyclone evolution in the prototype intensification problem.
+
+Pages added:
+- [wiki/papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md)
+
+Pages updated:
+- [wiki/papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/methods/prototype-intensification-problem.md](methods/prototype-intensification-problem.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds the first primary-study support in the wiki for the current 3-D rotating-convection and eddy-momentum-flux synthesis.
+- The paper is still an idealized prototype-problem study, so direct observational spin-up papers remain a high-priority next gap.

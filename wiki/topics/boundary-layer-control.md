@@ -2,8 +2,8 @@
 title: "Boundary-Layer Control"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-05"
-source_count: 2
+last_updated: "2026-04-06"
+source_count: 3
 ---
 
 # Definition
@@ -18,6 +18,8 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 
 [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md) sharpen this picture by showing that boundary-layer control depends on the model class being used. Their analysis argues that a steady continuous boundary-layer model with a zero-vertical-gradient upper boundary does not directly determine the unbalanced flow above it; instead, it returns the flow at the model top toward zero radial velocity and gradient balance. A time-dependent boundary layer, by contrast, can directly affect the vortex aloft.
 
+[Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide a direct 3-D numerical test of several related ideas. They show that the azimuthally averaged maximum tangential wind spins up within the frictional boundary layer in both 3-D and axisymmetric configurations. Above the boundary layer, however, the resolved 3-D eddy momentum fluxes during key spin-up periods are counter-gradient and help contract and intensify the maximum winds. The same paper argues that surface drag in the 3-D model matters partly because it helps organize convection in azimuth.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) state that the boundary layer exerts strong control on the radius where inflow turns up into the eyewall clouds.
@@ -27,6 +29,9 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - Smith and Montgomery (2010) advocate a dynamical definition of the hurricane boundary layer based on the distribution of agradient flow rather than a purely thermodynamic or mixed-layer definition.
 - Smith and Montgomery (2010) show analytically that steady continuous boundary-layer models with negligible top friction and zero vertical wind gradients cannot directly determine the radial and tangential wind distribution above the layer when that flow is unbalanced.
 - The same paper argues that conventional boundary-layer theory becomes unreliable in the region of strong ascent into the eyewall because key assumptions break down there.
+- [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) show that the spin-up of the azimuthally averaged maximum tangential wind occurs within the frictional boundary layer in both model configurations.
+- The same paper finds that resolved 3-D eddy momentum fluxes above the boundary layer differ substantially from the subgrid closures used in the models and are counter-gradient near the radius of maximum wind during key spin-up periods.
+- Persing et al. (2013) also show that varying surface drag produces radically different responses in 3-D and axisymmetric simulations, with the 3-D response linked partly to drag-assisted convective organization.
 
 # Open Questions
 
