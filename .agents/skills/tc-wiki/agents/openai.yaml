@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hurricane Wiki"
+  short_description: "Curate hurricane research wiki"
+  default_prompt: "Use $hurricane-wiki to grow and curate a wiki of peer-reviewed hurricane research."
