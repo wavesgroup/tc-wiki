@@ -68,3 +68,20 @@ Pages updated:
 Notes:
 - This ingest adds the first primary-study support in the wiki for the current 3-D rotating-convection and eddy-momentum-flux synthesis.
 - The paper is still an idealized prototype-problem study, so direct observational spin-up papers remain a high-priority next gap.
+
+## [2026-04-06] ingest | nolan-fischer-oneill-2025-tropical-cyclone-outflow-sources
+
+Ingested Nolan, Fischer, and O'Neill (2025), a peer-reviewed primary study on the mass and condensate sources of mature tropical cyclone outflow and cirrus shields.
+
+Pages added:
+- [wiki/papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md)
+- [wiki/topics/tropical-cyclone-outflow.md](topics/tropical-cyclone-outflow.md)
+
+Pages updated:
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds the first primary-study support in the wiki for upper-level outflow structure and cirrus-shield source attribution.
+- The paper is based on two simulations plus observational consistency checks, so a larger observational outflow-budget literature review remains a high-priority next gap.
