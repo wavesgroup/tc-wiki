@@ -104,3 +104,26 @@ Pages updated:
 Notes:
 - This ingest adds the first multicase observational RI synthesis anchor in the wiki and the first dedicated `Rapid Intensification` topic page.
 - The paper is intensity-normalized and observationally strong, but it does not resolve RI-onset chronology or fully observe the lowest 500 m boundary layer, so causal sequence remains a high-priority gap.
+
+
+## [2026-04-06] ingest | fischer-first-author-reference-chain-2018-2024
+
+Worked backward from Fischer et al. (2025) references and ingested all currently identified wiki-relevant papers in that bibliography with Michael S. Fischer as first author (2018, 2019, 2022, 2023, 2024).
+
+Pages added:
+- [wiki/papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md](papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md)
+- [wiki/papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md](papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md)
+- [wiki/papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md)
+- [wiki/papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
+- [wiki/papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
+
+Pages updated:
+- [wiki/papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This expands the RI evidence chain from a single 2025 anchor paper to an internal five-paper progression connecting convective anomalies, trough-ventilation geometry, ensemble RI timing pathways, and observed vortex-tilt/precipitation structure.
+- Accessed-text quality varies by source availability; all ingested pages explicitly note their retrieval source and preserve methodological caveats.

@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-06"
-source_count: 4
+source_count: 9
 ---
 
 # Definition
@@ -20,7 +20,7 @@ Second, the frictional boundary layer is treated as dynamically active. It helps
 
 Third, the paper argues that intensification physics is not fully captured by axisymmetric views alone. Resolved eddy momentum fluxes and asymmetric convective structures matter, especially during spin-up. [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide direct primary-study support for this claim in a matched 3-D versus axisymmetric comparison: they show that weaker mean convective organization slows 3-D intensification on average, but vortical plumes and counter-gradient eddy fluxes can still assist radius contraction and episodic spin-up.
 
-[Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate.
+[Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md), [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md), [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md), and [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) fill much of the immediate lead-in to this result by linking RI to normalized convective anomalies, ventilation geometry, ensemble-resolved shear disruption, and observed tilt-precipitation coupling in weak storms.
 
 # Evidence By Source
 
