@@ -1,6 +1,6 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus three primary papers: one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, and one mature-outflow structural study. Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus four primary papers: one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, and one multicase observational study of rapid intensification. Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
@@ -8,10 +8,12 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [Hurricane Boundary-Layer Theory](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md): Primary theoretical paper distinguishing steady and unsteady hurricane boundary-layer influence and arguing for a dynamical boundary-layer definition based on agradient flow.
 - [Asymmetric and Axisymmetric Dynamics of Tropical Cyclones](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md): Primary idealized modeling study comparing 3-D and axisymmetric tropical cyclone evolution, with emphasis on convective organization, eddy momentum fluxes, drag sensitivity, and the limits of strict axisymmetric theory.
 - [Reconsideration of the Mass and Condensate Sources for the Tropical Cyclone Outflow](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md): Primary mature-storm modeling study arguing that surrounding rainbands supply much of the upper-level outflow dry mass and most cirrus-shield condensate.
+- [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md): Primary multicase observational study linking rapid intensification to tall, narrow, aligned vortices, deeper overturning circulation, and larger convective-burst coverage.
 
 ## Topics
 
 - [Tropical Cyclone Intensification](topics/tropical-cyclone-intensification.md): Current seed synthesis of how spin-up is framed in the review literature.
+- [Rapid Intensification](topics/rapid-intensification.md): Current synthesis of the vortex and convective structures that favor RI after controlling for storm intensity.
 - [Rotating Convection Paradigm](topics/rotating-convection-paradigm.md): Synthesis of rotating deep convection, vortex-tube stretching, vortical plumes, and asymmetric spin-up.
 - [Boundary-Layer Control](topics/boundary-layer-control.md): Role of the frictional boundary layer in eyewall placement, spin-up, and thermodynamic structure.
 - [Potential Intensity](topics/potential-intensity.md): Upper-bound intensity theory, its utility, and limitations emphasized in the review.

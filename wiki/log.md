@@ -85,3 +85,22 @@ Pages updated:
 Notes:
 - This ingest adds the first primary-study support in the wiki for upper-level outflow structure and cirrus-shield source attribution.
 - The paper is based on two simulations plus observational consistency checks, so a larger observational outflow-budget literature review remains a high-priority next gap.
+
+## [2026-04-06] ingest | fischer-et-al-2025-rapid-intensification-vortex-convective-characteristics
+
+Ingested Fischer et al. (2025), a peer-reviewed multicase observational study of rapid-intensification-favorable vortex and convective structure derived from airborne Doppler radar analyses.
+
+Pages added:
+- [wiki/papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds the first multicase observational RI synthesis anchor in the wiki and the first dedicated `Rapid Intensification` topic page.
+- The paper is intensity-normalized and observationally strong, but it does not resolve RI-onset chronology or fully observe the lowest 500 m boundary layer, so causal sequence remains a high-priority gap.

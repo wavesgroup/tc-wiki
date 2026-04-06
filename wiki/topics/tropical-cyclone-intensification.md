@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-06"
-source_count: 3
+source_count: 4
 ---
 
 # Definition
@@ -20,6 +20,8 @@ Second, the frictional boundary layer is treated as dynamically active. It helps
 
 Third, the paper argues that intensification physics is not fully captured by axisymmetric views alone. Resolved eddy momentum fluxes and asymmetric convective structures matter, especially during spin-up. [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide direct primary-study support for this claim in a matched 3-D versus axisymmetric comparison: they show that weaker mean convective organization slows 3-D intensification on average, but vortical plumes and counter-gradient eddy fluxes can still assist radius contraction and episodic spin-up.
 
+[Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate.
+
 # Evidence By Source
 
 - [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md) review the prototype intensification problem and conclude that newer work elevates rotating convection and boundary-layer control relative to older, more idealized paradigms.
@@ -29,16 +31,20 @@ Third, the paper argues that intensification physics is not fully captured by ax
 - The same paper also argues that models assuming gradient balance within the boundary layer miss the strong amplification of tangential wind in the inflow layer associated with supergradient flow.
 - [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) show that the mature 3-D vortex is weaker than the axisymmetric counterpart in the prototype problem largely because convection is less annular and the azimuthal-mean heating rate is weaker for much of the spin-up period.
 - The same paper also shows that resolved 3-D eddy momentum fluxes above the boundary layer are counter-gradient during key spin-up periods and can support contraction and intensification of the maximum tangential winds rather than simply diffusing them away.
+- [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) show observationally that rapid intensification occurs preferentially in storms with anomalously tall, narrow, and aligned vortices when compared to storms of similar current intensity.
+- The same paper also finds that rapidly intensifying storms have deeper inner-core ascent and much greater convective-burst coverage than slowly intensifying or nonintensifying storms, consistent with intensification requiring sustained deep convection rather than low-level ascent alone.
 
 # Open Questions
 
 - How much of observed rapid intensification can be explained by the rotating-convection and boundary-layer framework without explicit treatment of environmental shear and ocean coupling?
 - Which parts of spin-up are robust across 3D simulations, observations, and simplified models?
 - How should eddy momentum fluxes be represented in operational or reduced-complexity intensity theories?
+- When do RI-favorable structural anomalies emerge relative to RI onset, and which of them are causes versus signatures of an ongoing intensification event?
 
 # Related Pages
 
 - [Rotating Convection Paradigm](rotating-convection-paradigm.md)
+- [Rapid Intensification](rapid-intensification.md)
 - [Boundary-Layer Control](boundary-layer-control.md)
 - [Potential Intensity](potential-intensity.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
