@@ -3,7 +3,7 @@ title: "Tropical Cyclone Fluid Dynamics"
 page_type: "synthesis"
 status: "active"
 last_updated: "2026-04-06"
-source_count: 5
+source_count: 10
 ---
 
 # Question
@@ -31,7 +31,7 @@ Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dyn
 # Disagreement And Caveats
 
 - This synthesis still leans heavily on one review article, so much of its structure remains a map of the literature as the reviewers present it rather than a full wiki-level adjudication across primary studies.
-- The ingested primary papers now include one theoretical boundary-layer study, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, and one multicase observational RI study, but the wiki still lacks direct observational ingestion for many other major claims.
+- The ingested primary papers now include one theoretical boundary-layer study, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, and a five-paper Michael-Fischer-led RI chain (2018-2025) spanning satellite climatology, TC-trough context, ensemble ventilation mechanics, and airborne Doppler vortex-structure composites.
 - The review article intentionally omits several major topics: genesis, storm motion, environmental shear interaction, ocean feedbacks, secondary eyewalls, extratropical transition, microphysics, and wave coupling.
 - Some of the strongest claims in the current wiki still rely on model-based or theory-based arguments, and even the new RI paper does not yet resolve RI-onset chronology or the lowest-boundary-layer flow directly.
 

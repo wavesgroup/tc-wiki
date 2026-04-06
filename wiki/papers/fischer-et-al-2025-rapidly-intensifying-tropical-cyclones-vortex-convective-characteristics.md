@@ -54,9 +54,12 @@ Fischer et al. (2025) ask whether tropical cyclones that undergo rapid intensifi
 This is a curated ingest queue, not a dump of the full bibliography. It lists the cited papers that are currently most useful for expanding the existing wiki pages. As these papers are ingested, replace the plain citations below with direct links to their wiki paper pages.
 
 - `Intensifying vs steady-state structure:` Rogers, R. F., P. D. Reasor, and S. Lorsolo, 2013: *Airborne Doppler observations of the inner-core structural differences between intensifying and steady-state tropical cyclones*. *Monthly Weather Review*, 141, 2970-2991. DOI: [10.1175/MWR-D-12-00357.1](https://doi.org/10.1175/MWR-D-12-00357.1).
-- `TC-RADAR baseline:` Fischer, M. S., P. D. Reasor, R. F. Rogers, and J. F. Gamache, 2022: *An analysis of tropical cyclone vortex and convective characteristics in relation to storm intensity using a novel airborne Doppler radar database*. *Monthly Weather Review*, 150, 2255-2278. DOI: [10.1175/MWR-D-21-0223.1](https://doi.org/10.1175/MWR-D-21-0223.1).
+- `TC-RADAR baseline:` [An Analysis of Tropical Cyclone Vortex and Convective Characteristics in Relation to Storm Intensity Using a Novel Airborne Doppler Radar Database](fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md).
 - `Vortex height and RI:` DesRosiers, A. J., M. M. Bell, P. J. Klotzbach, M. S. Fischer, and P. D. Reasor, 2023: *Observed relationships between tropical cyclone vortex height, intensity, and intensification rate*. *Geophysical Research Letters*, 50, e2022GL101877. DOI: [10.1029/2022GL101877](https://doi.org/10.1029/2022GL101877).
-- `Vortex tilt and precipitation:` Fischer, M. S., R. F. Rogers, P. D. Reasor, and J. P. Dunion, 2024: *An observational analysis of the relationship between tropical cyclone vortex tilt, precipitation structure, and intensity change*. *Monthly Weather Review*, 152, 203-225. DOI: [10.1175/MWR-D-23-0089.1](https://doi.org/10.1175/MWR-D-23-0089.1).
+- `Vortex tilt and precipitation:` [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md).
+- `Earlier RI convective climatology:` [Normalized Convective Characteristics of Tropical Cyclone Rapid Intensification Events in the North Atlantic and Eastern North Pacific](fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md).
+- `Upper-tropospheric-trough RI environments:` [A Climatological Analysis of Tropical Cyclone Rapid Intensification in Environments of Upper-Tropospheric Troughs](fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md).
+- `Ensemble RI timing mechanism study:` [A Tale of Two Vortex Evolutions: Using a High-Resolution Ensemble to Assess the Impacts of Ventilation on a Tropical Cyclone Rapid Intensification Event](fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md).
 - `Convective bursts:` Wadler, J. B., R. F. Rogers, and P. D. Reasor, 2018: *The relationship between spatial variations in the structure of convective bursts and tropical cyclone intensification as determined by airborne Doppler radar*. *Monthly Weather Review*, 146, 761-780. DOI: [10.1175/MWR-D-17-0213.1](https://doi.org/10.1175/MWR-D-17-0213.1).
 
 # Linked Pages
@@ -65,4 +68,6 @@ This is a curated ingest queue, not a dump of the full bibliography. It lists th
 - [Tropical Cyclone Intensification](../topics/tropical-cyclone-intensification.md)
 - [Rotating Convection Paradigm](../topics/rotating-convection-paradigm.md)
 - [Boundary-Layer Control](../topics/boundary-layer-control.md)
+- [An Analysis of Tropical Cyclone Vortex and Convective Characteristics in Relation to Storm Intensity Using a Novel Airborne Doppler Radar Database](fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md)
+- [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)

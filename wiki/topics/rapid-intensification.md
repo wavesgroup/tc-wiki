@@ -3,7 +3,7 @@ title: "Rapid Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-06"
-source_count: 1
+source_count: 6
 ---
 
 # Definition
@@ -12,15 +12,21 @@ Rapid intensification is a short-period increase in tropical cyclone intensity l
 
 # Current Synthesis
 
-The wiki's direct primary evidence on rapid intensification is still limited. Based on [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md), RI occurs preferentially in storms that, relative to other storms of similar current intensity, have taller, narrower, more vertically aligned vortices and deeper inner-core overturning circulation.
+The wiki now has a small but coherent Michael-Fischer-led RI evidence chain spanning satellite climatology, TC-trough environmental context, ensemble process diagnosis, and airborne Doppler structural composites. [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) show that RI occurs preferentially in storms that, relative to other storms of similar current intensity, have taller, narrower, more vertically aligned vortices and deeper inner-core overturning circulation.
 
 The same paper finds that RI storms have more numerous and more spatially extensive convective bursts in the eyewall region, plus stronger mid-upper-tropospheric ascent. This supports the working view that RI depends on concentrated deep inner-core convection, not just strong low-level ascent.
 
 Fischer et al. (2025) also show that vortex structure is not enough by itself: RI is most common when both the storm structure and the large-scale environment are favorable. Their bivariate analysis therefore treats RI as a multiscale alignment problem rather than a one-variable threshold phenomenon.
+[Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md) and [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) provide earlier climatological evidence that RI episodes involve anomalously vigorous inner-core convection and are more likely in specific upper-tropospheric trough geometries that reduce effective ventilation. [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) adds a high-resolution ensemble mechanism test showing how shear/ventilation disruptions can delay RI even in initially similar forecasts. [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) then links weak-storm vertical alignment, precipitation symmetry, and future intensification in observations, setting up the multicase RI-focused synthesis in 2025.
+
 
 # Evidence By Source
 
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) use airborne Doppler radar composites normalized relative to storm intensity and show that RI episodes are associated with anomalously tall and narrow primary circulations.
+- [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md) show, after intensity normalization, that RI episodes have stronger upshear convective anomalies, with basin-dependent timing between liquid and ice hydrometeor signals.
+- [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) find that RI in TC-trough interactions is most common for specific upper-level geometry linked to reduced warm-core ventilation rather than simple eddy-angular-momentum forcing.
+- [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) show in a high-resolution ensemble that stronger ventilation and dry intrusion can delay RI by disrupting inner-core heating and increasing vortex tilt before later realignment.
+- [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) show that tilt is strongly related to 12-36 h intensity change for weak storms, with small-tilt cases exhibiting tighter and more symmetric inner-core precipitation structures.
 - The same paper finds significantly smaller vortex tilt magnitudes in RI than in slowly intensifying or nonintensifying storms, consistent with more vertically aligned RI vortices.
 - Fischer et al. (2025) also show that RI episodes have deeper anomalous ascent and stronger upper-tropospheric outflow, whereas nonintensifying storms have a shallower overturning circulation with stronger midlevel outflow.
 - The same paper finds that RI storms have both more convective bursts and greater fractional eyewall coverage of convective bursts than non-RI storms.
@@ -40,4 +46,8 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 - [Rotating Convection Paradigm](rotating-convection-paradigm.md)
 - [Boundary-Layer Control](boundary-layer-control.md)
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)
+- [Normalized Convective Characteristics of Tropical Cyclone Rapid Intensification Events in the North Atlantic and Eastern North Pacific](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md)
+- [A Climatological Analysis of Tropical Cyclone Rapid Intensification in Environments of Upper-Tropospheric Troughs](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md)
+- [A Tale of Two Vortex Evolutions: Using a High-Resolution Ensemble to Assess the Impacts of Ventilation on a Tropical Cyclone Rapid Intensification Event](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
+- [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
