@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-07"
-source_count: 10
+source_count: 13
 ---
 
 # Definition
@@ -22,6 +22,9 @@ Third, the paper argues that intensification physics is not fully captured by ax
 
 [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) add an energetics constraint on how asymmetric convection feeds back on the mean vortex. In their balanced-vortex framework, intensity change from localized forcing is governed mainly by the azimuthal-mean heating, while purely asymmetric forcing often produces weak net change or weakening because transient asymmetries can draw energy from the symmetric circulation.
 
+
+[Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because this ingest is currently abstract-constrained, these links are recorded as first-pass structural hypotheses pending full-text extraction.
+
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md), [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md), [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md), and [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) fill much of the immediate lead-in to this result by linking RI to normalized convective anomalies, ventilation geometry, ensemble-resolved shear disruption, and observed tilt-precipitation coupling in weak storms.
 
 # Evidence By Source
@@ -35,6 +38,10 @@ Third, the paper argues that intensification physics is not fully captured by ax
 - The same paper also shows that resolved 3-D eddy momentum fluxes above the boundary layer are counter-gradient during key spin-up periods and can support contraction and intensification of the maximum tangential winds rather than simply diffusing them away.
 - [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) find that purely asymmetric heating typically has a small and often negative net intensity effect in their idealized configurations, relative to the symmetric response to azimuthally averaged heating.
 - The same paper links this weakening tendency to transient growth of asymmetries and downgradient momentum transport across symmetric radial/vertical shear, followed by incomplete energy recovery during axisymmetrization.
+
+- [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md) argue that eyewall/RMW slope and vertical decay of tangential wind are constrained by storm structure and are not reducible to intensity alone.
+- [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md) report in idealized simulations that warm-core height is commonly midtropospheric and only weakly intensity dependent across tested cases.
+- [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) report that eyewall contraction and intensification co-occur early but decouple later, implying that contraction is not a sufficient real-time proxy for ongoing intensification.
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) show observationally that rapid intensification occurs preferentially in storms with anomalously tall, narrow, and aligned vortices when compared to storms of similar current intensity.
 - The same paper also finds that rapidly intensifying storms have deeper inner-core ascent and much greater convective-burst coverage than slowly intensifying or nonintensifying storms, consistent with intensification requiring sustained deep convection rather than low-level ascent alone.
 
