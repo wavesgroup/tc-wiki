@@ -1,6 +1,6 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus fourteen primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), and a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus eighteen primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), and a four-paper high-wind air-sea drag chain (2003-2020). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
@@ -19,6 +19,11 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [A Tale of Two Vortex Evolutions: Using a High-Resolution Ensemble to Assess the Impacts of Ventilation on a Tropical Cyclone Rapid Intensification Event](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md): Primary ensemble process study of RI timing spread, ventilation, tilt, and dry-air impacts in Hurricane Gonzalo (2014).
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md): Primary observational study linking weak-storm vortex alignment, precipitation organization, and future intensity change.
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md): Primary multicase observational study linking rapid intensification to tall, narrow, aligned vortices, deeper overturning circulation, and larger convective-burst coverage.
+
+- [Reduced Drag Coefficient for High Wind Speeds in Tropical Cyclones](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md): Primary observational paper reporting reduced effective momentum drag behavior at extreme hurricane winds.
+- [On the Limiting Aerodynamic Roughness of the Ocean in Very Strong Winds](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md): Primary high-wind air-sea study reporting limiting roughness behavior and drag saturation context.
+- [Wind and Waves in Extreme Hurricanes](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md): Primary hurricane wind-wave paper linking extreme sea states to high-wind momentum exchange interpretation.
+- [Revised Estimates of Ocean Surface Drag in Strong Winds](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md): Primary correction/reanalysis paper revising strong-wind drag estimates and saturation threshold.
 
 ## Topics
 

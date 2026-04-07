@@ -2,8 +2,8 @@
 title: "Potential Intensity"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-06"
-source_count: 4
+last_updated: "2026-04-07"
+source_count: 8
 ---
 
 # Definition
@@ -22,6 +22,8 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 
 [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md) add a structural caveat from the outflow side. In their simulations, the outflow layer between roughly 100 and 300 km radius is not fed mainly by an isolated eyewall exhaust: rainbands supply a large share of the dry-air mass flux and an even larger share of condensate, while convective and mesoscale ascent repeatedly disrupt the layer. The paper therefore argues that PI interpretations relying on a smooth, self-contained outflow layer or internally set outflow temperature should be treated cautiously.
 
+A complementary caveat comes from the high-wind air-sea exchange literature. [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) collectively indicate that momentum drag behavior in severe winds is not a simple monotonic function of wind speed. Because PI frameworks depend on exchange-coefficient assumptions (directly or indirectly in practical implementations), this chain strengthens the wiki's existing warning that PI skill can be sensitive to uncertain surface-layer physics.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) summarize PI as a prediction of the maximum possible intensity in a given environment, usually in terms of maximum gradient wind.
@@ -34,6 +36,10 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 - [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) explicitly question a previous explanation of 3-D versus axisymmetric intensity differences based mainly on Emanuel-style PI arguments, arguing that it neglects known PI weaknesses, unbalanced boundary-layer dynamics, and differences in convective organization.
 - [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md) find that rainbands contribute roughly one-third to two-thirds of the outflow dry-air mass flux and most of the condensate in the cirrus shield in their two mature-hurricane simulations.
 - The same paper argues that such repeated rainband and mesoscale injections are difficult to reconcile with PI interpretations that assume outflow temperature or self-stratification is set within a largely self-contained outflow layer.
+- [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md) report reduced effective drag at very high tropical-cyclone wind speeds relative to simple extrapolation from moderate winds.
+- [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md) report a limiting aerodynamic roughness regime in very strong winds, supporting drag saturation behavior.
+- [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md) emphasize explicit wind-wave coupling in extreme hurricanes, implying that fixed exchange curves can miss state dependence.
+- [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) revise strong-wind drag estimates and report saturation near Cd ~2.6 x 10^-3 around U10 ~25 m s^-1 in corrected processing.
 
 # Open Questions
 
@@ -41,6 +47,7 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 - How should boundary-layer imbalance and 3D turbulence be incorporated into future intensity-limit theories?
 - How should rainband-fed, intermittently mixed outflow alter current outflow-temperature assumptions in PI theory?
 - When PI agrees with observed or simulated intensity, is that agreement physically informative or partly compensating error?
+- How should PI-related maximum-intensity estimation evolve when high-wind momentum drag is saturating and wave-state dependent?
 
 # Related Pages
 

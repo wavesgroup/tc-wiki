@@ -3,7 +3,7 @@ title: "Boundary-Layer Control"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-07"
-source_count: 5
+source_count: 9
 ---
 
 # Definition
@@ -25,6 +25,8 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) add observational context from rapidly intensifying storms. They do not directly resolve peak boundary-layer inflow below 500 m, but they show that RI episodes preferentially occur in narrow, aligned vortices with deeper inner-core overturning circulation. The authors hypothesize that such compact vortices favor stronger boundary-layer inflow and concentrated ascent, which is consistent with boundary-layer-control arguments, while also noting that their radar sampling cannot close that mechanism directly.
 
+[Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) extend the boundary-layer-control discussion at the air-sea interface. Across this chain, high-wind momentum drag is reported to saturate (or at least increase much more weakly) in severe tropical-cyclone conditions, and wave state is treated as a first-order modifier of exchange behavior. The 2020 correction study also suggests some previously used high-wind drag estimates were biased high by processing choices, reinforcing the need to separate robust physics from method-dependent artifacts.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) state that the boundary layer exerts strong control on the radius where inflow turns up into the eyewall clouds.
@@ -40,6 +42,10 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - [Zhang et al. (2011)](../papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md) show from hurricane dropsondes that inflow-layer depth, agradient-flow depth, and mixed-layer depth are different characteristic scales, so no single shallow mixed-layer depth fully captures dynamically active hurricane inflow.
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) find that RI episodes are associated with compact, vertically aligned vortices and deeper inner-core ascent, then interpret these structures as consistent with stronger boundary-layer inflow and ascent in favorable cases.
 - The same paper explicitly cautions that the airborne Doppler analyses do not resolve the lowest 500 m well enough to determine whether peak boundary-layer inflow is actually stronger in RI storms.
+- [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md) report reduced effective drag behavior at the highest tropical-cyclone wind speeds relative to monotonic extrapolations from weaker-wind bulk formulas.
+- [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md) report a limiting aerodynamic roughness state in very strong winds, reinforcing drag saturation behavior.
+- [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md) connect this high-wind exchange problem to explicit wave-state structure in extreme hurricanes, indicating that wind speed alone is an incomplete predictor of surface stress.
+- [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) revise earlier strong-wind estimates and report saturation near Cd ~2.6 x 10^-3 around U10 ~25 m s^-1 in their corrected analysis.
 
 # Open Questions
 
@@ -47,6 +53,7 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - How much of the observed eyewall thermal structure can be attributed directly to boundary-layer control?
 - How should the dynamically active inflow layer be diagnosed when its depth differs from the mixed layer or thermodynamic boundary layer?
 - What changes when wave coupling and detailed surface-layer physics are added, given that this review did not cover them?
+- Which saturation curve (including threshold wind speed and asymptotic drag level) is most robust across open-ocean storms, laboratory conditions, and coupled forecast models?
 
 # Related Pages
 
@@ -56,3 +63,4 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - [Tropical Cyclone Size Growth](tropical-cyclone-size-growth.md)
 - [Potential Intensity](potential-intensity.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
+- [Wind and Waves in Extreme Hurricanes](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
