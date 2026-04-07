@@ -1,80 +1,5 @@
 # Wiki Log
 
-## [2026-04-07] ingest | high-wind-air-sea-drag-chain-2003-2020
-
-Ingested four peer-reviewed primary papers on high-wind air-sea momentum exchange and drag saturation behavior across observational, laboratory, wind-wave, and correction/reanalysis contexts: Powell et al. (2003), Donelan et al. (2004), Holthuijsen et al. (2012), and Curcic and Haus (2020).
-
-Pages added:
-- [wiki/papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
-- [wiki/papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
-- [wiki/papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
-- [wiki/papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
-
-Pages updated:
-- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
-- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
-- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
-- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
-- [wiki/index.md](index.md)
-
-Notes:
-- This ingest expands the wiki beyond vortex-structure and idealized dynamics by adding a first-pass surface-exchange evidence chain focused on high-wind momentum drag behavior.
-- Full-text access for all four papers is constrained in this environment; each paper page is explicitly labeled as a metadata/abstract-constrained first pass and should be upgraded with direct text extraction.
-
-## [2026-04-07] ingest | stern-nolan-inner-core-structure-chain-2009-2015
-
-Ingested three peer-reviewed primary papers focused on inner-core vertical structure, warm-core height, and contraction-intensification coupling: Stern and Nolan (2009), Stern and Nolan (2012), and Stern et al. (2015).
-
-Pages added:
-- [wiki/papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md](papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md)
-- [wiki/papers/stern-nolan-2012-height-of-warm-core.md](papers/stern-nolan-2012-height-of-warm-core.md)
-- [wiki/papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md](papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md)
-
-Pages updated:
-- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
-- [wiki/topics/tropical-cyclone-size-growth.md](topics/tropical-cyclone-size-growth.md)
-- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
-- [wiki/index.md](index.md)
-
-Notes:
-- This ingest adds a dedicated inner-core structure chain connecting tangential-wind vertical structure, warm-core height, and eyewall contraction lifecycle behavior.
-- Source access for all three papers is currently bibliographic/abstract-level rather than AMS full text; each page is labeled as a constrained first pass and should be upgraded with direct full-text extraction.
-
-## [2026-04-07] ingest | nolan-moon-stern-2007-asymmetric-convection-energetics-efficiency
-
-Ingested Nolan, Moon, and Stern (2007), a peer-reviewed primary idealized modeling paper on how asymmetric convective heating projects onto mean tropical-cyclone intensification.
-
-Pages added:
-- [wiki/papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
-
-Pages updated:
-- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
-- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
-- [wiki/methods/prototype-intensification-problem.md](methods/prototype-intensification-problem.md)
-- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
-- [wiki/index.md](index.md)
-
-Notes:
-- This ingest adds an explicit energetics bridge between rotating-convection discussions and mean-vortex tendency diagnostics by showing that azimuthal-mean heating dominates the symmetric intensity response in the paper's idealized regime.
-- Current extraction is constrained by abstract-level source access; full-text retrieval remains a high-priority follow-up to refine equation-level details and edge-case parameter dependencies.
-
-## [2026-04-07] ingest | zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer
-
-Ingested Zhang et al. (2011), a peer-reviewed primary observational study on characteristic hurricane boundary-layer depth scales from dropsonde analyses.
-
-Pages added:
-- [wiki/papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
-
-Pages updated:
-- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
-- [wiki/methods/hurricane-boundary-layer-models.md](methods/hurricane-boundary-layer-models.md)
-- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
-- [wiki/index.md](index.md)
-
-Notes:
-- This ingest adds a direct observational anchor for the wiki's boundary-layer depth discussion and supports separating dynamical inflow depth from thermodynamic mixed-layer depth.
-- Full-text access to the AMS article remains a high-priority follow-up; current extraction is constrained to accessible metadata/abstract-level sources and is labeled accordingly.
-
 ## [2026-04-05] ingest | montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones
 
 Initialized the wiki from scratch using Montgomery and Smith (2017), a peer-reviewed review article in *Annual Review of Fluid Mechanics*.
@@ -180,7 +105,6 @@ Notes:
 - This ingest adds the first multicase observational RI synthesis anchor in the wiki and the first dedicated `Rapid Intensification` topic page.
 - The paper is intensity-normalized and observationally strong, but it does not resolve RI-onset chronology or fully observe the lowest 500 m boundary layer, so causal sequence remains a high-priority gap.
 
-
 ## [2026-04-06] ingest | fischer-first-author-reference-chain-2018-2024
 
 Worked backward from Fischer et al. (2025) references and ingested all currently identified wiki-relevant papers in that bibliography with Michael S. Fischer as first author (2018, 2019, 2022, 2023, 2024).
@@ -202,3 +126,78 @@ Pages updated:
 Notes:
 - This expands the RI evidence chain from a single 2025 anchor paper to an internal five-paper progression connecting convective anomalies, trough-ventilation geometry, ensemble RI timing pathways, and observed vortex-tilt/precipitation structure.
 - Accessed-text quality varies by source availability; all ingested pages explicitly note their retrieval source and preserve methodological caveats.
+
+## [2026-04-07] ingest | high-wind-air-sea-drag-chain-2003-2020
+
+Ingested four peer-reviewed primary papers on high-wind air-sea momentum exchange and drag saturation behavior across observational, laboratory, wind-wave, and correction/reanalysis contexts: Powell et al. (2003), Donelan et al. (2004), Holthuijsen et al. (2012), and Curcic and Haus (2020).
+
+Pages added:
+- [wiki/papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
+- [wiki/papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
+- [wiki/papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
+- [wiki/papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest expands the wiki beyond vortex-structure and idealized dynamics by adding a first-pass surface-exchange evidence chain focused on high-wind momentum drag behavior.
+- Full-text access for all four papers is constrained in this environment; each paper page is explicitly labeled as a metadata/abstract-constrained first pass and should be upgraded with direct text extraction.
+
+## [2026-04-07] ingest | stern-nolan-inner-core-structure-chain-2009-2015
+
+Ingested three peer-reviewed primary papers focused on inner-core vertical structure, warm-core height, and contraction-intensification coupling: Stern and Nolan (2009), Stern and Nolan (2012), and Stern et al. (2015).
+
+Pages added:
+- [wiki/papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md](papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md)
+- [wiki/papers/stern-nolan-2012-height-of-warm-core.md](papers/stern-nolan-2012-height-of-warm-core.md)
+- [wiki/papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md](papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-size-growth.md](topics/tropical-cyclone-size-growth.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds a dedicated inner-core structure chain connecting tangential-wind vertical structure, warm-core height, and eyewall contraction lifecycle behavior.
+- Source access for all three papers is currently bibliographic/abstract-level rather than AMS full text; each page is labeled as a constrained first pass and should be upgraded with direct full-text extraction.
+
+## [2026-04-07] ingest | nolan-moon-stern-2007-asymmetric-convection-energetics-efficiency
+
+Ingested Nolan, Moon, and Stern (2007), a peer-reviewed primary idealized modeling paper on how asymmetric convective heating projects onto mean tropical-cyclone intensification.
+
+Pages added:
+- [wiki/papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/methods/prototype-intensification-problem.md](methods/prototype-intensification-problem.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds an explicit energetics bridge between rotating-convection discussions and mean-vortex tendency diagnostics by showing that azimuthal-mean heating dominates the symmetric intensity response in the paper's idealized regime.
+- Current extraction is constrained by abstract-level source access; full-text retrieval remains a high-priority follow-up to refine equation-level details and edge-case parameter dependencies.
+
+## [2026-04-07] ingest | zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer
+
+Ingested Zhang et al. (2011), a peer-reviewed primary observational study on characteristic hurricane boundary-layer depth scales from dropsonde analyses.
+
+Pages added:
+- [wiki/papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/methods/hurricane-boundary-layer-models.md](methods/hurricane-boundary-layer-models.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds a direct observational anchor for the wiki's boundary-layer depth discussion and supports separating dynamical inflow depth from thermodynamic mixed-layer depth.
+- Full-text access to the AMS article remains a high-priority follow-up; current extraction is constrained to accessible metadata/abstract-level sources and is labeled accordingly.
