@@ -1,5 +1,22 @@
 # Wiki Log
 
+## [2026-04-07] ingest | zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer
+
+Ingested Zhang et al. (2011), a peer-reviewed primary observational study on characteristic hurricane boundary-layer depth scales from dropsonde analyses.
+
+Pages added:
+- [wiki/papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/methods/hurricane-boundary-layer-models.md](methods/hurricane-boundary-layer-models.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds a direct observational anchor for the wiki's boundary-layer depth discussion and supports separating dynamical inflow depth from thermodynamic mixed-layer depth.
+- Full-text access to the AMS article remains a high-priority follow-up; current extraction is constrained to accessible metadata/abstract-level sources and is labeled accordingly.
+
 ## [2026-04-05] ingest | montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones
 
 Initialized the wiki from scratch using Montgomery and Smith (2017), a peer-reviewed review article in *Annual Review of Fluid Mechanics*.
