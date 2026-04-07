@@ -52,6 +52,7 @@ Default to peer-reviewed sources. If the user wants to include preprints, report
 5. Update every materially affected topic, storm, dataset, method, and synthesis page.
 6. Update `index.md`.
 7. Append a short chronological entry to `log.md`.
+   - Always add new entries at the bottom of the file so `log.md` remains in ascending chronological order (earlier entries first, later entries last).
 
 Do not stop at the paper summary. The point of the wiki is to propagate new evidence into the existing synthesis.
 
