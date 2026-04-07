@@ -2,8 +2,8 @@
 title: "Tropical Cyclone Size Growth"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-05"
-source_count: 1
+last_updated: "2026-04-07"
+source_count: 3
 ---
 
 # Definition
@@ -34,3 +34,11 @@ Within the review, one recurring idea is that size change is coupled to boundary
 - [Boundary-Layer Control](boundary-layer-control.md)
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
 - [Steady-State Tropical Cyclones](steady-state-tropical-cyclones.md)
+
+
+# New Evidence (2026-04-07 ingest update)
+
+- [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md) report that eyewall/RMW slope is more sensitive to storm size than intensity under their theory-consistent framework.
+- [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) show in idealized experiments that contraction rates decrease with larger initial storm size, while intensification rates need not scale the same way.
+
+These additions suggest that geometric inner-core evolution and intensity tendency should be tracked as related but distinct dimensions of storm evolution.

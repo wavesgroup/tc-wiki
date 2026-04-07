@@ -3,7 +3,7 @@ title: "Tropical Cyclone Fluid Dynamics"
 page_type: "synthesis"
 status: "active"
 last_updated: "2026-04-07"
-source_count: 12
+source_count: 15
 ---
 
 # Question
@@ -12,7 +12,7 @@ What does the wiki currently say about tropical cyclone fluid dynamics?
 
 # Short Answer
 
-Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md), [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md), [Zhang et al. (2011)](../papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md), [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md), [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md), [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md), and [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md), the wiki currently says that tropical cyclone intensification and structure are best treated as a coupled problem involving rotating deep convection, boundary-layer dynamics, angular-momentum transport, upper-level outflow structure, and the three-dimensional vortex characteristics that favor rapid intensification in real storms. Potential-intensity theory remains useful as an upper-bound framework, but it is incomplete, and both strict axisymmetric theory and oversimplified eyewall-only outflow schematics miss important 3-D structural effects.
+Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md), [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md), [Zhang et al. (2011)](../papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md), [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md), [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md), [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md), [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md), and [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md), the wiki currently says that tropical cyclone intensification and structure are best treated as a coupled problem involving rotating deep convection, boundary-layer dynamics, angular-momentum transport, upper-level outflow structure, and the three-dimensional vortex characteristics that favor rapid intensification in real storms. Potential-intensity theory remains useful as an upper-bound framework, but it is incomplete, and both strict axisymmetric theory and oversimplified eyewall-only outflow schematics miss important 3-D structural effects.
 
 # Lines Of Evidence
 
@@ -21,6 +21,10 @@ Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dyn
 - Smith and Montgomery (2010) provide direct primary-study support for a stronger boundary-layer role, while also showing that this role depends on whether the boundary layer is modeled as steady or time dependent.
 - Zhang et al. (2011) add direct dropsonde constraints on hurricane boundary-layer vertical structure, showing that inflow and agradient depth scales are distinct from shallow mixed-layer depth and therefore should not be collapsed to a single thermodynamic layer definition.
 - Persing et al. (2013) provide direct idealized 3-D support for the rotating-convection branch of the current synthesis, showing that vortical plumes and counter-gradient eddy momentum fluxes can aid contraction and spin-up of the azimuthal-mean vortex.
+
+- Stern and Nolan (2009) add an inner-core structural constraint that eyewall slope and vertical decay of maximum tangential wind depend strongly on storm size and thermodynamic structure, not just intensity class.
+- Stern and Nolan (2012) report midlevel warm-core maxima in idealized simulations and limited intensity dependence of warm-core height across tested strengths.
+- Stern et al. (2015) report that eyewall contraction and intensification can decouple after early spin-up, so contraction is an incomplete standalone proxy for continuing intensity increase.
 - Nolan et al. (2007) add an energetics constraint for asymmetric forcing in idealized vortices: the azimuthal-mean heating response dominates mean intensification, while purely asymmetric heating often produces weak net effects or weakening.
 - The same paper shows that 3-D storms can intensify more slowly than axisymmetric storms on average because convection is less annular and azimuthal-mean heating is weaker, even though local convective bursts can be stronger than in the axisymmetric case.
 - Nolan et al. (2025) add a new structural constraint on mature storms: in two simulations, surrounding rainbands supply much of the outflow dry-air mass and most of the condensate in the cirrus shield, so upper-level outflow is not simply eyewall exhaust.

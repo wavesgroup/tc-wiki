@@ -1,5 +1,24 @@
 # Wiki Log
 
+## [2026-04-07] ingest | stern-nolan-inner-core-structure-chain-2009-2015
+
+Ingested three peer-reviewed primary papers focused on inner-core vertical structure, warm-core height, and contraction-intensification coupling: Stern and Nolan (2009), Stern and Nolan (2012), and Stern et al. (2015).
+
+Pages added:
+- [wiki/papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md](papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md)
+- [wiki/papers/stern-nolan-2012-height-of-warm-core.md](papers/stern-nolan-2012-height-of-warm-core.md)
+- [wiki/papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md](papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-size-growth.md](topics/tropical-cyclone-size-growth.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds a dedicated inner-core structure chain connecting tangential-wind vertical structure, warm-core height, and eyewall contraction lifecycle behavior.
+- Source access for all three papers is currently bibliographic/abstract-level rather than AMS full text; each page is labeled as a constrained first pass and should be upgraded with direct full-text extraction.
+
 ## [2026-04-07] ingest | nolan-moon-stern-2007-asymmetric-convection-energetics-efficiency
 
 Ingested Nolan, Moon, and Stern (2007), a peer-reviewed primary idealized modeling paper on how asymmetric convective heating projects onto mean tropical-cyclone intensification.
