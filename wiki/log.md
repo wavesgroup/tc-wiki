@@ -1,5 +1,26 @@
 # Wiki Log
 
+## [2026-04-07] ingest | high-wind-air-sea-drag-chain-2003-2020
+
+Ingested four peer-reviewed primary papers on high-wind air-sea momentum exchange and drag saturation behavior across observational, laboratory, wind-wave, and correction/reanalysis contexts: Powell et al. (2003), Donelan et al. (2004), Holthuijsen et al. (2012), and Curcic and Haus (2020).
+
+Pages added:
+- [wiki/papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
+- [wiki/papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
+- [wiki/papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
+- [wiki/papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest expands the wiki beyond vortex-structure and idealized dynamics by adding a first-pass surface-exchange evidence chain focused on high-wind momentum drag behavior.
+- Full-text access for all four papers is constrained in this environment; each paper page is explicitly labeled as a metadata/abstract-constrained first pass and should be upgraded with direct text extraction.
+
 ## [2026-04-07] ingest | stern-nolan-inner-core-structure-chain-2009-2015
 
 Ingested three peer-reviewed primary papers focused on inner-core vertical structure, warm-core height, and contraction-intensification coupling: Stern and Nolan (2009), Stern and Nolan (2012), and Stern et al. (2015).

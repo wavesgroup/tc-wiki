@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-07"
-source_count: 13
+source_count: 17
 ---
 
 # Definition
@@ -26,6 +26,9 @@ Third, the paper argues that intensification physics is not fully captured by ax
 [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because this ingest is currently abstract-constrained, these links are recorded as first-pass structural hypotheses pending full-text extraction.
 
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md), [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md), [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md), and [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) fill much of the immediate lead-in to this result by linking RI to normalized convective anomalies, ventilation geometry, ensemble-resolved shear disruption, and observed tilt-precipitation coupling in weak storms.
+
+High-wind air-sea exchange studies add an additional boundary condition on how quickly intensification can proceed in extreme regimes. [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) indicate that surface momentum drag does not keep rising linearly with wind speed in hurricane conditions. Inference for this wiki: if drag saturates while enthalpy fluxes remain sufficient, the surface-flux environment for further intensification differs materially from assumptions embedded in older bulk formulations.
+
 
 # Evidence By Source
 
@@ -51,6 +54,7 @@ Third, the paper argues that intensification physics is not fully captured by ax
 - Which parts of spin-up are robust across 3D simulations, observations, and simplified models?
 - How should eddy momentum fluxes be represented in operational or reduced-complexity intensity theories?
 - When do RI-favorable structural anomalies emerge relative to RI onset, and which of them are causes versus signatures of an ongoing intensification event?
+- How should drag saturation and wave-state dependence be represented in intensity models that also need correct enthalpy fluxes?
 
 # Related Pages
 
