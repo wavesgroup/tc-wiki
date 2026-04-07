@@ -1,5 +1,23 @@
 # Wiki Log
 
+## [2026-04-07] ingest | nolan-moon-stern-2007-asymmetric-convection-energetics-efficiency
+
+Ingested Nolan, Moon, and Stern (2007), a peer-reviewed primary idealized modeling paper on how asymmetric convective heating projects onto mean tropical-cyclone intensification.
+
+Pages added:
+- [wiki/papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/methods/prototype-intensification-problem.md](methods/prototype-intensification-problem.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest adds an explicit energetics bridge between rotating-convection discussions and mean-vortex tendency diagnostics by showing that azimuthal-mean heating dominates the symmetric intensity response in the paper's idealized regime.
+- Current extraction is constrained by abstract-level source access; full-text retrieval remains a high-priority follow-up to refine equation-level details and edge-case parameter dependencies.
+
 ## [2026-04-07] ingest | zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer
 
 Ingested Zhang et al. (2011), a peer-reviewed primary observational study on characteristic hurricane boundary-layer depth scales from dropsonde analyses.

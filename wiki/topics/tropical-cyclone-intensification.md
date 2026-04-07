@@ -2,8 +2,8 @@
 title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-06"
-source_count: 9
+last_updated: "2026-04-07"
+source_count: 10
 ---
 
 # Definition
@@ -20,6 +20,8 @@ Second, the frictional boundary layer is treated as dynamically active. It helps
 
 Third, the paper argues that intensification physics is not fully captured by axisymmetric views alone. Resolved eddy momentum fluxes and asymmetric convective structures matter, especially during spin-up. [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide direct primary-study support for this claim in a matched 3-D versus axisymmetric comparison: they show that weaker mean convective organization slows 3-D intensification on average, but vortical plumes and counter-gradient eddy fluxes can still assist radius contraction and episodic spin-up.
 
+[Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) add an energetics constraint on how asymmetric convection feeds back on the mean vortex. In their balanced-vortex framework, intensity change from localized forcing is governed mainly by the azimuthal-mean heating, while purely asymmetric forcing often produces weak net change or weakening because transient asymmetries can draw energy from the symmetric circulation.
+
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md), [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md), [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md), and [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) fill much of the immediate lead-in to this result by linking RI to normalized convective anomalies, ventilation geometry, ensemble-resolved shear disruption, and observed tilt-precipitation coupling in weak storms.
 
 # Evidence By Source
@@ -31,6 +33,8 @@ Third, the paper argues that intensification physics is not fully captured by ax
 - The same paper also argues that models assuming gradient balance within the boundary layer miss the strong amplification of tangential wind in the inflow layer associated with supergradient flow.
 - [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) show that the mature 3-D vortex is weaker than the axisymmetric counterpart in the prototype problem largely because convection is less annular and the azimuthal-mean heating rate is weaker for much of the spin-up period.
 - The same paper also shows that resolved 3-D eddy momentum fluxes above the boundary layer are counter-gradient during key spin-up periods and can support contraction and intensification of the maximum tangential winds rather than simply diffusing them away.
+- [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) find that purely asymmetric heating typically has a small and often negative net intensity effect in their idealized configurations, relative to the symmetric response to azimuthally averaged heating.
+- The same paper links this weakening tendency to transient growth of asymmetries and downgradient momentum transport across symmetric radial/vertical shear, followed by incomplete energy recovery during axisymmetrization.
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) show observationally that rapid intensification occurs preferentially in storms with anomalously tall, narrow, and aligned vortices when compared to storms of similar current intensity.
 - The same paper also finds that rapidly intensifying storms have deeper inner-core ascent and much greater convective-burst coverage than slowly intensifying or nonintensifying storms, consistent with intensification requiring sustained deep convection rather than low-level ascent alone.
 
