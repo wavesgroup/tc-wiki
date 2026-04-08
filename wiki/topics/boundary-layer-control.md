@@ -2,8 +2,8 @@
 title: "Boundary-Layer Control"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-07"
-source_count: 9
+last_updated: "2026-04-08"
+source_count: 12
 ---
 
 # Definition
@@ -27,6 +27,8 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 
 [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) extend the boundary-layer-control discussion at the air-sea interface. Across this chain, high-wind momentum drag is reported to saturate (or at least increase much more weakly) in severe tropical-cyclone conditions, and wave state is treated as a first-order modifier of exchange behavior. The 2020 correction study also suggests some previously used high-wind drag estimates were biased high by processing choices, reinforcing the need to separate robust physics from method-dependent artifacts.
 
+[Wright et al. (2001)](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md), [Walsh et al. (2002)](../papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md), and [Walsh et al. (2021)](../papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md) add directional-wave-spectrum structure evidence that helps interpret why wind-speed-only drag formulations can fail in storms. Across these papers, storm-relative quadrant asymmetry and multi-system wave geometry emerge as persistent features, and the 2021 WSRA demonstration shows these patterns can now be mapped at high density in near real time during reconnaissance missions. This strengthens the wiki's existing argument that boundary-layer exchange and near-surface momentum transfer should be treated as wave-coupled, not solely wind-speed-coupled.
+
 # Evidence By Source
 
 - Montgomery and Smith (2017) state that the boundary layer exerts strong control on the radius where inflow turns up into the eyewall clouds.
@@ -46,6 +48,9 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md) report a limiting aerodynamic roughness state in very strong winds, reinforcing drag saturation behavior.
 - [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md) connect this high-wind exchange problem to explicit wave-state structure in extreme hurricanes, indicating that wind speed alone is an incomplete predictor of surface stress.
 - [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) revise earlier strong-wind estimates and report saturation near Cd ~2.6 x 10^-3 around U10 ~25 m s^-1 in their corrected analysis.
+- [Wright et al. (2001)](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md) provide an open-ocean observational benchmark showing that directional wave spectra vary strongly with storm-relative position.
+- [Walsh et al. (2002)](../papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md) extend that directional-spectrum framework to coastal/landfall conditions, where fetch and shoreline proximity further modify wave geometry.
+- [Walsh et al. (2021)](../papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md) demonstrate that modern NOAA WSRA observations can map dense directional-spectrum asymmetry during operations, including right-front-quadrant wave maxima in a Hurricane Lorenzo case.
 
 # Open Questions
 
@@ -54,6 +59,7 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - How should the dynamically active inflow layer be diagnosed when its depth differs from the mixed layer or thermodynamic boundary layer?
 - What changes when wave coupling and detailed surface-layer physics are added, given that this review did not cover them?
 - Which saturation curve (including threshold wind speed and asymptotic drag level) is most robust across open-ocean storms, laboratory conditions, and coupled forecast models?
+- How should directional wave-spectrum asymmetries observed aloft be translated into operational surface-flux parameter updates in coupled hurricane forecast systems?
 
 # Related Pages
 
@@ -64,3 +70,6 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - [Potential Intensity](potential-intensity.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
 - [Wind and Waves in Extreme Hurricanes](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
+- [Hurricane Directional Wave Spectrum Spatial Variation in the Open Ocean](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md)
+- [Hurricane Directional Wave Spectrum Spatial Variation at Landfall](../papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
+- [In the Eye of the Storm](../papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
