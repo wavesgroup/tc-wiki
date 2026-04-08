@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-07"
-source_count: 17
+source_count: 19
 ---
 
 # Definition
@@ -20,8 +20,9 @@ Second, the frictional boundary layer is treated as dynamically active. It helps
 
 Third, the paper argues that intensification physics is not fully captured by axisymmetric views alone. Resolved eddy momentum fluxes and asymmetric convective structures matter, especially during spin-up. [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide direct primary-study support for this claim in a matched 3-D versus axisymmetric comparison: they show that weaker mean convective organization slows 3-D intensification on average, but vortical plumes and counter-gradient eddy fluxes can still assist radius contraction and episodic spin-up.
 
-[Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) add an energetics constraint on how asymmetric convection feeds back on the mean vortex. In their balanced-vortex framework, intensity change from localized forcing is governed mainly by the azimuthal-mean heating, while purely asymmetric forcing often produces weak net change or weakening because transient asymmetries can draw energy from the symmetric circulation.
+[Nolan and Montgomery (2002)](../papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md) and [Nolan and Grasso (2003)](../papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md) add a nonhydrostatic perturbation bridge between asymmetric eddy dynamics and symmetric vortex adjustment in balanced, hurricane-like vortices. Together, they frame intensification-relevant perturbation evolution as a two-timescale process (fast wave adjustment plus slower vortex adjustment) and show how asymmetric perturbation fluxes can project onto symmetric intensity tendencies.
 
+[Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) add an energetics constraint on how asymmetric convection feeds back on the mean vortex. In their balanced-vortex framework, intensity change from localized forcing is governed mainly by the azimuthal-mean heating, while purely asymmetric forcing often produces weak net change or weakening because transient asymmetries can draw energy from the symmetric circulation.
 
 [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because this ingest is currently abstract-constrained, these links are recorded as first-pass structural hypotheses pending full-text extraction.
 
@@ -38,7 +39,9 @@ High-wind air-sea exchange studies add an additional boundary condition on how q
 - Smith and Montgomery (2010) argue that unsteady boundary layers can directly spin up the vortex aloft, whereas steady boundary layers slaved to the interior vortex can spin it up only indirectly through thermodynamic modification and thermal-wind adjustment.
 - The same paper also argues that models assuming gradient balance within the boundary layer miss the strong amplification of tangential wind in the inflow layer associated with supergradient flow.
 - [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) show that the mature 3-D vortex is weaker than the axisymmetric counterpart in the prototype problem largely because convection is less annular and the azimuthal-mean heating rate is weaker for much of the spin-up period.
-- The same paper also shows that resolved 3-D eddy momentum fluxes above the boundary layer are counter-gradient during key spin-up periods and can support contraction and intensification of the maximum tangential winds rather than simply diffusing them away.
+- [Nolan and Montgomery (2002)](../papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md) provide the linear nonhydrostatic perturbation framework used to track asymmetric evolution on balanced hurricane-like vortices and to separate fast wave adjustment from slower vortex evolution.
+- [Nolan and Grasso (2003)](../papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md) show that symmetric perturbation responses in the companion framework can be interpreted as Eliassen-type secondary circulations and that asymmetric temperature perturbations yield much smaller net intensity effects than equal-amplitude symmetric perturbations in their experiments.
+- Persing et al. (2013) also show that resolved 3-D eddy momentum fluxes above the boundary layer are counter-gradient during key spin-up periods and can support contraction and intensification of the maximum tangential winds rather than simply diffusing them away.
 - [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) find that purely asymmetric heating typically has a small and often negative net intensity effect in their idealized configurations, relative to the symmetric response to azimuthally averaged heating.
 - The same paper links this weakening tendency to transient growth of asymmetries and downgradient momentum transport across symmetric radial/vertical shear, followed by incomplete energy recovery during axisymmetrization.
 
