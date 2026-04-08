@@ -4,7 +4,6 @@ This page indexes all uniquely identified authors listed in paper-page `# Citati
 
 Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
 
-> Maintenance note: Entries are de-duplicated by matching `Last name + first initial` across citation variants (for example, `Fischer, M. S.` and `Fischer, Michael S.` are merged).
 
 ## A
 
