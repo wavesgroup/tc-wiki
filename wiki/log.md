@@ -290,3 +290,31 @@ Pages updated:
 Notes:
 - Several legacy AMS full texts were inaccessible in this environment; some pages are first-pass and anchored to accessible metadata plus citation-network context pending full text extraction upgrades.
 
+## [2026-04-08] maintain | authors-index-bootstrap
+
+Added a new top-level authors index page and populated it by scanning all current paper pages in `wiki/papers`.
+
+Pages added:
+- [wiki/authors.md](authors.md)
+
+Pages updated:
+- [wiki/index.md](index.md)
+- [.agents/skills/tc-wiki/SKILL.md](../.agents/skills/tc-wiki/SKILL.md)
+
+Notes:
+- `authors.md` is alphabetized and includes an A-Z jump list plus per-author links to all co-authored wiki paper pages.
+- Paper link labels in the author index use abbreviated citations with `et al.` for references that list more than two authors.
+- A placeholder entry (`Coauthors, Unspecified`) is used where paper citations currently contain `and coauthors` rather than full author lists.
+
+## [2026-04-08] maintain | authors-index-dedup-and-cleanup
+
+Refined the top-level authors index after review feedback to improve identity quality and remove non-person placeholders.
+
+Pages updated:
+- [wiki/authors.md](authors.md)
+- [.agents/skills/tc-wiki/SKILL.md](../.agents/skills/tc-wiki/SKILL.md)
+
+Notes:
+- Consolidated likely duplicate author variants by matching `Last name + first initial` and merging their paper-link sets (for example, Fischer/Montgomery/Nolan/Smith variants).
+- Removed placeholder/non-person entries derived from `and coauthors`; only meaningful person-author entries are now retained in `authors.md`.
+- Updated the skill instructions to require both placeholder exclusion and an explicit duplicate-check pass for future maintenance.
