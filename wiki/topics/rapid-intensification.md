@@ -2,8 +2,8 @@
 title: "Rapid Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-06"
-source_count: 6
+last_updated: "2026-04-08"
+source_count: 7
 ---
 
 # Definition
@@ -18,6 +18,8 @@ The same paper finds that RI storms have more numerous and more spatially extens
 
 Fischer et al. (2025) also show that vortex structure is not enough by itself: RI is most common when both the storm structure and the large-scale environment are favorable. Their bivariate analysis therefore treats RI as a multiscale alignment problem rather than a one-variable threshold phenomenon.
 [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md) and [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) provide earlier climatological evidence that RI episodes involve anomalously vigorous inner-core convection and are more likely in specific upper-tropospheric trough geometries that reduce effective ventilation. [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) adds a high-resolution ensemble mechanism test showing how shear/ventilation disruptions can delay RI even in initially similar forecasts. [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) then links weak-storm vertical alignment, precipitation symmetry, and future intensification in observations, setting up the multicase RI-focused synthesis in 2025.
+[Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md) adds a sheared-RI numerical-modeling mechanism test in Hurricane Michael: stronger ensemble members achieved earlier tilt reduction and upshear humidification despite similar bulk shear, supporting RI as an alignment and moisture-organization problem rather than a shear-magnitude threshold alone.
+
 
 
 # Evidence By Source
@@ -32,6 +34,8 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 - The same paper finds that RI storms have both more convective bursts and greater fractional eyewall coverage of convective bursts than non-RI storms.
 - Fischer et al. (2025) emphasize that these structure differences are diagnosed after controlling for current storm intensity, which is important because stronger storms are already structurally different from weaker storms.
 - The authors further argue that a favorable environment and a favorable vortex structure each provide unique information about future RI likelihood.
+- [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md) show in a sheared Hurricane Michael ensemble that reduced vortex tilt and upshear moistening separate strong RI outcomes from weak outcomes even when large-scale shear is similar.
+
 
 # Open Questions
 
@@ -51,3 +55,5 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 - [A Tale of Two Vortex Evolutions: Using a High-Resolution Ensemble to Assess the Impacts of Ventilation on a Tropical Cyclone Rapid Intensification Event](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
+- [High-Resolution Ensemble HFV3 Forecasts of Hurricane Michael (2018): Rapid Intensification in Shear](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
+- [Tropical Cyclone Numerical Modeling](tropical-cyclone-numerical-modeling.md)

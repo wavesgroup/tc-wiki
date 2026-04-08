@@ -330,3 +330,28 @@ Pages updated:
 Notes:
 - Empty letter sections are now left intentionally blank.
 - Skill instructions now explicitly require blank empty-letter sections for future `authors.md` maintenance passes.
+
+## [2026-04-08] ingest | hazelton-fv3-hafs-numerical-modeling-chain-2018-2021
+
+Ingested three peer-reviewed Andrew-Hazelton-led numerical-modeling papers that form a coherent FV3/HAFS development-to-process chain: Hazelton et al. (2018), Hazelton et al. (2020), and Hazelton et al. (2021).
+
+Selection rationale:
+- The existing wiki had strong theory, process, and observational RI coverage but limited direct evidence from modern FV3/HAFS forecast-system evaluations.
+- These papers provide complementary scales: seasonal verification (2018, 2021) plus high-resolution sheared-RI process diagnosis (2020).
+- The chain materially improves linkage between structural RI theory and operationally relevant model behavior.
+
+Pages added:
+- [wiki/papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md)
+- [wiki/papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
+- [wiki/papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- [wiki/topics/tropical-cyclone-numerical-modeling.md](topics/tropical-cyclone-numerical-modeling.md)
+
+Pages updated:
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- Current extraction remains metadata/abstract constrained via NOAA IR records and should be upgraded with direct full-text extraction for equation-level and lead-time-specific verification detail.
+- Added a dedicated numerical-modeling topic page because this evidence branch is now repeatedly cross-linked from RI and intensification syntheses and is likely to grow.
