@@ -75,6 +75,24 @@ Look for:
 - orphan pages with weak linking
 - terminology drift, especially for similar but non-identical metrics
 
+### Maintain `authors.md`
+
+When the repository contains a top-level `authors.md` index:
+
+1. Rebuild it from all current `papers/*.md` pages (not from memory or partial diffs).
+2. Read each paper page's `# Citation` section and extract the listed authors as written.
+3. Format every author as `Last, First` in the index.
+4. Group entries alphabetically by letter with an A-Z jump list at the top.
+   - Keep every A-Z section present; if a letter currently has no authors, leave the section blank (do not add placeholder text such as `No authors indexed.`).
+5. For each author, list links to all wiki paper pages they co-authored.
+6. Use abbreviated paper link labels:
+   - one author: `Surname (Year)`
+   - two authors: `Surname1 and Surname2 (Year)`
+   - more than two authors: `Surname1 et al. (Year)`
+7. Exclude placeholder/non-person tokens (for example, `and coauthors`) from `authors.md`; do not create entries such as `Coauthors, Unspecified`.
+8. Run a duplicate pass before finalizing: detect likely duplicates where `Last name + first initial` match (for example, `Fischer, M. S.` vs `Fischer, Michael S.`), merge them into one canonical entry, and combine all paper links under that entry.
+9. After updating `authors.md`, add or refresh its link from the top-level `index.md` page.
+
 ## Writing Rules
 
 - Separate what the paper observed from what the paper inferred.

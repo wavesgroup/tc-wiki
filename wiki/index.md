@@ -61,3 +61,7 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 ## Syntheses
 
 - [Tropical Cyclone Fluid Dynamics](syntheses/tropical-cyclone-fluid-dynamics.md): High-level map of what the wiki currently says and what evidence is still missing.
+
+## Indexes
+
+- [Authors Index](authors.md): Alphabetical index of authors featured in the paper pages, with links to co-authored wiki papers.
