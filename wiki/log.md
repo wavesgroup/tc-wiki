@@ -221,3 +221,29 @@ Notes:
 - Part II ingest uses a publicly accessible full-text PDF; Part I ingest is currently constrained by abstract-level accessible metadata and is labeled accordingly.
 - Together these papers strengthen the wiki's bridge between asymmetric perturbation evolution and symmetric mean-vortex adjustment in idealized intensification frameworks.
 
+
+
+## [2026-04-08] ingest | potential-intensity-foundation-and-testing-chain-1986-2011
+
+Analyzed the highest-priority un-ingested references and ingested the next five papers as a coherent potential-intensity (PI) chain: Emanuel (1986), Emanuel (1988), Bryan and Rotunno (2009a), Bryan and Rotunno (2009b), and Emanuel and Rotunno (2011).
+
+Selection rationale:
+- These five papers were already flagged in the curated `Referenced Papers` queue of [wiki/papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md).
+- They close the largest single structural evidence gap in the wiki: primary-study support for the PI framework that is repeatedly invoked in topic and synthesis pages.
+- Together they provide a full chain from foundational theory to numerical testing and outflow-structure revision, allowing more precise attribution of PI claims and caveats.
+
+Pages added:
+- [wiki/papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md](papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md)
+- [wiki/papers/emanuel-1988-maximum-intensity-of-hurricanes.md](papers/emanuel-1988-maximum-intensity-of-hurricanes.md)
+- [wiki/papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md](papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md)
+- [wiki/papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md](papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md)
+- [wiki/papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md](papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md)
+
+Pages updated:
+- [wiki/papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md)
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- Current extraction remains metadata/review-constrained because full-text retrieval is limited in this environment; each new page is labeled as a first pass and should be upgraded with direct equation-level extraction from the full papers.

@@ -2,8 +2,8 @@
 title: "Potential Intensity"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-07"
-source_count: 8
+last_updated: "2026-04-08"
+source_count: 13
 ---
 
 # Definition
@@ -22,6 +22,9 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 
 [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md) add a structural caveat from the outflow side. In their simulations, the outflow layer between roughly 100 and 300 km radius is not fed mainly by an isolated eyewall exhaust: rainbands supply a large share of the dry-air mass flux and an even larger share of condensate, while convective and mesoscale ascent repeatedly disrupt the layer. The paper therefore argues that PI interpretations relying on a smooth, self-contained outflow layer or internally set outflow temperature should be treated cautiously.
 
+
+Direct primary support for the canonical PI chain now exists in the wiki through [Emanuel (1986)](../papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md), [Emanuel (1988)](../papers/emanuel-1988-maximum-intensity-of-hurricanes.md), [Bryan and Rotunno (2009a)](../papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md), [Bryan and Rotunno (2009b)](../papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md), and [Emanuel and Rotunno (2011)](../papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md). Together these papers map a progression from original heat-engine maintenance arguments to environment-based maximum-intensity estimates, then to numerical tests and outflow-stratification revisions.
+
 A complementary caveat comes from the high-wind air-sea exchange literature. [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) collectively indicate that momentum drag behavior in severe winds is not a simple monotonic function of wind speed. Because PI frameworks depend on exchange-coefficient assumptions (directly or indirectly in practical implementations), this chain strengthens the wiki's existing warning that PI skill can be sensitive to uncertain surface-layer physics.
 
 # Evidence By Source
@@ -34,6 +37,12 @@ A complementary caveat comes from the high-wind air-sea exchange literature. [Po
 - Smith and Montgomery (2010) show analytically that a steady continuous boundary-layer model with negligible friction near its top and zero vertical wind gradients there cannot directly determine the flow above it when that flow departs from gradient balance.
 - Inference for this wiki: that result helps explain why PI theories tied to steady boundary-layer control can miss supergradient amplification and other unbalanced inner-core dynamics.
 - [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) explicitly question a previous explanation of 3-D versus axisymmetric intensity differences based mainly on Emanuel-style PI arguments, arguing that it neglects known PI weaknesses, unbalanced boundary-layer dynamics, and differences in convective organization.
+
+- [Emanuel (1986)](../papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md) provides the original steady-state air-sea interaction maintenance framework that underpins later PI formulations.
+- [Emanuel (1988)](../papers/emanuel-1988-maximum-intensity-of-hurricanes.md) extends that framework into an explicit maximum-intensity estimate linked to environmental thermodynamic state.
+- [Bryan and Rotunno (2009a)](../papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md) evaluate analytical PI-style model behavior against controlled simulations, highlighting assumption sensitivity.
+- [Bryan and Rotunno (2009b)](../papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md) provide axisymmetric simulation-based maximum-intensity constraints that complement the analytical tests.
+- [Emanuel and Rotunno (2011)](../papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md) revise outflow treatment by proposing internally constrained outflow stratification.
 - [Nolan et al. (2025)](../papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md) find that rainbands contribute roughly one-third to two-thirds of the outflow dry-air mass flux and most of the condensate in the cirrus shield in their two mature-hurricane simulations.
 - The same paper argues that such repeated rainband and mesoscale injections are difficult to reconcile with PI interpretations that assume outflow temperature or self-stratification is set within a largely self-contained outflow layer.
 - [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md) report reduced effective drag at very high tropical-cyclone wind speeds relative to simple extrapolation from moderate winds.
