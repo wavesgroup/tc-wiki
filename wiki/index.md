@@ -1,6 +1,6 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus thirty-three primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), a five-paper potential-intensity theory-and-testing chain (1986-2011), and a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021), plus a five-paper cold-wake air-sea coupling chain (1981-2003). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus thirty-six primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), a five-paper potential-intensity theory-and-testing chain (1986-2011), and a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021), plus a five-paper cold-wake air-sea coupling chain (1981-2003). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
@@ -28,6 +28,10 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md): Primary observational study linking weak-storm vortex alignment, precipitation organization, and future intensity change.
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md): Primary multicase observational study linking rapid intensification to tall, narrow, aligned vortices, deeper overturning circulation, and larger convective-burst coverage.
 
+- [2017 Atlantic Hurricane Forecasts from a High-Resolution Version of the GFDL fvGFS Model: Evaluation of Track, Intensity, and Structure](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md): Primary seasonal hindcast-evaluation paper establishing early FV3 high-resolution hurricane forecast skill and key error modes.
+- [High-Resolution Ensemble HFV3 Forecasts of Hurricane Michael (2018): Rapid Intensification in Shear](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md): Primary high-resolution ensemble process paper linking sheared RI to tilt reduction, upshear humidification, and favorable early-core evolution.
+- [2019 Atlantic Hurricane Forecasts from the Global-Nested Hurricane Analysis and Forecast System: Composite Statistics and Key Events](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md): Primary seasonal verification paper for an early global-nested HAFS prototype across Atlantic storms.
+
 - [Upper Ocean Response to a Hurricane](papers/price-1981-upper-ocean-response-to-a-hurricane.md): Primary upper-ocean process paper establishing hurricane-induced cold-wake mechanisms and storm-relative asymmetry in cooling.
 - [The Ocean's Effect on the Intensity of Tropical Cyclones: Results from a Simple Coupled Atmosphere-Ocean Model](papers/schade-emanuel-1999-oceans-effect-on-intensity.md): Primary coupled-model study showing intensity damping from storm-induced SST cooling.
 - [Real-Case Simulations of Hurricane-Ocean Interaction Using a High-Resolution Coupled Model: Effects on Hurricane Intensity](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md): Primary real-case coupled forecast study showing improved intensity realism from explicit ocean coupling.
@@ -52,6 +56,7 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md): Early page on inner-core and outer-wind expansion as discussed in the review.
 - [Steady-State Tropical Cyclones](topics/steady-state-tropical-cyclones.md): Why the existence of a realistic globally steady hurricane remains contested.
 - [Air-Sea Interaction](topics/air-sea-interaction.md): Two-way coupling synthesis linking cold-wake feedback and high-wind flux parameterization constraints.
+- [Tropical Cyclone Numerical Modeling](topics/tropical-cyclone-numerical-modeling.md): New synthesis page tracing Andrew-Hazelton-led FV3/HAFS forecast-system and process-diagnostics evidence.
 
 ## Methods
 

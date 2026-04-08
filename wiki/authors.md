@@ -9,7 +9,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## B
 
-- **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md)
+- **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md); [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Brown, O. B.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Bryan, George H.**: [Bryan and Rotunno (2009a)](papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md); [Bryan and Rotunno (2009b)](papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md)
 
@@ -46,6 +46,8 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## H
 
+- **Harris, Lucas**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Hazelton, Andrew T.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Haus, B. K.**: [Curcic and Haus (2020)](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md); [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Holthuijsen, L. H.**: [Holthuijsen et al. (2012)](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
 - **Houston, S. H.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
@@ -60,9 +62,15 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## L
 
+- **Lin, Shian-Jiann**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Liu, Bin**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+
 ## M
 
-- **Marks Jr., F. D.**: [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
+- **Marchok, Timothy**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Mehra, Avichal**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Morin, Matthew**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Marks Jr., F. D.**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md); [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
 - **McWilliams, J. C.**: [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md)
 - **Montgomery, M. T.**: [Montgomery and Smith (2017)](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md); [Nolan and Montgomery (2002)](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md); [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md); [Smith and Montgomery (2010)](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md)
 - **Moon, Yumin**: [Nolan et al. (2007)](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
@@ -88,6 +96,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## R
 
+- **Ramstrom, William**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
 - **Reasor, P. D.**: [Fischer et al. (2022)](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md); [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
 - **Reinhold, T. A.**: [Powell et al. (2003)](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
 - **Reul, N.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
@@ -130,4 +139,5 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## Z
 
-- **Zhang, J. A.**: [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
+- **Zhang, Xuejin**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Zhang, J. A.**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md); [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md)
