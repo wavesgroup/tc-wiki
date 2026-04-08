@@ -201,3 +201,23 @@ Pages updated:
 Notes:
 - This ingest adds a direct observational anchor for the wiki's boundary-layer depth discussion and supports separating dynamical inflow depth from thermodynamic mixed-layer depth.
 - Full-text access to the AMS article remains a high-priority follow-up; current extraction is constrained to accessible metadata/abstract-level sources and is labeled accordingly.
+
+## [2026-04-07] ingest | nolan-nonhydrostatic-perturbation-companion-2002-2003
+
+Ingested two peer-reviewed companion papers on nonhydrostatic perturbation dynamics in balanced hurricane-like vortices: Nolan and Montgomery (2002, Part I) and Nolan and Grasso (2003, Part II).
+
+Pages added:
+- [wiki/papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md)
+- [wiki/papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md](papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/methods/prototype-intensification-problem.md](methods/prototype-intensification-problem.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- Part II ingest uses a publicly accessible full-text PDF; Part I ingest is currently constrained by abstract-level accessible metadata and is labeled accordingly.
+- Together these papers strengthen the wiki's bridge between asymmetric perturbation evolution and symmetric mean-vortex adjustment in idealized intensification frameworks.
+
