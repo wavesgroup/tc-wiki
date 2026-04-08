@@ -265,3 +265,28 @@ Pages updated:
 Notes:
 - This ingest expands the air-sea coupling branch beyond drag coefficients by adding directional-wave-spectrum structure constraints, including explicit open-ocean/landfall asymmetry context and a modern operational sampling pathway.
 - Full-text access for the 2001 and 2002 AMS papers remains constrained in this environment; both pages are labeled as first-pass citation-network ingests and should be upgraded with direct text extraction.
+
+## [2026-04-08] ingest | cold-ocean-wake-impacts-top5-and-air-sea-interaction-topic
+
+Ingested five high-impact peer-reviewed papers on cold-ocean-wake impacts on tropical cyclones: Price (1981), Schade and Emanuel (1999), Bender and Ginis (2000), Chan et al. (2001), and Cione and Uhlhorn (2003).
+
+Selection rationale:
+- Chosen as a compact mechanism-to-application chain spanning upper-ocean process foundations, simple coupled theory, real-case coupled forecasting, reduced-order coupling portability, and direct SST-variability observations.
+- Together they directly address storm-induced cooling and subsequent intensity feedback, matching the requested cold-wake focus.
+
+Pages added:
+- [wiki/papers/price-1981-upper-ocean-response-to-a-hurricane.md](papers/price-1981-upper-ocean-response-to-a-hurricane.md)
+- [wiki/papers/schade-emanuel-1999-oceans-effect-on-intensity.md](papers/schade-emanuel-1999-oceans-effect-on-intensity.md)
+- [wiki/papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md)
+- [wiki/papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
+- [wiki/papers/cione-uhlhorn-2003-sst-variability-hurricanes.md](papers/cione-uhlhorn-2003-sst-variability-hurricanes.md)
+- [wiki/topics/air-sea-interaction.md](topics/air-sea-interaction.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- Several legacy AMS full texts were inaccessible in this environment; some pages are first-pass and anchored to accessible metadata plus citation-network context pending full text extraction upgrades.
+

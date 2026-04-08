@@ -1,6 +1,6 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus twenty-eight primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), a five-paper potential-intensity theory-and-testing chain (1986-2011), and a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus thirty-three primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), a five-paper potential-intensity theory-and-testing chain (1986-2011), and a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021), plus a five-paper cold-wake air-sea coupling chain (1981-2003). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
@@ -28,6 +28,11 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md): Primary observational study linking weak-storm vortex alignment, precipitation organization, and future intensity change.
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md): Primary multicase observational study linking rapid intensification to tall, narrow, aligned vortices, deeper overturning circulation, and larger convective-burst coverage.
 
+- [Upper Ocean Response to a Hurricane](papers/price-1981-upper-ocean-response-to-a-hurricane.md): Primary upper-ocean process paper establishing hurricane-induced cold-wake mechanisms and storm-relative asymmetry in cooling.
+- [The Ocean's Effect on the Intensity of Tropical Cyclones: Results from a Simple Coupled Atmosphere-Ocean Model](papers/schade-emanuel-1999-oceans-effect-on-intensity.md): Primary coupled-model study showing intensity damping from storm-induced SST cooling.
+- [Real-Case Simulations of Hurricane-Ocean Interaction Using a High-Resolution Coupled Model: Effects on Hurricane Intensity](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md): Primary real-case coupled forecast study showing improved intensity realism from explicit ocean coupling.
+- [Tropical Cyclone Intensity Change from a Simple Ocean-Atmosphere Coupled Model](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md): Primary reduced-order coupled study supporting first-order cold-wake intensity feedback behavior.
+- [Sea Surface Temperature Variability in Hurricanes: Implications with Respect to Intensity Change](papers/cione-uhlhorn-2003-sst-variability-hurricanes.md): Primary observational study linking storm-relative SST variability to intensity-change interpretation.
 - [Reduced Drag Coefficient for High Wind Speeds in Tropical Cyclones](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md): Primary observational paper reporting reduced effective momentum drag behavior at extreme hurricane winds.
 - [On the Limiting Aerodynamic Roughness of the Ocean in Very Strong Winds](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md): Primary high-wind air-sea study reporting limiting roughness behavior and drag saturation context.
 - [Wind and Waves in Extreme Hurricanes](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md): Primary hurricane wind-wave paper linking extreme sea states to high-wind momentum exchange interpretation.
@@ -46,6 +51,7 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [Tropical Cyclone Outflow](topics/tropical-cyclone-outflow.md): How upper-level outflow and cirrus-shield structure are supplied by both eyewall and rainband convection, and why that matters for interpretation.
 - [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md): Early page on inner-core and outer-wind expansion as discussed in the review.
 - [Steady-State Tropical Cyclones](topics/steady-state-tropical-cyclones.md): Why the existence of a realistic globally steady hurricane remains contested.
+- [Air-Sea Interaction](topics/air-sea-interaction.md): Two-way coupling synthesis linking cold-wake feedback and high-wind flux parameterization constraints.
 
 ## Methods
 
