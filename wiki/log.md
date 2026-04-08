@@ -318,3 +318,15 @@ Notes:
 - Consolidated likely duplicate author variants by matching `Last name + first initial` and merging their paper-link sets (for example, Fischer/Montgomery/Nolan/Smith variants).
 - Removed placeholder/non-person entries derived from `and coauthors`; only meaningful person-author entries are now retained in `authors.md`.
 - Updated the skill instructions to require both placeholder exclusion and an explicit duplicate-check pass for future maintenance.
+
+## [2026-04-08] maintain | authors-index-empty-letter-formatting
+
+Adjusted empty A-Z sections in `authors.md` to be blank (no `No authors indexed.` placeholder text), per style feedback.
+
+Pages updated:
+- [wiki/authors.md](authors.md)
+- [.agents/skills/tc-wiki/SKILL.md](../.agents/skills/tc-wiki/SKILL.md)
+
+Notes:
+- Empty letter sections are now left intentionally blank.
+- Skill instructions now explicitly require blank empty-letter sections for future `authors.md` maintenance passes.

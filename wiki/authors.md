@@ -8,8 +8,6 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## A
 
-_No authors indexed._
-
 ## B
 
 - **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md)
@@ -55,19 +53,13 @@ _No authors indexed._
 
 ## I
 
-_No authors indexed._
-
 ## J
-
-_No authors indexed._
 
 ## K
 
 - **Krabill, W. B.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 
 ## L
-
-_No authors indexed._
 
 ## M
 
@@ -94,8 +86,6 @@ _No authors indexed._
 - **Price, James F.**: [Price (1981)](papers/price-1981-upper-ocean-response-to-a-hurricane.md)
 
 ## Q
-
-_No authors indexed._
 
 ## R
 
@@ -137,11 +127,7 @@ _No authors indexed._
 
 ## X
 
-_No authors indexed._
-
 ## Y
-
-_No authors indexed._
 
 ## Z
 

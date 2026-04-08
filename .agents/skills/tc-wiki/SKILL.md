@@ -83,6 +83,7 @@ When the repository contains a top-level `authors.md` index:
 2. Read each paper page's `# Citation` section and extract the listed authors as written.
 3. Format every author as `Last, First` in the index.
 4. Group entries alphabetically by letter with an A-Z jump list at the top.
+   - Keep every A-Z section present; if a letter currently has no authors, leave the section blank (do not add placeholder text such as `No authors indexed.`).
 5. For each author, list links to all wiki paper pages they co-authored.
 6. Use abbreviated paper link labels:
    - one author: `Surname (Year)`
