@@ -247,3 +247,21 @@ Pages updated:
 
 Notes:
 - Current extraction remains metadata/review-constrained because full-text retrieval is limited in this environment; each new page is labeled as a first pass and should be upgraded with direct equation-level extraction from the full papers.
+
+## [2026-04-08] ingest | hurricane-directional-wave-spectrum-chain-2001-2021
+
+Ingested three peer-reviewed primary papers on hurricane directional wave-spectrum structure across open-ocean, landfall, and modern operational airborne mapping contexts: Wright et al. (2001), Walsh et al. (2002), and Walsh et al. (2021).
+
+Pages added:
+- [wiki/papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md](papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md)
+- [wiki/papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
+- [wiki/papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+
+Notes:
+- This ingest expands the air-sea coupling branch beyond drag coefficients by adding directional-wave-spectrum structure constraints, including explicit open-ocean/landfall asymmetry context and a modern operational sampling pathway.
+- Full-text access for the 2001 and 2002 AMS papers remains constrained in this environment; both pages are labeled as first-pass citation-network ingests and should be upgraded with direct text extraction.

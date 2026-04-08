@@ -1,6 +1,6 @@
 # Tropical Cyclone Research Wiki
 
-Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus twenty-five primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), and a five-paper potential-intensity theory-and-testing chain (1986-2011). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
+Initialized on 2026-04-05 and currently seeded by one peer-reviewed review article plus twenty-eight primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a four-paper high-wind air-sea drag chain (2003-2020), a five-paper potential-intensity theory-and-testing chain (1986-2011), and a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
 ## Papers
 
@@ -32,6 +32,9 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 - [On the Limiting Aerodynamic Roughness of the Ocean in Very Strong Winds](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md): Primary high-wind air-sea study reporting limiting roughness behavior and drag saturation context.
 - [Wind and Waves in Extreme Hurricanes](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md): Primary hurricane wind-wave paper linking extreme sea states to high-wind momentum exchange interpretation.
 - [Revised Estimates of Ocean Surface Drag in Strong Winds](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md): Primary correction/reanalysis paper revising strong-wind drag estimates and saturation threshold.
+- [Hurricane Directional Wave Spectrum Spatial Variation in the Open Ocean](papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md): Primary airborne observational study documenting storm-relative directional wave-spectrum variability over open ocean.
+- [Hurricane Directional Wave Spectrum Spatial Variation at Landfall](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md): Primary airborne observational study extending directional wave-spectrum structure analyses into landfall/coastal context.
+- [In the Eye of the Storm](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md): Primary instrumentation-and-case paper demonstrating near-real-time high-density directional wave-spectrum mapping in hurricanes with NOAA WSRA.
 
 ## Topics
 
