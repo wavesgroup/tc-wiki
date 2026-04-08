@@ -2,8 +2,8 @@
 title: "Recent Developments in the Fluid Dynamics of Tropical Cyclones"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-06"
-source_count: 1
+last_updated: "2026-04-08"
+source_count: 6
 ---
 
 # Citation
@@ -48,12 +48,12 @@ Montgomery and Smith (2017) review how fluid dynamics and moist thermodynamics g
 
 This is a curated ingest queue, not a dump of the full bibliography. It lists the cited papers that are currently most useful for expanding the existing wiki pages. As these papers are ingested, replace the plain citations below with direct links to their wiki paper pages.
 
-- `Potential intensity foundation:` Emanuel, K. A., 1986: *An air-sea interaction theory for tropical cyclones. Part I: steady state maintenance*. *Journal of the Atmospheric Sciences*, 43, 585-604.
-- `Potential intensity limit:` Emanuel, K. A., 1988: *The maximum intensity of hurricanes*. *Journal of the Atmospheric Sciences*, 45, 1143-1155.
+- `Potential intensity foundation:` [Emanuel (1986): *An Air-Sea Interaction Theory for Tropical Cyclones. Part I: Steady-State Maintenance*](emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md).
+- `Potential intensity limit:` [Emanuel (1988): *The Maximum Intensity of Hurricanes*](emanuel-1988-maximum-intensity-of-hurricanes.md).
 - `Potential intensity critique:` Smith, R. K., M. T. Montgomery, and S. Vogl, 2008: *A critique of Emanuel's hurricane model and potential intensity theory*. *Quarterly Journal of the Royal Meteorological Society*, 134, 551-561.
-- `Revised PI testing:` Bryan, G. H., and R. Rotunno, 2009a: *Evaluation of an analytical model for the maximum intensity of tropical cyclones*. *Journal of the Atmospheric Sciences*, 66, 3042-3060.
-- `Axisymmetric PI behavior:` Bryan, G. H., and R. Rotunno, 2009b: *The maximum intensity of tropical cyclones in axisymmetric numerical model simulations*. *Monthly Weather Review*, 137, 1770-1789.
-- `Revised PI theory:` Emanuel, K. A., and R. Rotunno, 2011: *Self-stratification of tropical cyclone outflow. Part I: implications for storm structure*. *Journal of the Atmospheric Sciences*, 68, 2236-2249.
+- `Revised PI testing:` [Bryan and Rotunno (2009a): *Evaluation of an Analytical Model for the Maximum Intensity of Tropical Cyclones*](bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md).
+- `Axisymmetric PI behavior:` [Bryan and Rotunno (2009b): *The Maximum Intensity of Tropical Cyclones in Axisymmetric Numerical Model Simulations*](bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md).
+- `Revised PI theory:` [Emanuel and Rotunno (2011): *Self-Stratification of Tropical Cyclone Outflow. Part I: Implications for Storm Structure*](emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md).
 - `Boundary-layer theory:` [Smith and Montgomery (2010): *Hurricane boundary-layer theory*](smith-montgomery-2010-hurricane-boundary-layer-theory.md). Primary theoretical paper on dynamical boundary-layer definition, steady versus unsteady boundary-layer influence, and upper-boundary-condition limits.
 - `Boundary-layer parameterization:` Smith, R. K., and G. L. Thomsen, 2010: *Dependence of tropical-cyclone intensification on the boundary layer representation in a numerical model*. *Quarterly Journal of the Royal Meteorological Society*, 136, 1671-1685.
 - `Spin-up mechanism:` Smith, R. K., M. T. Montgomery, and S. V. Nguyen, 2009: *Tropical cyclone spin up revisited*. *Quarterly Journal of the Royal Meteorological Society*, 135, 1321-1335.
