@@ -11,9 +11,18 @@ Basin jump: [North Atlantic](#north-atlantic)
 - **Katrina**: Comparison case in RAINEX used to contrast Rita's outer-core evolution and show that outward-propagating vortex Rossby waves alone did not produce a comparable secondary eyewall. [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Secondary Eyewall Formation](topics/secondary-eyewall-formation.md)
 - **Rita**: Primary secondary-eyewall formation case showing rainband PV accumulation, moat development, and outer-core reorganization during mature intensity change. [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Secondary Eyewall Formation](topics/secondary-eyewall-formation.md); [Tropical Cyclone Intensification](topics/tropical-cyclone-intensification.md); [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md); [Tropical Cyclone Fluid Dynamics](syntheses/tropical-cyclone-fluid-dynamics.md)
 
+### 2008
+
+- **Ike**: Gulf landfall wave case used to show shallow-water spectral broadening, strong wind-wave misalignment, and wave-coupled stress changes near the Texas coast. [Chen and Curcic (2016)](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md); [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md)
+
 ### 2010
 
-- **Earl**: Single-storm predictability and RI-timing case used to separate fast convective error growth from longer-lived mean-vortex predictability. [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Rapid Intensification](topics/rapid-intensification.md); [Tropical Cyclone Predictability](topics/tropical-cyclone-predictability.md); [Tropical Cyclone Numerical Modeling](topics/tropical-cyclone-numerical-modeling.md)
+- **Earl**: Single-storm coupled predictability and RI-timing case used to separate fast convective error growth, internal-vortex uncertainty, and stochastic environmental forcing. [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md); [Rapid Intensification](topics/rapid-intensification.md); [Tropical Cyclone Predictability](topics/tropical-cyclone-predictability.md); [Tropical Cyclone Numerical Modeling](topics/tropical-cyclone-numerical-modeling.md)
+
+### 2012
+
+- **Isaac**: Large slow-moving Gulf case used to diagnose hurricane Stokes-drift transport effects and the sensitivity of storm-surge forecasts to atmospheric forcing choice. [Curcic et al. (2016)](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md); [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md); [Air-Sea Interaction](topics/air-sea-interaction.md); [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md)
+- **Sandy**: Landfall wave-structure case used to compare coupled wave predictions and show strong nearshore spectral broadening and wind-wave misalignment along the northeastern U.S. coast. [Chen and Curcic (2016)](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md); [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md)
 
 ### 2014
 
@@ -22,6 +31,7 @@ Basin jump: [North Atlantic](#north-atlantic)
 ### 2017
 
 - **Harvey**: Targeted 2017 Atlantic forecast case used in FV3/HifvGFS event-level diagnostics. [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md)
+- **Irma**: Florida Reef Tract transport case showing that wave radiation stress and especially Stokes drift can strongly redirect drifting material during a major hurricane. [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md); [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md)
 - **Maria**: 2017 Atlantic recurvature case used to diagnose positive intensity bias and the likely value of ocean coupling in FV3/HifvGFS. [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md)
 
 ### 2018

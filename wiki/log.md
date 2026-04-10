@@ -401,3 +401,33 @@ Pages updated:
 Notes:
 - The current explicit named-case set is entirely North Atlantic: Katrina and Rita (2005), Earl (2010), Gonzalo (2014), Harvey and Maria (2017), Michael (2018), and Laura (2020).
 - The new index excludes unnamed composites, generic basin samples, and synthetic/nature-run-only examples so future maintenance stays tied to specific historic cases actually discussed in the wiki text.
+
+## [2026-04-10] ingest | curcic-wave-coupling-chain-2016-2022
+
+Ingested five peer-reviewed papers that form a coherent Milan-Curcic-linked wave-coupled transport/surge/predictability chain: Curcic et al. (2016), Chen and Curcic (2016), Dietrich et al. (2018), Li et al. (2019), and Dobbelaere et al. (2022).
+
+Selection rationale:
+- The existing wiki already had cold-wake coupling, strong-wind drag, and hurricane wave-observation branches, but it lacked a dedicated synthesis of wave-current-surge coupling and coupled-model uncertainty.
+- These papers connect open-ocean wave prediction, Stokes-drift transport, surge sensitivity to atmospheric forcing, coupled uncertainty propagation, and reef-scale coastal transport in one reusable evidence branch.
+- The chain materially strengthens the hazard-facing air-sea interaction side of the wiki without duplicating the existing RI-theory and FV3/HAFS ingest lines.
+
+Pages added:
+- [wiki/papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md)
+- [wiki/papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md)
+- [wiki/papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
+- [wiki/papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
+- [wiki/papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
+- [wiki/topics/tropical-cyclone-wave-coupling.md](topics/tropical-cyclone-wave-coupling.md)
+
+Pages updated:
+- [wiki/topics/air-sea-interaction.md](topics/air-sea-interaction.md)
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/topics/tropical-cyclone-numerical-modeling.md](topics/tropical-cyclone-numerical-modeling.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+- [wiki/tc-cases.md](tc-cases.md)
+- [wiki/authors.md](authors.md)
+
+Notes:
+- This ingest is unusually strong on accessible full text: the 2016, 2018, 2019, and 2022 pages were built from author-hosted or NOAA archived PDFs rather than abstract-only records.
+- The new wave-coupling branch is still weighted toward model-based case studies plus one rich drifter event, so direct observational closure of coastal wave-current-surge feedbacks remains a clear next-step gap.

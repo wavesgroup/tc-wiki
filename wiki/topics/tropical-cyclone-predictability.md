@@ -3,7 +3,7 @@ title: "Tropical Cyclone Predictability"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-10"
-source_count: 6
+source_count: 7
 ---
 
 # Definition
@@ -16,6 +16,8 @@ The wiki now has a first dedicated predictability branch anchored by two Judt-le
 
 [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) then narrow the problem to rapid intensification (RI). In their Earl ensembles, most members eventually undergo RI and become major hurricanes, yet the onset timing remains weakly predictable and partly stochastic. This separates the predictability of *whether* RI happens from the predictability of *when* it begins.
 
+[Li et al. (2019)](../papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md) add a second Earl branch inside a fully coupled atmosphere-wave-ocean framework. Rather than using only stochastic perturbations, they parameterize uncertainty in initial vortex strength, size, and asymmetry, then show that RI sensitivity is tied most strongly to azimuthally averaged maximum wind speed and asymmetry orientation within the tested range. When SKEBS forcing is added, however, track spread responds much more strongly than it did to internal-vortex perturbations alone. This sharpens the wiki's current distinction between internal-vortex uncertainty, RI-pathway uncertainty, and environment-driven track uncertainty.
+
 [Hazelton et al. (2018)](../papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md), [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md), and [Hazelton et al. (2021)](../papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md) add an operational-modeling branch showing that even advanced FV3/HAFS-class systems still concentrate large errors in RI timing, storm structure, and transition regimes. [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) provide one explanation for why those failures are hard to eliminate: RI itself can occur through structurally different modes, including a low-shear symmetric "marathon" mode and a burst-driven, center-reforming "sprint" mode under less favorable environments.
 
 Inference for this wiki: tropical-cyclone predictability should be treated as scale dependent and regime dependent. Large-scale flow places longer-lived bounds on vortex evolution, but internal convective reorganization and structural mode transitions strongly limit practical predictability of RI onset and short-term intensity change.
@@ -26,6 +28,8 @@ Inference for this wiki: tropical-cyclone predictability should be treated as sc
 - The same paper finds that the azimuthal-mean vortex and wave number-1 asymmetry remain predictable for at least 7 days in Hurricane Earl, with uncertainty strongly tied to large-scale environmental and boundary-condition perturbations.
 - [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) show that RI likelihood can be comparatively predictable even when exact RI timing is not.
 - The same paper identifies early- and late-RI pathways, implying that timing uncertainty is partly tied to different structural routes to maturity.
+- [Li et al. (2019)](../papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md) show that RI in Earl was more sensitive to initial mean-vortex strength and asymmetry orientation than to storm size or asymmetry magnitude within their tested uncertainty range.
+- The same paper shows that stochastic environmental forcing widened the track envelope much more than internal-vortex perturbations alone, even when both produced substantial intensity spread.
 - [Hazelton et al. (2018)](../papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md) show that an early high-resolution FV3 system produced useful track guidance while still missing selected RI episodes badly.
 - [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md) show that member-to-member RI outcomes in Hurricane Michael depend strongly on tilt reduction and upshear moistening even when bulk shear is similar.
 - [Hazelton et al. (2021)](../papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md) provide system-scale evidence that RI and transition regimes remain concentrated forecast-failure modes in a prototype HAFS configuration.
@@ -46,5 +50,6 @@ Inference for this wiki: tropical-cyclone predictability should be treated as sc
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)
 - [Predictability of Tropical Cyclone Intensity: Scale-Dependent Forecast Error Growth in High-Resolution Stochastic Kinetic-Energy Backscatter Ensembles](../papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
 - [Predictability and Dynamics of Tropical Cyclone Rapid Intensification Deduced from High-Resolution Stochastic Ensembles](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md)
+- [Uncertainty Propagation in Coupled Atmosphere-Wave-Ocean Prediction System: A Study of Hurricane Earl (2010)](../papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - [Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
 - [High-Resolution Ensemble HFV3 Forecasts of Hurricane Michael (2018): Rapid Intensification in Shear](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)

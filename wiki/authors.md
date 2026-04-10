@@ -6,6 +6,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## A
 
+
 ## B
 
 - **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md); [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
@@ -16,14 +17,17 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## C
 
 - **Chan, Johnny C. L.**: [Chan et al. (2001)](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
-- **Chen, S. S.**: [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
+- **Chen, Shuyi S.**: [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Chen and Curcic (2016)](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md); [Curcic et al. (2016)](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md); [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md); [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - **Chen, X.**: [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
 - **Cione, John J.**: [Cione and Uhlhorn (2003)](papers/cione-uhlhorn-2003-sst-variability-hurricanes.md)
 - **Corbosiero, K. L.**: [Fischer et al. (2018)](papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md); [Fischer et al. (2019)](papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
-- **Curcic, M.**: [Curcic and Haus (2020)](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
+- **Curcic, Milan**: [Chen and Curcic (2016)](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md); [Curcic et al. (2016)](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md); [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md); [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md); [Curcic and Haus (2020)](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md); [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
 
 ## D
 
+- **Dawson, C. N.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
+- **Dietrich, J. C.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
+- **Dobbelaere, Thomas**: [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
 - **Donelan, M. A.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Duan, Ying**: [Chan et al. (2001)](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
 - **Dunion, J. P.**: [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
@@ -35,6 +39,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## F
 
 - **Fairall, C. W.**: [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
+- **Fathi, A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 - **Fischer, Michael S.**: [Fischer et al. (2018)](papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md); [Fischer et al. (2019)](papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md); [Fischer et al. (2022)](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md); [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md); [Nolan et al. (2025)](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md)
 
 ## G
@@ -48,12 +53,16 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## H
 
+- **Hanert, Emmanuel**: [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
 - **Harris, L.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Haus, B. K.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md); [Curcic and Haus (2020)](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
 - **Hazelton, A. T.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Holthuijsen, L. H.**: [Holthuijsen et al. (2012)](papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
+- **Houston, S. H.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 
 ## I
+
+- **Iskandarani, Mohamed**: [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 
 ## J
 
@@ -61,12 +70,16 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## K
 
+- **Knio, Omar M.**: [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - **Krabill, W. B.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 
 ## L
 
+- **Le Henaff, Matthieu**: [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
+- **Li, Guotu**: [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - **Lin, S.-J.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Liu, B.**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Luettich Jr., R. A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 
 ## M
 
@@ -77,6 +90,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 - **Montgomery, Michael T.**: [Nolan and Montgomery (2002)](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md); [Smith and Montgomery (2010)](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md); [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md); [Montgomery and Smith (2017)](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md)
 - **Moon, Yumin**: [Nolan et al. (2007)](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
 - **Morin, M.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Muhammad, A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 
 ## N
 
@@ -85,6 +99,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## O
 
 - **O'Neill, Morgan E.**: [Nolan et al. (2025)](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md)
+- **Ozgokmen, Tamay M.**: [Curcic et al. (2016)](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md)
 
 ## P
 
@@ -96,6 +111,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 - **Price, James F.**: [Price (1981)](papers/price-1981-upper-ocean-response-to-a-hurricane.md)
 
 ## Q
+
 
 ## R
 
@@ -135,11 +151,13 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## W
 
 - **Walsh, E. J.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md); [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
-- **Wright, C. W.**: [Wright (2001)](papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md); [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
+- **Wright, C. W.**: [Wright et al. (2001)](papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md); [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 
 ## X
 
+
 ## Y
+
 
 ## Z
 
