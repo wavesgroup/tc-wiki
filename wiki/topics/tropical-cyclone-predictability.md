@@ -3,7 +3,7 @@ title: "Tropical Cyclone Predictability"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-10"
-source_count: 7
+source_count: 8
 ---
 
 # Definition
@@ -21,6 +21,8 @@ The wiki now has a first dedicated predictability branch anchored by two Judt-le
 [Hazelton et al. (2018)](../papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md), [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md), and [Hazelton et al. (2021)](../papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md) add an operational-modeling branch showing that even advanced FV3/HAFS-class systems still concentrate large errors in RI timing, storm structure, and transition regimes. [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) provide one explanation for why those failures are hard to eliminate: RI itself can occur through structurally different modes, including a low-shear symmetric "marathon" mode and a burst-driven, center-reforming "sprint" mode under less favorable environments.
 
 Inference for this wiki: tropical-cyclone predictability should be treated as scale dependent and regime dependent. Large-scale flow places longer-lived bounds on vortex evolution, but internal convective reorganization and structural mode transitions strongly limit practical predictability of RI onset and short-term intensity change.
+
+[Aberson (2011)](../papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md) adds an adaptive-observing branch: targeted dropwindsonde assimilation in the GFS produced case-dependent but measurable tropical-cyclone forecast improvements. Inference for this wiki: intrinsic predictability limits and observing-network design must be interpreted together, because targeted sampling can recover skill in some sensitive flow configurations.
 
 # Evidence By Source
 

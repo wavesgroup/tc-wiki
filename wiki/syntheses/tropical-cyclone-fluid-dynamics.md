@@ -20,6 +20,9 @@ Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dyn
 - The review argues that the boundary layer strongly controls eyewall placement and spin-up, including vertical delivery of high tangential momentum into the eyewall updraft.
 - Smith and Montgomery (2010) provide direct primary-study support for a stronger boundary-layer role, while also showing that this role depends on whether the boundary layer is modeled as steady or time dependent.
 - Zhang et al. (2011) add direct dropsonde constraints on hurricane boundary-layer vertical structure, showing that inflow and agradient depth scales are distinct from shallow mixed-layer depth and therefore should not be collapsed to a single thermodynamic layer definition.
+
+- Aberson et al. (2006) and Aberson (2011) add an observing-system/targeted-sampling branch showing how NOAA aircraft and dropwindsondes connect process science to operational forecast impact.
+- Zhang et al. (2023) extend the boundary-layer observational chain by relating mean kinematic boundary-layer structure directly to intensity-change categories.
 - Persing et al. (2013) provide direct idealized 3-D support for the rotating-convection branch of the current synthesis, showing that vortical plumes and counter-gradient eddy momentum fluxes can aid contraction and spin-up of the azimuthal-mean vortex.
 - Nolan and Montgomery (2002) and Nolan and Grasso (2003) add a companion nonhydrostatic perturbation framework showing how asymmetric perturbation evolution and symmetric adjustment can be analyzed consistently in balanced hurricane-like vortices.
 
