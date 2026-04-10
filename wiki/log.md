@@ -355,3 +355,34 @@ Pages updated:
 Notes:
 - Current extraction remains metadata/abstract constrained via NOAA IR records and should be upgraded with direct full-text extraction for equation-level and lead-time-specific verification detail.
 - Added a dedicated numerical-modeling topic page because this evidence branch is now repeatedly cross-linked from RI and intensification syntheses and is likely to grow.
+
+## [2026-04-10] ingest | judt-leading-tc-papers-2010-2023
+
+Ingested four leading first-author Falko Judt tropical-cyclone papers spanning secondary-eyewall formation, intensity predictability, RI timing uncertainty, and RI-mode structure: Judt and Chen (2010), Judt et al. (2016), Judt and Chen (2016), and Judt et al. (2023).
+
+Selection rationale:
+- The existing wiki had strong theory and recent RI-structure coverage, but thinner coverage of intrinsic predictability and concentric-eyewall formation.
+- Judt's first-author TC literature naturally forms a coherent bridge from rainband-PV outer-core reorganization to ensemble predictability and modern convection-permitting RI-mode diagnosis.
+- These papers materially expand both the RI/numerical-modeling branch and the mature-storm outer-core branch without duplicating the existing Fischer or Hazelton chains.
+
+Pages added:
+- [wiki/papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md)
+- [wiki/papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
+- [wiki/papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md)
+- [wiki/papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md](papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/topics/secondary-eyewall-formation.md](topics/secondary-eyewall-formation.md)
+
+Pages updated:
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-numerical-modeling.md](topics/tropical-cyclone-numerical-modeling.md)
+- [wiki/topics/tropical-cyclone-size-growth.md](topics/tropical-cyclone-size-growth.md)
+- [wiki/topics/rotating-convection-paradigm.md](topics/rotating-convection-paradigm.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+- [wiki/authors.md](authors.md)
+
+Notes:
+- The 2010 and 2016 pages are first-pass ingests anchored to official publication-record abstracts; the 2023 RI-mode page is anchored to an author-posted full-paper PDF.
+- This ingest partially closes the wiki's secondary-eyewall and predictability gaps, but concentric-eyewall climatology and observational RI-predictability studies remain thin.

@@ -2,8 +2,8 @@
 title: "Rotating Convection Paradigm"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-07"
-source_count: 6
+last_updated: "2026-04-10"
+source_count: 7
 ---
 
 # Definition
@@ -22,6 +22,8 @@ The review also stresses that the stochastic, asymmetric nature of deep convecti
 
 [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) complement that result with an energy-budget perspective: localized asymmetric heating does not automatically spin up the mean vortex efficiently, because evolving asymmetries can extract kinetic energy from the symmetric circulation during transient growth.
 
+[Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) add a useful real-world modeling extension. Their "sprint" RI mode is explicitly asymmetric: a downshear convective burst spawns a mesovortex and new center, implying that rotating convection can sometimes reorganize the storm through center reformation rather than only by strengthening an already coherent symmetric vortex.
+
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) provide multicase observational support for the convective side of this picture in real storms. Their rapidly intensifying composites show stronger mid-upper-tropospheric ascent and much larger convective-burst coverage in the eyewall than non-RI composites, although the paper does not yet determine whether those bursts initiate RI or intensify within an already favorable vortex.
 
 # Evidence By Source
@@ -36,6 +38,7 @@ The review also stresses that the stochastic, asymmetric nature of deep convecti
 - [Nolan and Grasso (2003)](../papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md) show that asymmetric perturbations can force symmetric tendencies through wave-mean-flow interactions, with net intensity effects smaller than direct symmetric forcing in their tested setups.
 - [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) show that purely asymmetric heating generally yields weak or negative net mean-intensity tendencies in their baseline idealized experiments.
 - The same paper nevertheless identifies parameter regimes where asymmetric forcing can contribute positively, while reaffirming that azimuthal-mean heating remains the dominant pathway for mean-vortex intensification in their framework.
+- [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) show that one RI mode can proceed through an asymmetric convective-burst and mesovortex sequence that reforms the storm center under stronger shear.
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) show that rapidly intensifying storms have a much larger number and fractional eyewall coverage of convective bursts than slowly intensifying or nonintensifying storms.
 - The same paper also finds that RI storms have deeper anomalous ascent in the mid-upper troposphere, which is consistent with rotating-convection arguments that emphasize sustained deep inner-core convection rather than shallow ascent alone.
 
@@ -51,5 +54,6 @@ The review also stresses that the stochastic, asymmetric nature of deep convecti
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
 - [Rapid Intensification](rapid-intensification.md)
 - [Boundary-Layer Control](boundary-layer-control.md)
+- [Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
 - [Prototype Intensification Problem](../methods/prototype-intensification-problem.md)
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)
