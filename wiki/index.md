@@ -76,3 +76,4 @@ Initialized on 2026-04-05 and currently seeded by one peer-reviewed review artic
 ## Indexes
 
 - [Authors Index](authors.md): Alphabetical index of authors featured in the paper pages, with links to co-authored wiki papers.
+- [TC Cases Index](tc-cases.md): Basin-organized index of specific named historical storm cases materially discussed across the wiki.

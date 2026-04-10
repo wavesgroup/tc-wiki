@@ -386,3 +386,18 @@ Pages updated:
 Notes:
 - The 2010 and 2016 pages are first-pass ingests anchored to official publication-record abstracts; the 2023 RI-mode page is anchored to an author-posted full-paper PDF.
 - This ingest partially closes the wiki's secondary-eyewall and predictability gaps, but concentric-eyewall climatology and observational RI-predictability studies remain thin.
+
+## [2026-04-10] maintain | tc-cases-index
+
+Built a new top-level tropical-cyclone case index from the named real storms that are explicitly discussed on current wiki pages.
+
+Pages added:
+- [wiki/tc-cases.md](tc-cases.md)
+
+Pages updated:
+- [wiki/index.md](index.md)
+- [.agents/skills/tc-wiki/SKILL.md](../.agents/skills/tc-wiki/SKILL.md)
+
+Notes:
+- The current explicit named-case set is entirely North Atlantic: Katrina and Rita (2005), Earl (2010), Gonzalo (2014), Harvey and Maria (2017), Michael (2018), and Laura (2020).
+- The new index excludes unnamed composites, generic basin samples, and synthetic/nature-run-only examples so future maintenance stays tied to specific historic cases actually discussed in the wiki text.

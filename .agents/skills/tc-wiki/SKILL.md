@@ -93,6 +93,21 @@ When the repository contains a top-level `authors.md` index:
 8. Run a duplicate pass before finalizing: detect likely duplicates where `Last name + first initial` match (for example, `Fischer, M. S.` vs `Fischer, Michael S.`), merge them into one canonical entry, and combine all paper links under that entry.
 9. After updating `authors.md`, add or refresh its link from the top-level `index.md` page.
 
+### Maintain `tc-cases.md`
+
+When the repository contains a top-level `tc-cases.md` index:
+
+1. Rebuild it from all current wiki pages (not from memory or partial diffs).
+2. Include only specific named historical/real tropical cyclones that are explicitly and materially discussed on current wiki pages.
+3. Exclude idealized vortices, unnamed seasonal samples/composites, nature runs, generic basin summaries, and storms that appear only inside cited-reference titles unless the wiki text itself also discusses them as cases.
+4. Group entries by basin and include a basin jump list at the top.
+5. Order basin sections alphabetically.
+6. Within each basin, create year subsections using storm year (not publication year) in ascending order.
+7. Within each year subsection, sort storm names alphabetically.
+8. Format each case entry as a bold storm name followed by a short one-line synthesis of why the case matters in the wiki, then links to the current wiki pages that materially discuss it.
+9. Use only links to current wiki pages; prefer the underlying paper page plus any topic/synthesis/method pages that explicitly discuss the named storm.
+10. After updating `tc-cases.md`, add or refresh its link from the top-level `index.md` page.
+
 ## Writing Rules
 
 - Separate what the paper observed from what the paper inferred.
