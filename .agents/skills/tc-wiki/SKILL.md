@@ -51,7 +51,12 @@ Default to peer-reviewed sources. If the user wants to include preprints, report
    - when a cited paper later gets its own wiki page, replace the plain citation with a direct wiki link
 5. Update every materially affected topic, storm, dataset, method, and synthesis page.
 6. Update `index.md`.
-7. Append a short chronological entry to `log.md`.
+7. When present, refresh repository-wide indexes such as `authors.md` and `tc-cases.md` so they reflect the current ingest.
+8. If `README.md` includes top-level wiki count links, check and refresh them on every ingestion using current repository totals:
+   - `Papers (x)`: count current `papers/*.md` pages
+   - `Authors (y)`: count current author entries in `authors.md`
+   - `Storms (z)`: count current storm entries in `tc-cases.md`
+9. Append a short chronological entry to `log.md`.
    - Always add new entries at the bottom of the file so `log.md` remains in ascending chronological order (earlier entries first, later entries last).
 
 Do not stop at the paper summary. The point of the wiki is to propagate new evidence into the existing synthesis.
