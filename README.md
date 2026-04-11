@@ -2,7 +2,7 @@
 
 A living wiki of tropical cyclone research.
 
-[Wiki home](wiki/index.md) | [Papers (49)](wiki/index.md#papers) | [Authors (90)](wiki/authors.md) | [Storms (12)](wiki/tc-cases.md)
+[Wiki home](wiki/index.md) | [Papers (54)](wiki/index.md#papers) | [Authors (99)](wiki/authors.md) | [Storms (15)](wiki/tc-cases.md)
 
 Updates are tracked in [wiki/log.md](wiki/log.md).
 

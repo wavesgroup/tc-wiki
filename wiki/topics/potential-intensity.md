@@ -2,8 +2,8 @@
 title: "Potential Intensity"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-08"
-source_count: 13
+last_updated: "2026-04-10"
+source_count: 18
 ---
 
 # Definition
@@ -25,7 +25,9 @@ The paper highlights several issues. Some arguments depend on approximate gradie
 
 Direct primary support for the canonical PI chain now exists in the wiki through [Emanuel (1986)](../papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md), [Emanuel (1988)](../papers/emanuel-1988-maximum-intensity-of-hurricanes.md), [Bryan and Rotunno (2009a)](../papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md), [Bryan and Rotunno (2009b)](../papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md), and [Emanuel and Rotunno (2011)](../papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md). Together these papers map a progression from original heat-engine maintenance arguments to environment-based maximum-intensity estimates, then to numerical tests and outflow-stratification revisions.
 
-A complementary caveat comes from the high-wind air-sea exchange literature. [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) collectively indicate that momentum drag behavior in severe winds is not a simple monotonic function of wind speed. Because PI frameworks depend on exchange-coefficient assumptions (directly or indirectly in practical implementations), this chain strengthens the wiki's existing warning that PI skill can be sensitive to uncertain surface-layer physics.
+A complementary caveat comes from the high-wind air-sea exchange literature. [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) collectively indicate that momentum drag behavior in severe winds is not a simple monotonic function of wind speed.
+
+The new CBLAST papers sharpen that caveat on the enthalpy side. [French et al. (2007)](../papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md) suggest drag roll-off in direct momentum-flux observations, while [Drennan et al. (2007)](../papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md) do not find increasing Dalton number up to 30 m s^-1. [Zhang et al. (2008)](../papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md) report a mean `CK/CD` below earlier theoretical thresholds, [Black et al. (2007)](../papers/black-et-al-2007-air-sea-exchange-cblast.md) synthesize those results as `CE/CD` near 0.7, and [Bell et al. (2012)](../papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md) extend `CK` and `CK/CD` estimates into the 52-72 m s^-1 major-hurricane regime without finding significant `CK/CD` growth. Together these papers strengthen the wiki's existing warning that PI formulations depending on large or rapidly increasing exchange-coefficient ratios are not well supported by current hurricane observations.
 
 # Evidence By Source
 
@@ -47,6 +49,10 @@ A complementary caveat comes from the high-wind air-sea exchange literature. [Po
 - The same paper argues that such repeated rainband and mesoscale injections are difficult to reconcile with PI interpretations that assume outflow temperature or self-stratification is set within a largely self-contained outflow layer.
 - [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md) report reduced effective drag at very high tropical-cyclone wind speeds relative to simple extrapolation from moderate winds.
 - [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md) report a limiting aerodynamic roughness regime in very strong winds, supporting drag saturation behavior.
+- [Drennan et al. (2007)](../papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md) do not find a significant increase in the Dalton number up to 30 m s^-1.
+- [Zhang et al. (2008)](../papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md) report a mean `CK/CD` below earlier threshold estimates and explicitly call for either additional energy sources or theory revision.
+- [Black et al. (2007)](../papers/black-et-al-2007-air-sea-exchange-cblast.md) synthesize the direct CBLAST coefficient results as `CE/CD` near 0.7 and suggest roll-vortex enhancement as one possible missing pathway.
+- [Bell et al. (2012)](../papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md) provide the first known `CK` and `CK/CD` estimates in major hurricanes and do not find significant growth of `CK/CD` above 50 m s^-1.
 - [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md) emphasize explicit wind-wave coupling in extreme hurricanes, implying that fixed exchange curves can miss state dependence.
 - [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) revise strong-wind drag estimates and report saturation near Cd ~2.6 x 10^-3 around U10 ~25 m s^-1 in corrected processing.
 
@@ -63,6 +69,7 @@ A complementary caveat comes from the high-wind air-sea exchange literature. [Po
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
 - [Tropical Cyclone Outflow](tropical-cyclone-outflow.md)
 - [Boundary-Layer Control](boundary-layer-control.md)
+- [Tropical Cyclone Exchange Coefficients](tropical-cyclone-exchange-coefficients.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
 - [Steady-State Tropical Cyclones](steady-state-tropical-cyclones.md)
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)

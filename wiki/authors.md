@@ -12,9 +12,11 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## B
 
+- **Bell, Michael M.**: [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
 - **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md); [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Berner, J.**: [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
 - **Black, M. L.**: [Aberson et al. (2006)](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
+- **Black, Peter G.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Zhang et al. (2008)](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md)
 - **Black, R. A.**: [Aberson et al. (2006)](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
 - **Brown, O. B.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Bryan, George H.**: [Bryan and Rotunno (2009a)](papers/bryan-rotunno-2009a-evaluation-analytical-model-for-maximum-intensity.md); [Bryan and Rotunno (2009b)](papers/bryan-rotunno-2009b-maximum-intensity-axisymmetric-numerical-model-simulations.md); [Judt et al. (2023)](papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
@@ -31,22 +33,25 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## D
 
+- **D'Asaro, E. A.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md)
 - **Dawson, C. N.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 - **Dietrich, J. C.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 - **Dobbelaere, Thomas**: [Dobbelaere et al. (2022)](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
+- **Drennan, William M.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Zhang et al. (2008)](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md)
 - **Donelan, M. A.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Duan, Ying**: [Chan et al. (2001)](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
 - **Dunion, J. P.**: [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
 
 ## E
 
-- **Emanuel, Kerry A.**: [Emanuel (1986)](papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md); [Emanuel (1988)](papers/emanuel-1988-maximum-intensity-of-hurricanes.md); [Schade and Emanuel (1999)](papers/schade-emanuel-1999-oceans-effect-on-intensity.md); [Emanuel and Rotunno (2011)](papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md)
+- **Emanuel, Kerry A.**: [Emanuel (1986)](papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md); [Emanuel (1988)](papers/emanuel-1988-maximum-intensity-of-hurricanes.md); [Schade and Emanuel (1999)](papers/schade-emanuel-1999-oceans-effect-on-intensity.md); [Emanuel and Rotunno (2011)](papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md); [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
 
 ## F
 
 - **Fairall, C. W.**: [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
 - **Fathi, A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 - **Fischer, Michael S.**: [Fischer et al. (2018)](papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md); [Fischer et al. (2019)](papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md); [Fischer et al. (2022)](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md); [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md); [Nolan et al. (2025)](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md)
+- **French, Jeffrey R.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Zhang et al. (2008)](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md)
 
 ## G
 
@@ -92,15 +97,17 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 - **Marchok, T.**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Marks Jr., F. D.**: [Aberson et al. (2006)](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md); [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md); [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **McCormick, Cyril**: [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md)
 - **McWilliams, J. C.**: [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md)
 - **Mehra, A.**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
-- **Montgomery, Michael T.**: [Nolan and Montgomery (2002)](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md); [Smith and Montgomery (2010)](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md); [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md); [Montgomery and Smith (2017)](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md)
+- **Montgomery, Michael T.**: [Nolan and Montgomery (2002)](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md); [Smith and Montgomery (2010)](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md); [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md); [Persing et al. (2013)](papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md); [Montgomery and Smith (2017)](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md)
 - **Moon, Yumin**: [Nolan et al. (2007)](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md)
 - **Morin, M.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Muhammad, A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 
 ## N
 
+- **Niiler, P. P.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md)
 - **Nolan, David S.**: [Nolan and Montgomery (2002)](papers/nolan-montgomery-2002-nonhydrostatic-three-dimensional-perturbations-part-i.md); [Nolan and Grasso (2003)](papers/nolan-grasso-2003-nonhydrostatic-three-dimensional-perturbations-part-ii.md); [Nolan et al. (2007)](papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md); [Stern and Nolan (2009)](papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md); [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md); [Stern and Nolan (2012)](papers/stern-nolan-2012-height-of-warm-core.md); [Stern et al. (2015)](papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md); [Nolan et al. (2025)](papers/nolan-fischer-oneill-2025-mass-and-condensate-sources-for-tropical-cyclone-outflow.md)
 
 ## O
@@ -134,6 +141,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## S
 
 - **Saltzman, E. S.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
+- **Sanford, T. B.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md)
 - **Schade, Lawrence R.**: [Schade and Emanuel (1999)](papers/schade-emanuel-1999-oceans-effect-on-intensity.md)
 - **Sellwood, K.**: [Zhang et al. (2023)](papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md)
 - **Shay, Lynn K.**: [Chan et al. (2001)](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
@@ -144,6 +152,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## T
 
 - **Tang, B. H.**: [Fischer et al. (2018)](papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md); [Fischer et al. (2019)](papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
+- **Terrill, E. J.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md)
 - **Torn, R. D.**: [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
 
 ## U
@@ -158,7 +167,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## W
 
-- **Walsh, E. J.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md); [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
+- **Walsh, E. J.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md); [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
 - **Wright, C. W.**: [Wright et al. (2001)](papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md); [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 
 ## X
@@ -169,6 +178,6 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## Z
 
-- **Zhang, J. A.**: [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md); [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md); [Zhang et al. (2023)](papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md)
+- **Zhang, J. A.**: [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Zhang et al. (2008)](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md); [Zhang et al. (2011)](papers/zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md); [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md); [Zhang et al. (2023)](papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md)
 - **Zhang, X.**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
 - **Zhang, Z.**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)

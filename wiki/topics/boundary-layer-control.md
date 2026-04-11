@@ -2,8 +2,8 @@
 title: "Boundary-Layer Control"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-08"
-source_count: 12
+last_updated: "2026-04-10"
+source_count: 16
 ---
 
 # Definition
@@ -29,6 +29,8 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 
 [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md), [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md), [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md), and [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) extend the boundary-layer-control discussion at the air-sea interface. Across this chain, high-wind momentum drag is reported to saturate (or at least increase much more weakly) in severe tropical-cyclone conditions, and wave state is treated as a first-order modifier of exchange behavior. The 2020 correction study also suggests some previously used high-wind drag estimates were biased high by processing choices, reinforcing the need to separate robust physics from method-dependent artifacts.
 
+The new CBLAST papers add a direct turbulence and coherent-structure bridge to that surface-layer branch. [French et al. (2007)](../papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md) measure hurricane-boundary-layer momentum flux directly and suggest drag roll-off. [Zhang et al. (2008)](../papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md) show that enthalpy-transfer coefficients do not obviously increase over the same observed regime. [Black et al. (2007)](../papers/black-et-al-2007-air-sea-exchange-cblast.md) synthesize these results and argue that roll vortices may modulate exchange. [Bell et al. (2012)](../papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md) then show that even in major hurricanes, budget-based `CK/CD` estimates do not rise sharply. Inference for this wiki: surface-layer control in hurricanes is not just a local wind-speed problem; it is also mediated by coherent boundary-layer structure and uncertain enthalpy pathways.
+
 [Wright et al. (2001)](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md), [Walsh et al. (2002)](../papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md), and [Walsh et al. (2021)](../papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md) add directional-wave-spectrum structure evidence that helps interpret why wind-speed-only drag formulations can fail in storms. Across these papers, storm-relative quadrant asymmetry and multi-system wave geometry emerge as persistent features, and the 2021 WSRA demonstration shows these patterns can now be mapped at high density in near real time during reconnaissance missions. This strengthens the wiki's existing argument that boundary-layer exchange and near-surface momentum transfer should be treated as wave-coupled, not solely wind-speed-coupled.
 
 # Evidence By Source
@@ -48,6 +50,10 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - The same paper explicitly cautions that the airborne Doppler analyses do not resolve the lowest 500 m well enough to determine whether peak boundary-layer inflow is actually stronger in RI storms.
 - [Powell et al. (2003)](../papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md) report reduced effective drag behavior at the highest tropical-cyclone wind speeds relative to monotonic extrapolations from weaker-wind bulk formulas.
 - [Donelan et al. (2004)](../papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md) report a limiting aerodynamic roughness state in very strong winds, reinforcing drag saturation behavior.
+- [French et al. (2007)](../papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md) provide the first direct hurricane-boundary-layer momentum-flux measurements and suggest drag roll-off at moderate-to-high hurricane winds.
+- [Zhang et al. (2008)](../papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md) report direct enthalpy-flux constraints and argue that `CK/CD` is lower than some older theory thresholds would imply.
+- [Black et al. (2007)](../papers/black-et-al-2007-air-sea-exchange-cblast.md) synthesize the CBLAST branch and suggest that roll vortices may modulate exchange in the hurricane boundary layer.
+- [Bell et al. (2012)](../papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md) extend coefficient estimates into the major-hurricane regime and do not find a large `CK/CD` increase with wind speed.
 - [Holthuijsen et al. (2012)](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md) connect this high-wind exchange problem to explicit wave-state structure in extreme hurricanes, indicating that wind speed alone is an incomplete predictor of surface stress.
 - [Curcic and Haus (2020)](../papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md) revise earlier strong-wind estimates and report saturation near Cd ~2.6 x 10^-3 around U10 ~25 m s^-1 in their corrected analysis.
 - [Wright et al. (2001)](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md) provide an open-ocean observational benchmark showing that directional wave spectra vary strongly with storm-relative position.
@@ -70,6 +76,7 @@ In the review's framework, that supergradient jet rapidly decelerates radially, 
 - [Rotating Convection Paradigm](rotating-convection-paradigm.md)
 - [Tropical Cyclone Size Growth](tropical-cyclone-size-growth.md)
 - [Potential Intensity](potential-intensity.md)
+- [Tropical Cyclone Exchange Coefficients](tropical-cyclone-exchange-coefficients.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
 - [Wind and Waves in Extreme Hurricanes](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)
 - [Hurricane Directional Wave Spectrum Spatial Variation in the Open Ocean](../papers/wright-et-al-2001-hurricane-directional-wave-spectrum-open-ocean.md)

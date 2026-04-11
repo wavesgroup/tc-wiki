@@ -6,6 +6,15 @@ Basin jump: [North Atlantic](#north-atlantic)
 
 ## North Atlantic
 
+### 2003
+
+- **Fabian**: Category 4 North Atlantic hurricane that crossed the central Atlantic and made landfall in Bermuda. CBLAST direct-flux case used to constrain drag, latent-heat, and major-hurricane exchange coefficients from low-level aircraft observations. [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md); [Tropical Cyclone Exchange Coefficients](topics/tropical-cyclone-exchange-coefficients.md)
+- **Isabel**: Category 5 North Atlantic hurricane that crossed the western Atlantic and made U.S. landfall on the North Carolina Outer Banks. Core CBLAST boundary-layer exchange case used for the first direct momentum, latent-heat, and enthalpy flux measurements and for later major-hurricane `CK/CD` estimates. [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [French et al. (2007)](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md); [Drennan et al. (2007)](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md); [Zhang et al. (2008)](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md); [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md); [Tropical Cyclone Exchange Coefficients](topics/tropical-cyclone-exchange-coefficients.md)
+
+### 2004
+
+- **Frances**: Category 4 North Atlantic hurricane that crossed the Bahamas and made landfall on the east coast of Florida. CBLAST float-and-drifter case showing rapid mixed-layer deepening, marked SST cooling, strong inertial currents, and large waves in a fully coupled field-program setting. [Black et al. (2007)](papers/black-et-al-2007-air-sea-exchange-cblast.md); [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md)
+
 ### 2005
 
 - **Katrina**: Category 5 North Atlantic hurricane that crossed the Bahamas and Gulf of Mexico and made U.S. landfalls in South Florida and along the Louisiana-Mississippi coast. Comparison case in RAINEX used to contrast Rita's outer-core evolution and show that outward-propagating vortex Rossby waves alone did not produce a comparable secondary eyewall. [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Secondary Eyewall Formation](topics/secondary-eyewall-formation.md)

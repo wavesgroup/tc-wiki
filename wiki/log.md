@@ -458,3 +458,35 @@ Pages updated:
 Notes:
 - Current extraction is metadata/abstract constrained and should be upgraded with direct full-text ingestion for metric-level detail.
 - This pass prioritizes durable cross-linking so future ingestion can propagate directly into forecast-system and observing-system synthesis branches.
+
+## [2026-04-10] ingest | cblast-exchange-coefficient-chain-2007-2012
+
+Ingested five peer-reviewed papers that form the core CBLAST hurricane exchange-coefficient branch: Black et al. (2007), French et al. (2007), Drennan et al. (2007), Zhang et al. (2008), and Bell et al. (2012).
+
+Selection rationale:
+- The existing wiki already had drag-saturation, wave-state, and cold-wake papers, but it lacked the explicit CBLAST observational chain that ties direct momentum, latent-heat, and enthalpy flux measurements to major-hurricane `CK/CD` estimates.
+- These papers are the most reusable CBLAST subset for the current wiki because they connect air-sea exchange coefficients directly to boundary-layer control, intensification theory, potential intensity, and coupled wave-ocean context.
+- The chain materially closes a persistent gap in the wiki's high-wind surface-flux evidence without duplicating the existing cold-wake, directional-wave, or FV3/HAFS branches.
+
+Pages added:
+- [wiki/papers/black-et-al-2007-air-sea-exchange-cblast.md](papers/black-et-al-2007-air-sea-exchange-cblast.md)
+- [wiki/papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md](papers/french-drennan-zhang-black-2007-hurricane-boundary-layer-momentum-flux.md)
+- [wiki/papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md](papers/drennan-et-al-2007-hurricane-boundary-layer-latent-heat-flux.md)
+- [wiki/papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md](papers/zhang-black-french-drennan-2008-direct-enthalpy-flux-cblast.md)
+- [wiki/papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
+- [wiki/topics/tropical-cyclone-exchange-coefficients.md](topics/tropical-cyclone-exchange-coefficients.md)
+
+Pages updated:
+- [wiki/topics/air-sea-interaction.md](topics/air-sea-interaction.md)
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/potential-intensity.md](topics/potential-intensity.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-wave-coupling.md](topics/tropical-cyclone-wave-coupling.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+- [wiki/authors.md](authors.md)
+- [wiki/tc-cases.md](tc-cases.md)
+
+Notes:
+- These new pages are grounded mainly in NOAA HRD publication-list abstracts and DOI metadata, so several entries should still be upgraded with direct full-text extraction when accessible PDFs are available.
+- The CBLAST branch now gives the wiki direct evidence that drag saturation is better supported than any strong increase in `CK/CD`, but the observational base remains concentrated in Fabian, Isabel, Frances, and one major-hurricane budget-extension study.
