@@ -3,7 +3,7 @@ title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
 last_updated: "2026-04-10"
-source_count: 31
+source_count: 32
 ---
 
 # Definition
@@ -16,7 +16,7 @@ Based on [Montgomery and Smith (2017)](../papers/montgomery-smith-2017-fluid-dyn
 
 First, the authors argue that rotating deep convection is central. Localized deep convective updrafts amplify vertical vorticity through vortex-tube stretching and help build the inner vortex.
 
-Second, the frictional boundary layer is treated as dynamically active. It helps set where inflow turns upward into the eyewall and can support inner-core spin-up through strong inward transport of angular momentum to small radii. [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md) clarify that this dynamical role depends on whether the boundary layer is allowed to evolve in time. In their framework, time-dependent boundary layers can directly influence the vortex above, while steady ones act more indirectly.
+Second, the frictional boundary layer is treated as dynamically active. It helps set where inflow turns upward into the eyewall and can support inner-core spin-up through strong inward transport of angular momentum to small radii. [Smith and Montgomery (2010)](../papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md) clarify that this dynamical role depends on whether the boundary layer is allowed to evolve in time. In their framework, time-dependent boundary layers can directly influence the vortex above, while steady ones act more indirectly. [Zhang et al. (2023)](../papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md) provide a modern dropsonde-composite extension of this branch by linking boundary-layer kinematic structure directly to intensity-change category.
 
 Third, the paper argues that intensification physics is not fully captured by axisymmetric views alone. Resolved eddy momentum fluxes and asymmetric convective structures matter, especially during spin-up. [Persing et al. (2013)](../papers/persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md) provide direct primary-study support for this claim in a matched 3-D versus axisymmetric comparison: they show that weaker mean convective organization slows 3-D intensification on average, but vortical plumes and counter-gradient eddy fluxes can still assist radius contraction and episodic spin-up.
 

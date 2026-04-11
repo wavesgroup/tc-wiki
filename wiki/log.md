@@ -431,3 +431,30 @@ Pages updated:
 Notes:
 - This ingest is unusually strong on accessible full text: the 2016, 2018, 2019, and 2022 pages were built from author-hosted or NOAA archived PDFs rather than abstract-only records.
 - The new wave-coupling branch is still weighted toward model-based case studies plus one rich drifter event, so direct observational closure of coastal wave-current-surge feedbacks remains a clear next-step gap.
+
+
+## [2026-04-10] ingest | marks-aberson-zhang-observing-system-chain-2006-2023
+
+Ingested three peer-reviewed papers to add a focused observing-system branch centered on Frank Marks, Sim Aberson, and Jun Zhang: Aberson et al. (2006), Aberson (2011), and Zhang et al. (2023).
+
+Selection rationale:
+- The existing wiki contained strong RI dynamics and model-process chains, but less explicit synthesis linking aircraft observing systems, targeted dropsondes, and boundary-layer intensity-change diagnostics.
+- These papers jointly connect NOAA P-3 programmatic observing capability (including Marks' contributions), demonstrable forecast impact from targeted dropwindsondes (Aberson), and modern dropsonde-based boundary-layer/intensity-change structure diagnosis (Zhang).
+- The chain materially strengthens the operational-observational bridge across predictability, boundary-layer control, and intensification pages.
+
+Pages added:
+- [wiki/papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
+- [wiki/papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md](papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md)
+- [wiki/papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md](papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md)
+
+Pages updated:
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+- [wiki/authors.md](authors.md)
+
+Notes:
+- Current extraction is metadata/abstract constrained and should be upgraded with direct full-text ingestion for metric-level detail.
+- This pass prioritizes durable cross-linking so future ingestion can propagate directly into forecast-system and observing-system synthesis branches.
