@@ -109,7 +109,9 @@ When the repository contains a top-level `tc-cases.md` index:
 5. Order basin sections alphabetically.
 6. Within each basin, create year subsections using storm year (not publication year) in ascending order.
 7. Within each year subsection, sort storm names alphabetically.
-8. Format each case entry as a bold storm name followed by a short one-line synthesis of why the case matters in the wiki, then links to the current wiki pages that materially discuss it.
+8. Format each case entry as a bold storm name followed by two short sentences before the links:
+   - first sentence: a compact storm description that states the maximum Saffir-Simpson category reached, the relevant basin/gulf/sea or track region, and whether the storm made landfall
+   - second sentence: a short synthesis of why the case matters in the wiki
 9. Use only links to current wiki pages; prefer the underlying paper page plus any topic/synthesis/method pages that explicitly discuss the named storm.
 10. After updating `tc-cases.md`, add or refresh its link from the top-level `index.md` page.
 
