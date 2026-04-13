@@ -2,7 +2,13 @@
 
 This page indexes specific named historical tropical cyclones materially discussed on current wiki pages. Entries are grouped by basin, then by storm year in ascending order, with cases alphabetized within each year.
 
-Basin jump: [North Atlantic](#north-atlantic)
+Basin jump: [Eastern North Pacific](#eastern-north-pacific) · [North Atlantic](#north-atlantic)
+
+## Eastern North Pacific
+
+### 1997
+
+- **Guillermo**: Category 4 eastern North Pacific hurricane that remained over open water west-southwest of Baja California without major landfall. Canonical RI-in-shear case used to diagnose low-wavenumber inner-core evolution and vortex resilience pathways under environmental shear. [Reasor and Eastin (2009)](papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md); [Reasor and Eastin (2012)](papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md); [Rapid Intensification](topics/rapid-intensification.md); [Tropical Cyclone Predictability](topics/tropical-cyclone-predictability.md)
 
 ## North Atlantic
 

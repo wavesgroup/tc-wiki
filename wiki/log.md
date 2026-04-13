@@ -490,3 +490,34 @@ Pages updated:
 Notes:
 - These new pages are grounded mainly in NOAA HRD publication-list abstracts and DOI metadata, so several entries should still be upgraded with direct full-text extraction when accessible PDFs are available.
 - The CBLAST branch now gives the wiki direct evidence that drag saturation is better supported than any strong increase in `CK/CD`, but the observational base remains concentrated in Fabian, Isabel, Frances, and one major-hurricane budget-extension study.
+
+## [2026-04-13] ingest | paul-reasor-shear-resilience-chain-2004-2015
+
+Ingested five peer-reviewed Paul Reasor papers chosen as the most wiki-relevant Reasor-led branch for current gaps in RI-in-shear and structure-dependent predictability: Reasor et al. (2004), Reasor and Eastin (2009), Reasor and Eastin (2012), Reasor et al. (2013), and Reasor and Montgomery (2015).
+
+Selection rationale:
+- The existing wiki already had strong RI composites and ensemble studies, but lacked the foundational Reasor shear-resilience framework that links tilt dynamics, RI in shear, and environmental-flow-regime structural modulation.
+- This five-paper set provides a coherent mechanism-to-observation chain: idealized resilience dynamics, real-storm RI case diagnostics, multi-case Doppler composites, and heuristic-model synthesis.
+- The ingest directly strengthens existing rapid-intensification, intensification, and predictability pages without introducing a disconnected topic branch.
+
+Pages added:
+- [wiki/papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md](papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md)
+- [wiki/papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md](papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md)
+- [wiki/papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md](papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md)
+- [wiki/papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md](papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md)
+- [wiki/papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md](papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md)
+
+Pages updated:
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/syntheses/tropical-cyclone-fluid-dynamics.md](syntheses/tropical-cyclone-fluid-dynamics.md)
+- [wiki/index.md](index.md)
+- [wiki/authors.md](authors.md)
+- [wiki/tc-cases.md](tc-cases.md)
+- [wiki/log.md](log.md)
+- [README.md](../README.md)
+
+Notes:
+- The 2004 page is anchored to an author-hosted full-text PDF; the 2009-2015 pages are currently DOI-metadata constrained and should be upgraded with full-text extraction in a follow-up pass.
+- This ingest expands case coverage to the eastern North Pacific via Hurricane Guillermo (1997), but the wiki still needs additional non-Atlantic observational RI-in-shear cases for broader basin comparability.

@@ -2,8 +2,8 @@
 title: "Rapid Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-10"
-source_count: 8
+last_updated: "2026-04-13"
+source_count: 13
 ---
 
 # Definition
@@ -20,6 +20,9 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 
 [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) provide an earlier ensemble-predictability precursor using Hurricane Earl (2010). Their study shows that many members still undergo RI and reach major-hurricane intensity, but the onset timing has low predictability and splits into early- and late-RI structural pathways. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md) and [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) then provide climatological evidence that RI episodes involve anomalously vigorous inner-core convection and are more likely in specific upper-tropospheric trough geometries that reduce effective ventilation. [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) adds a high-resolution ensemble mechanism test showing how shear/ventilation disruptions can delay RI even in initially similar forecasts. [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) then links weak-storm vertical alignment, precipitation symmetry, and future intensification in observations, setting up the multicase RI-focused synthesis in 2025.
 
+
+Reasor-led shear-resilience work strengthens the wiki's RI-in-shear branch. [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) show in idealized dynamics that vortex-Rossby-wave alignment can reduce tilt, while [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md) and [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md) diagnose RI in Hurricane Guillermo (1997) as a shear-resilient structural evolution rather than simple shear avoidance. [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) and [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) further frame RI outcomes as regime dependent on environmental flow plus internal vortex structure.
+
 [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) extend that diversity argument by proposing two RI modes: a low-shear symmetric "marathon" mode and a shorter, burst-driven "sprint" mode involving mesovortex formation and center reformation in stronger shear. [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md) adds a sheared-RI numerical-modeling mechanism test in Hurricane Michael: stronger ensemble members achieved earlier tilt reduction and upshear humidification despite similar bulk shear, supporting RI as an alignment and moisture-organization problem rather than a shear-magnitude threshold alone.
 
 # Evidence By Source
@@ -34,6 +37,11 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 - The same paper finds that RI storms have both more convective bursts and greater fractional eyewall coverage of convective bursts than non-RI storms.
 - Fischer et al. (2025) emphasize that these structure differences are diagnosed after controlling for current storm intensity, which is important because stronger storms are already structurally different from weaker storms.
 - The authors further argue that a favorable environment and a favorable vortex structure each provide unique information about future RI likelihood.
+- [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) propose that intrinsic vortex-Rossby-wave damping can reduce tilt and sustain TC-like vortex resilience in vertical shear in idealized dry dynamics.
+- [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md) diagnose coherent low-wavenumber structural evolution during Guillermo's RI, supporting a structured rather than purely stochastic RI-in-shear pathway.
+- [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md) show that Guillermo remained resilient and intensified in shear, reinforcing RI as an alignment-and-organization problem.
+- [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) show from airborne Doppler composites that environmental flow systematically modulates inner-core structure.
+- [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) formalize a heuristic resilience framework linking shear forcing and vortex structure.
 - [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) show that RI onset timing can remain weakly predictable even when the likelihood of eventual RI is high across ensemble members.
 - The same paper identifies early-RI and late-RI structural pathways, linking RI timing uncertainty to different eyewall, radius-of-maximum-wind, and warm-core evolutions.
 - [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) argue that RI can occur through both a symmetric marathon mode and an asymmetric sprint mode driven by convective burst, mesovortex growth, and center reformation.
@@ -61,4 +69,9 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
 - [High-Resolution Ensemble HFV3 Forecasts of Hurricane Michael (2018): Rapid Intensification in Shear](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
+- [A New Look at the Problem of Tropical Cyclones in Vertical Shear Flow: Vortex Resiliency](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md)
+- [Rapidly Intensifying Hurricane Guillermo (1997). Part I: Low-Wavenumber Structure and Evolution](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md)
+- [Rapidly Intensifying Hurricane Guillermo (1997), Part II: Resiliency in Shear](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md)
+- [Environmental Flow Impacts on Tropical Cyclone Structure Diagnosed from Airborne Doppler Radar Composites](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md)
+- [Evaluation of a Heuristic Model for Tropical Cyclone Resilience](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md)
 - [Tropical Cyclone Numerical Modeling](tropical-cyclone-numerical-modeling.md)

@@ -46,6 +46,8 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 - **Emanuel, Kerry A.**: [Emanuel (1986)](papers/emanuel-1986-air-sea-interaction-theory-part-i-steady-state-maintenance.md); [Emanuel (1988)](papers/emanuel-1988-maximum-intensity-of-hurricanes.md); [Schade and Emanuel (1999)](papers/schade-emanuel-1999-oceans-effect-on-intensity.md); [Emanuel and Rotunno (2011)](papers/emanuel-rotunno-2011-self-stratification-of-tropical-cyclone-outflow-part-i.md); [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
 
+- **Eastin, M. D.**: [Reasor and Eastin (2009)](papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md); [Reasor and Eastin (2012)](papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md)
+
 ## F
 
 - **Fairall, C. W.**: [Walsh et al. (2021)](papers/walsh-fairall-popstefanija-2021-in-the-eye-of-the-storm.md)
@@ -91,6 +93,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 - **Landsea, C. W.**: [Aberson et al. (2006)](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
 - **Lin, S.-J.**: [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Liu, B.**: [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
+- **Lorsolo, S.**: [Reasor et al. (2013)](papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md)
 - **Luettich Jr., R. A.**: [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md)
 
 ## M
@@ -130,7 +133,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 ## R
 
 - **Ramstrom, W.**: [Hazelton et al. (2020)](papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
-- **Reasor, P. D.**: [Fischer et al. (2022)](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md); [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
+- **Reasor, P. D.**: [Reasor et al. (2004)](papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md); [Reasor and Eastin (2009)](papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md); [Reasor and Eastin (2012)](papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md); [Reasor et al. (2013)](papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md); [Reasor and Montgomery (2015)](papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md); [Fischer et al. (2022)](papers/fischer-reasor-rogers-gamache-2022-tc-radar-vortex-convective-characteristics.md); [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md); [Fischer et al. (2024)](papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md); [Fischer et al. (2025)](papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)
 - **Reinhold, T. A.**: [Powell et al. (2003)](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
 - **Reul, N.**: [Donelan et al. (2004)](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
 - **Rios-Berrios, R.**: [Judt et al. (2023)](papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)

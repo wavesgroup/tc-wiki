@@ -2,8 +2,8 @@
 title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-10"
-source_count: 37
+last_updated: "2026-04-13"
+source_count: 42
 ---
 
 # Definition
@@ -27,6 +27,9 @@ Third, the paper argues that intensification physics is not fully captured by ax
 [Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because this ingest is currently abstract-constrained, these links are recorded as first-pass structural hypotheses pending full-text extraction.
 
 [Judt and Chen (2010)](../papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md) add a mature-storm outer-core pathway that is mostly absent from the earlier intensification pages. In their Rita case, convectively generated rainband PV accumulates into a secondary outer-ring maximum while a moat forms between the primary and secondary eyewalls. Inference for this wiki: intensity change near mature stages cannot be treated as an eyewall-only problem, because outer-core convective organization can reorganize the vortex and set up eyewall replacement behavior.
+
+
+A Reasor-led shear-resilience branch now adds focused constraints on how intensification proceeds in vertically sheared environments. [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) propose an intrinsic tilt-reduction pathway via vortex-Rossby-wave dynamics, [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md) and [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md) diagnose RI-resilient structural evolution in Hurricane Guillermo, and [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) formalize a regime-style resilience model that helps explain why similar bulk shear can yield different intensity outcomes.
 
 [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) extend parts of this synthesis into real storms. Relative to other storms of similar intensity, their rapidly intensifying cases are taller, narrower, and more vertically aligned, with deeper upper-tropospheric overturning circulation and more inner-core convective bursts. The same paper argues that favorable structure and favorable environment each contribute unique information about future intensification rate. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md), [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md), [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md), and [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) fill much of the immediate lead-in to this result by linking RI to normalized convective anomalies, ventilation geometry, ensemble-resolved shear disruption, and observed tilt-precipitation coupling in weak storms.
 
