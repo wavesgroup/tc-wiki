@@ -521,3 +521,16 @@ Pages updated:
 Notes:
 - The 2004 page is anchored to an author-hosted full-text PDF; the 2009-2015 pages are currently DOI-metadata constrained and should be upgraded with full-text extraction in a follow-up pass.
 - This ingest expands case coverage to the eastern North Pacific via Hurricane Guillermo (1997), but the wiki still needs additional non-Atlantic observational RI-in-shear cases for broader basin comparability.
+
+## [2026-04-14] maintain | authors-index-reasor-coauthor-rebuild
+
+Rebuilt `wiki/authors.md` from the current paper-page citation sections after review feedback on incomplete coauthor propagation for the newly ingested Reasor papers.
+
+Pages updated:
+- [wiki/authors.md](authors.md)
+- [wiki/log.md](log.md)
+
+Notes:
+- Added the missing Reasor-paper links under `Grasso, Lewis D.`, `Montgomery, Michael T.`, and `Rogers, R. F.`.
+- Normalized a few author paper-link orderings to match citation-derived chronological ordering.
+- Corrected the `Wright, C. W.` label to `Wright (2001)` because that paper page currently cites only Wright explicitly and uses `and coauthors` for the remaining authors.
