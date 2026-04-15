@@ -45,18 +45,23 @@ Default to peer-reviewed sources. If the user wants to include preprints, report
    - data sources, methods, and variables
    - key findings, limitations, and uncertainty
 3. Create or update the paper page first.
-4. Add a `# Referenced Papers` section near the end of the paper page as a curated ingest queue:
+4. When a paper hinges on one or more central equations, preserve the most wiki-relevant equation(s) on the paper page in GitHub-compatible LaTeX math rendered by MathJax:
+   - include only governing equations, diagnostic formulas, or compact budget relations that materially improve reuse
+   - prefer one to three high-value equations, not full derivations or incidental algebra
+   - define symbols in nearby prose and explain why the equation matters in the paper
+   - treat the paper page as the canonical home for the equation; repeat it on topic or synthesis pages only when it becomes a cross-paper organizing concept
+5. Add a `# Referenced Papers` section near the end of the paper page as a curated ingest queue:
    - list the most wiki-relevant cited papers, not the full bibliography
    - prioritize papers that support claims already propagated into topic, method, storm, dataset, basin, or synthesis pages
    - when a cited paper later gets its own wiki page, replace the plain citation with a direct wiki link
-5. Update every materially affected topic, storm, dataset, method, and synthesis page.
-6. Update `index.md`.
-7. When present, refresh repository-wide indexes such as `authors.md` and `tc-cases.md` so they reflect the current ingest.
-8. If `README.md` includes top-level wiki count links, check and refresh them on every ingestion using current repository totals:
+6. Update every materially affected topic, storm, dataset, method, and synthesis page.
+7. Update `index.md`.
+8. When present, refresh repository-wide indexes such as `authors.md` and `tc-cases.md` so they reflect the current ingest.
+9. If `README.md` includes top-level wiki count links, check and refresh them on every ingestion using current repository totals:
    - `Papers (x)`: count current `papers/*.md` pages
    - `Authors (y)`: count current author entries in `authors.md`
    - `Storms (z)`: count current storm entries in `tc-cases.md`
-9. Append a short chronological entry to `log.md`.
+10. Append a short chronological entry to `log.md`.
    - Always add new entries at the bottom of the file so `log.md` remains in ascending chronological order (earlier entries first, later entries last).
 
 Do not stop at the paper summary. The point of the wiki is to propagate new evidence into the existing synthesis.
@@ -123,7 +128,12 @@ When the repository contains a top-level `tc-cases.md` index:
 - Distinguish mechanism, evidence, and operational implication.
 - Record limitations, especially small samples, retrospective framing, model dependency, basin specificity, and sensitivity to definitions.
 - Do not invent numerical claims or thresholds the source did not make.
+- Preserve only high-value equations that are central to the paper's method, diagnostic, or mechanism; do not transcribe full derivations or routine intermediate algebra.
+- Use GitHub-compatible LaTeX math rendered by MathJax. Use inline `$...$` for short in-sentence expressions and fenced `math` blocks for standalone equations.
+- Transcribe equations faithfully and keep notation close to the source unless a small readability change is explicitly explained in nearby prose.
 - If a useful point comes from interpreting a figure, mark it as an inference from the figure rather than a direct textual claim.
+- If you rearrange, simplify, combine, or reinterpret an equation, label that as a wiki inference or restatement rather than a direct paper claim.
+- Avoid duplicating the same equation across many pages; link back to the paper page unless the equation is central to a multi-paper synthesis.
 - For review articles, keep cited-reference lists curated and functional. Do not paste the full bibliography into the main paper page unless the repository explicitly wants full bibliographies.
 - Prefer updating a shared synthesis page over duplicating the same paragraph across many pages.
 - Create a new page when a concept is central to multiple papers or is likely to become a repeated query target.
