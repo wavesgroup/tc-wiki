@@ -2,8 +2,8 @@
 title: "Tropical Cyclone Predictability"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-10"
-source_count: 8
+last_updated: "2026-04-13"
+source_count: 13
 ---
 
 # Definition
@@ -20,12 +20,20 @@ The wiki now has a first dedicated predictability branch anchored by two Judt-le
 
 [Hazelton et al. (2018)](../papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md), [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md), and [Hazelton et al. (2021)](../papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md) add an operational-modeling branch showing that even advanced FV3/HAFS-class systems still concentrate large errors in RI timing, storm structure, and transition regimes. [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) provide one explanation for why those failures are hard to eliminate: RI itself can occur through structurally different modes, including a low-shear symmetric "marathon" mode and a burst-driven, center-reforming "sprint" mode under less favorable environments.
 
+
+Reasor-centered shear-resilience papers extend this branch beyond stochastic-ensemble diagnostics. [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) and [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) provide mechanism-oriented resilience framing, while [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md), [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md), and [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) show that forecast-relevant RI behavior in shear depends strongly on evolving inner-core structure and environmental-flow regime.
+
 Inference for this wiki: tropical-cyclone predictability should be treated as scale dependent and regime dependent. Large-scale flow places longer-lived bounds on vortex evolution, but internal convective reorganization and structural mode transitions strongly limit practical predictability of RI onset and short-term intensity change.
 
 [Aberson (2011)](../papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md) adds an adaptive-observing branch: targeted dropwindsonde assimilation in the GFS produced case-dependent but measurable tropical-cyclone forecast improvements. Inference for this wiki: intrinsic predictability limits and observing-network design must be interpreted together, because targeted sampling can recover skill in some sensitive flow configurations.
 
 # Evidence By Source
 
+- [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) show via idealized dynamics that resilience in shear depends on intrinsic alignment behavior, implying regime-dependent forecast sensitivity to vortex structure.
+- [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md) diagnose low-wavenumber structural evolution in Guillermo RI, supporting a structured predictability problem rather than random convective noise alone.
+- [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md) show that RI can proceed under shear when resilience pathways are active, sharpening the distinction between bulk-shear and effective-shear impacts.
+- [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) provide multi-case airborne-radar evidence that environmental flow regimes map onto systematic inner-core structural differences.
+- [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) provide a reduced resilience framework that helps interpret why similar shear magnitudes can yield different intensity outcomes.
 - [Judt et al. (2016)](../papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md) show that small-scale asymmetric errors saturate within roughly 6-12 h, while rainband-scale structure remains predictable on roughly 1-5-day horizons.
 - The same paper finds that the azimuthal-mean vortex and wave number-1 asymmetry remain predictable for at least 7 days in Hurricane Earl, with uncertainty strongly tied to large-scale environmental and boundary-condition perturbations.
 - [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) show that RI likelihood can be comparatively predictable even when exact RI timing is not.
@@ -55,3 +63,8 @@ Inference for this wiki: tropical-cyclone predictability should be treated as sc
 - [Uncertainty Propagation in Coupled Atmosphere-Wave-Ocean Prediction System: A Study of Hurricane Earl (2010)](../papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - [Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
 - [High-Resolution Ensemble HFV3 Forecasts of Hurricane Michael (2018): Rapid Intensification in Shear](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md)
+- [A New Look at the Problem of Tropical Cyclones in Vertical Shear Flow: Vortex Resiliency](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md)
+- [Rapidly Intensifying Hurricane Guillermo (1997). Part I: Low-Wavenumber Structure and Evolution](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md)
+- [Rapidly Intensifying Hurricane Guillermo (1997), Part II: Resiliency in Shear](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md)
+- [Environmental Flow Impacts on Tropical Cyclone Structure Diagnosed from Airborne Doppler Radar Composites](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md)
+- [Evaluation of a Heuristic Model for Tropical Cyclone Resilience](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md)
