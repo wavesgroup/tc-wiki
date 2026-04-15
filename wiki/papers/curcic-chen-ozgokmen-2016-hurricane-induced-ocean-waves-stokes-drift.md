@@ -2,7 +2,7 @@
 title: "Hurricane-induced ocean waves and stokes drift and their impacts on surface transport and dispersion in the Gulf of Mexico"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-15"
 source_count: 2
 ---
 
@@ -10,7 +10,7 @@ source_count: 2
 
 Curcic, Milan, Shuyi S. Chen, and Tamay M. Ozgokmen, 2016: *Hurricane-induced ocean waves and stokes drift and their impacts on surface transport and dispersion in the Gulf of Mexico*. *Geophysical Research Letters*, 43(6), 2773-2781. DOI: [10.1002/2015GL067619](https://doi.org/10.1002/2015GL067619).
 
-Accessed text sources: Author-hosted PDF copy and Crossref DOI metadata/abstract.
+Accessed text sources: [Author-hosted PDF copy](https://github.com/milancurcic/papers/blob/main/Curcic_etal_GRL2016.pdf) and [DOI landing page](https://doi.org/10.1002/2015GL067619).
 
 Peer-review status: Peer-reviewed primary coupled atmosphere-wave-ocean modeling and drifter-analysis study.
 
@@ -24,6 +24,43 @@ Curcic et al. (2016) ask how hurricane-induced surface waves and Stokes drift mo
 - Case: Hurricane Isaac (2012) during the Grand Lagrangian Deployment (GLAD), with 194 surface drifters sampling storm-forced near-surface flow.
 - Model framework: The fully coupled UWIN-CM atmosphere-wave-ocean system, used to diagnose Eulerian currents, wave fields, and 1 m averaged Stokes drift.
 - Diagnostics: Drifter trajectories, Lagrangian velocity, storm-relative Stokes-drift structure, and scale-dependent relative diffusivity.
+
+# Key Equations
+
+Curcic et al. (2016) make the transport decomposition explicit by writing the drifter-scale Lagrangian velocity as the sum of Eulerian current and Stokes drift:
+
+```math
+\mathbf{u}_L = \mathbf{u}_E + \mathbf{u}_{\mathrm{St}}.
+```
+
+This split is the paper's central diagnostic bridge between modeled currents and the GLAD observations.
+
+In deep water, the Stokes drift used for the trajectory calculations is
+
+```math
+\mathbf{u}_{\mathrm{St}}(z) = 2 \int \! \! \int \omega k e^{2kz} F(k,\theta)\, dk\, d\theta,
+```
+
+where $\omega$ is radian frequency, $k$ is directional wavenumber, $z$ is depth relative to the surface, and $F$ is the wave spectrum. The paper then averages $\mathbf{u}_{\mathrm{St}}$ over the upper 1 m to match the GLAD drogue depth.
+
+The transport and spreading diagnostics are summarized with
+
+```math
+A^2(t) = \left\langle \left(x(t)-x(0)\right)^2 \right\rangle,\qquad
+D^2(t) = \left\langle \left(x_m(t)-x_n(t)\right)^2 \right\rangle,
+```
+
+and the scale-dependent relative diffusivity
+
+```math
+K_{\mathrm{eff}} = \frac{1}{4}\frac{\sigma^2(t)-\sigma^2(t_0)}{t-t_0},
+\qquad
+\sigma^2 = 2\sigma_a \sigma_b,
+\qquad
+L = 3\sigma.
+```
+
+These are the paper's reusable definitions for absolute displacement, pair spreading, and ellipse-fit diffusivity across scales.
 
 # Findings
 

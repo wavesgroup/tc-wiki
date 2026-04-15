@@ -2,15 +2,15 @@
 title: "On the Limiting Aerodynamic Roughness of the Ocean in Very Strong Winds"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-07"
-source_count: 1
+last_updated: "2026-04-15"
+source_count: 2
 ---
 
 # Citation
 
 Donelan, M. A., B. K. Haus, N. Reul, W. J. Plant, M. Stiassnie, H. C. Graber, O. B. Brown, and E. S. Saltzman, 2004: *On the limiting aerodynamic roughness of the ocean in very strong winds*. *Geophysical Research Letters*, 31, L18306. DOI: [10.1029/2004GL019460](https://doi.org/10.1029/2004GL019460).
 
-Accessed text source: DOI metadata and bibliographic listings (full-text access constrained in this environment).
+Accessed text sources: [Mendeley article page with open abstract](https://www.mendeley.com/catalogue/f60c6a96-e856-3c84-a007-c13d681e6169/) and [DOI landing page](https://doi.org/10.1029/2004GL019460).
 
 Peer-review status: Peer-reviewed primary research article.
 
@@ -24,6 +24,18 @@ Donelan et al. (2004) ask whether ocean aerodynamic roughness and drag continue 
 - Diagnostics: Aerodynamic roughness and drag-coefficient estimates under very strong wind forcing.
 - Context: Designed as a physical-process test to complement sparse open-ocean hurricane observations.
 
+# Key Equations
+
+Restating the abstract's drag-coefficient definition in standard bulk form, Donelan et al. (2004) frame high-wind momentum exchange with
+
+```math
+\tau_t = \rho C_D U_{10}^2,
+```
+
+where $\tau_t$ is tangential surface stress, $\rho$ is air density, and $C_D$ is the neutral drag coefficient.
+
+The paper's central result is a limiting-behavior statement rather than a new multi-equation retrieval chain: in hurricane-force winds, aerodynamic roughness and its associated $C_D$ approach a ceiling rather than continuing to increase with $U_{10}$. The abstract-level sources available here do not provide a compact closed-form expression for that ceiling, so the reusable equation to preserve is the bulk drag definition that the limiting-roughness result modifies.
+
 # Findings
 
 - The paper reports a limiting behavior in ocean aerodynamic roughness at very high winds.
@@ -32,7 +44,7 @@ Donelan et al. (2004) ask whether ocean aerodynamic roughness and drag continue 
 
 # Limitations
 
-- Current extraction is a metadata-constrained first pass; exact threshold values and method details should be verified from full text.
+- Current extraction is an abstract-constrained first pass; exact threshold values and method details should be verified from full text.
 - Laboratory-to-ocean representativeness remains an inherent caveat in extreme-wind flux studies.
 - This paper addresses momentum exchange only; coupled heat/moisture transfer behavior requires separate constraints.
 

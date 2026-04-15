@@ -534,3 +534,34 @@ Notes:
 - Added the missing Reasor-paper links under `Grasso, Lewis D.`, `Montgomery, Michael T.`, and `Rogers, R. F.`.
 - Normalized a few author paper-link orderings to match citation-derived chronological ordering.
 - Corrected the `Wright, C. W.` label to `Wright (2001)` because that paper page currently cites only Wright explicitly and uses `and coauthors` for the remaining authors.
+
+## [2026-04-15] refine | paper-equation-pass-1
+
+Added `# Key Equations` sections to the first set of equation-heavy paper pages with accessible full text.
+
+Pages updated:
+- [wiki/papers/schade-emanuel-1999-oceans-effect-on-intensity.md](papers/schade-emanuel-1999-oceans-effect-on-intensity.md)
+- [wiki/papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md)
+- [wiki/papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md](papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md)
+- [wiki/papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md)
+- [wiki/papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md](papers/dobbelaere-curcic-lehenaff-hanert-2022-wave-induced-ocean-transport-irma.md)
+- [wiki/log.md](log.md)
+
+Notes:
+- This pass targets papers where equations are central to the method or mechanism and public full text was available.
+- Several other papers in `wiki/papers/` remain equation-light or are still constrained by abstract-level access; those should be upgraded only after obtaining better full-text sources.
+
+## [2026-04-15] refine | paper-equation-pass-2
+
+Added `# Key Equations` sections to the next set of high-wind exchange papers.
+
+Pages updated:
+- [wiki/papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md](papers/powell-vickery-reinhold-2003-reduced-drag-coefficient-high-wind-speeds.md)
+- [wiki/papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md](papers/donelan-et-al-2004-limiting-aerodynamic-roughness-ocean-very-strong-winds.md)
+- [wiki/papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
+- [wiki/papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md](papers/curcic-haus-2020-revised-estimates-ocean-surface-drag-strong-winds.md)
+- [wiki/log.md](log.md)
+
+Notes:
+- This pass stays within the high-wind drag and exchange-coefficient chain because those papers are unusually equation-central and already form one of the wiki's main synthesis branches.
+- Powell (2003) and Bell et al. (2012) were upgraded from direct searchable mirrors; Donelan (2004) and Curcic and Haus (2020) remain partly abstract-constrained, so their preserved equations are limited to the core bulk-drag relationships and reported saturation behavior.

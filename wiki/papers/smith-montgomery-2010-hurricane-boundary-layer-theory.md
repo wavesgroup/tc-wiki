@@ -2,7 +2,7 @@
 title: "Hurricane Boundary-Layer Theory"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-05"
+last_updated: "2026-04-15"
 source_count: 1
 ---
 
@@ -26,6 +26,32 @@ Smith and Montgomery (2010) ask what the hurricane boundary layer should mean dy
 - Evidence base: Analytical manipulation of axisymmetric turbulent-vortex equations, interpretation of steady boundary-layer models, and discussion of prior observational and modeling results for context.
 - Core variables and concepts: radial wind, tangential wind, gradient-wind imbalance, boundary-layer depth, frictional forcing, angular momentum, pseudo-equivalent potential temperature, turbulent kinetic energy, and upper-boundary conditions.
 - Model framing: The paper contrasts continuous steady boundary-layer models with time-dependent boundary-layer models and examines the consequences of using zero-vertical-gradient conditions at the top of the modeled layer.
+
+# Key Equations
+
+The reference state above the frictionally disrupted layer is the gradient-wind balance
+
+```math
+\frac{v_g^2}{r} + f v_g = \frac{1}{\rho}\frac{\partial p}{\partial r}.
+```
+
+This is the balanced outer-vortex relation that steady boundary-layer closures are typically slaved to.
+
+Using the decomposition $v = v_g + v'$, Smith and Montgomery (2010) show that the commonly imposed zero-vertical-gradient upper-boundary condition reduces to
+
+```math
+u(\zeta' + \zeta_g) = 0 \quad \text{at } z=h,
+```
+
+where $u$ is radial velocity, $\zeta'$ is the relative vorticity of the agradient flow, and $\zeta_g$ is the gradient-wind absolute-vorticity contribution. For a centrifugally stable cyclonic vortex, this implies $u = 0$ and $v' = 0$ at the layer top, which is the paper's key analytical reason a continuous steady boundary-layer model cannot directly determine unbalanced flow aloft.
+
+The angular-momentum interpretation uses
+
+```math
+M = rv + \frac{1}{2} f r^2,
+```
+
+so the same upper-boundary condition also removes radial advection of absolute angular momentum in steady flow.
 
 # Findings
 

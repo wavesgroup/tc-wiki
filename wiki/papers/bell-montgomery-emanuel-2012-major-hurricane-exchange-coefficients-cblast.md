@@ -2,7 +2,7 @@
 title: "Air-Sea Enthalpy and Momentum Exchange at Major Hurricane Wind Speeds Observed During CBLAST"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-15"
 source_count: 2
 ---
 
@@ -10,7 +10,7 @@ source_count: 2
 
 Bell, Michael M., Michael T. Montgomery, and Kerry A. Emanuel, 2012: *Air-Sea Enthalpy and Momentum Exchange at Major Hurricane Wind Speeds Observed During CBLAST*. *Journal of the Atmospheric Sciences*, 69(11), 3197-3222. DOI: [10.1175/JAS-D-11-0276.1](https://doi.org/10.1175/JAS-D-11-0276.1).
 
-Accessed text sources: [NOAA/AOML Hurricane Research Division publications page](https://www.aoml.noaa.gov/hrd/about_hrd/publications.html) and the [CoLab article record](https://colab.ws/articles/10.1175%2Fjas-d-11-0276.1).
+Accessed text sources: [DocsLib mirror of the full article](https://docslib.org/doc/4546383/air-sea-enthalpy-and-momentum-exchange-at-major-hurricane-wind-speeds-observed-during-cblast) and the [CoLab article record](https://colab.ws/articles/10.1175%2Fjas-d-11-0276.1).
 
 Peer-review status: Peer-reviewed primary research article.
 
@@ -24,6 +24,42 @@ Bell et al. (2012) ask what the bulk momentum and enthalpy exchange coefficients
 - Storm sample: Six missions from the 2003 CBLAST field program in major hurricanes Fabian and Isabel.
 - Wind regime: Major-hurricane winds between about 52 and 72 m s^-1.
 - Method: Deduce momentum and enthalpy fluxes from absolute angular momentum and total energy budgets using a variational technique, with explicit error analysis for unresolved budget terms and observational errors.
+
+# Key Equations
+
+Bell et al. (2012) center their analysis on the bulk exchange-coefficient ratio that enters potential-intensity arguments,
+
+```math
+\frac{C_K}{C_D},
+```
+
+where $C_D$ is the drag coefficient and $C_K$ is the enthalpy exchange coefficient.
+
+Using the paper's reported mean retrievals for major-hurricane conditions gives the representative coefficient pair
+
+```math
+C_D \approx 2.4 \times 10^{-3},
+\qquad
+C_K \approx 1.0 \times 10^{-3},
+```
+
+for winds between about $52$ and $72~\mathrm{m\,s^{-1}}$.
+
+A wiki restatement of the bulk formulas that the paper's angular-momentum and total-energy budgets are designed to constrain is
+
+```math
+|\tau| = \rho C_D U_{10}^2,
+\qquad
+F_K = \rho C_K U_{10}(k_0^* - k_{10}),
+```
+
+where $|\tau|$ is surface-stress magnitude, $F_K$ is enthalpy flux, and $k_0^* - k_{10}$ is the air-sea enthalpy disequilibrium. From the reported mean coefficients, the implied representative ratio is
+
+```math
+\frac{C_K}{C_D} \approx 0.42,
+```
+
+which is a wiki calculation from the paper's reported averages rather than a separately quoted Bell et al. equation.
 
 # Findings
 

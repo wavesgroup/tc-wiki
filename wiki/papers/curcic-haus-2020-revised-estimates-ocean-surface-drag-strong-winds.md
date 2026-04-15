@@ -2,7 +2,7 @@
 title: "Revised Estimates of Ocean Surface Drag in Strong Winds"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-07"
+last_updated: "2026-04-15"
 source_count: 2
 ---
 
@@ -10,7 +10,7 @@ source_count: 2
 
 Curcic, M., and B. K. Haus, 2020: *Revised estimates of ocean surface drag in strong winds*. *Geophysical Research Letters*, 47, e2020GL087647. DOI: [10.1029/2020GL087647](https://doi.org/10.1029/2020GL087647).
 
-Accessed text sources: Public abstract record (NSF PAR) and bibliographic listings.
+Accessed text sources: [NSF PAR abstract record](https://par.nsf.gov/biblio/10447472) and [DOI landing page](https://doi.org/10.1029/2020GL087647).
 
 Peer-review status: Peer-reviewed primary research article.
 
@@ -23,6 +23,26 @@ Curcic and Haus (2020) ask how corrected high-wind laboratory processing affects
 - Study type: Reanalysis/correction study of high-wind drag estimation workflows.
 - Methods: Revisited momentum-budget and eddy-covariance approaches used in laboratory strong-wind datasets.
 - Comparison: Evaluated consistency with field measurements at lower winds and earlier hurricane-force laboratory evidence.
+
+# Key Equations
+
+Curcic and Haus (2020) revisit high-wind drag in the same bulk framework,
+
+```math
+\tau_t = \rho C_D U_{10}^2,
+```
+
+where $C_D$ is the surface drag coefficient diagnosed from corrected laboratory momentum-budget and eddy-covariance calculations.
+
+The abstract-level saturation result reported in the paper is
+
+```math
+C_D \approx 2.6 \times 10^{-3}
+\quad \text{at} \quad
+U_{10} \approx 25~\mathrm{m\,s^{-1}},
+```
+
+which updates the magnitude and wind-speed threshold of the classic Donelan et al. (2004) saturation curve while keeping the strong-wind drag-saturation conclusion intact.
 
 # Findings
 

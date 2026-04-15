@@ -2,15 +2,15 @@
 title: "Evaluation of a Heuristic Model for Tropical Cyclone Resilience"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-13"
-source_count: 1
+last_updated: "2026-04-15"
+source_count: 2
 ---
 
 # Citation
 
 Reasor, P. D., and M. T. Montgomery, 2015: *Evaluation of a heuristic model for tropical cyclone resilience*. *Journal of the Atmospheric Sciences*, 72(5), 1765-1782. DOI: [10.1175/JAS-D-14-0318.1](https://doi.org/10.1175/JAS-D-14-0318.1).
 
-Accessed text source: [DOI landing page](https://doi.org/10.1175/JAS-D-14-0318.1).
+Accessed text sources: [Naval Postgraduate School public PDF mirror](https://www.met.nps.edu/~mtmontgo/papers/Pub_122.pdf) and [DOI landing page](https://doi.org/10.1175/JAS-D-14-0318.1).
 
 Peer-review status: Peer-reviewed primary research article.
 
@@ -23,6 +23,33 @@ Reasor and Montgomery (2015) evaluate whether a simplified heuristic resilience 
 - Study type: Dynamical theory/model-evaluation paper.
 - Framework: Heuristic resilience model tested against known TC-shear behavior.
 - Focus: How vortex structure, shear forcing, and alignment dynamics jointly set resilience outcomes.
+
+# Key Equations
+
+Restated in wiki notation with $\lambda$ for azimuth angle, the paper's heuristic shear-forced tilt model is
+
+```math
+q'(r,\lambda,z,t)
+\approx
+\frac{U}{v_p}\frac{dq}{dr}
+\left[e^{g_{\mathrm{cl}} t}\sin(\lambda - v_p t) - \sin\lambda\right]
+\cos\left(\frac{\pi z}{H}\right).
+```
+
+Here $q'$ is the tilt-mode PV perturbation, $U$ is the imposed shear amplitude, $v_p$ is the core vortex-Rossby-wave precession frequency, $g_{\mathrm{cl}} < 0$ is the resonant-damping rate, and $H$ is the vortex depth. This is the paper's core reduced model for how vertical shear excites and damps vortex tilt.
+
+In the zero-damping limit the solution reduces to
+
+```math
+q'(r,\lambda,z,t)
+\approx
+-2\frac{U}{v_p}\frac{dq}{dr}
+\sin\left(\frac{v_p t}{2}\right)
+\cos\left(\lambda - \frac{v_p t}{2}\right)
+\cos\left(\frac{\pi z}{H}\right),
+```
+
+which implies precession at half the free-alignment tilt-mode frequency. Because $dq/dr < 0$ outside the core for realistic tropical-cyclone vortices, the model's long-time equilibrium tilt remains $90^\circ$ left of the shear vector.
 
 # Findings
 

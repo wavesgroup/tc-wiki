@@ -2,7 +2,7 @@
 title: "The Ocean's Effect on the Intensity of Tropical Cyclones: Results from a Simple Coupled Atmosphere-Ocean Model"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-08"
+last_updated: "2026-04-15"
 source_count: 2
 ---
 
@@ -23,6 +23,16 @@ Schade and Emanuel (1999) test how ocean feedback, especially storm-induced SST 
 - Study type: Idealized/simple atmosphere-ocean coupled modeling.
 - Comparison design: Coupled vs effectively uncoupled intensity evolution under varying translation speed and upper-ocean thermal structure assumptions.
 - Physical pathway emphasized: SST cooling reduces surface enthalpy fluxes, weakening potential for continued deepening.
+
+# Key Equations
+
+Schade and Emanuel (1999) define the ocean-coupling penalty on storm intensity with the SST feedback factor
+
+```math
+F_{\mathrm{SST}} = \frac{\Delta p}{\Delta p|_{\mathrm{SST}}} - 1,
+```
+
+where $\Delta p$ is the coupled-model central-pressure deficit and $\Delta p|_{\mathrm{SST}}$ is the pressure deficit from the otherwise identical fixed-SST control run. This is the paper's core reusable diagnostic: more negative $F_{\mathrm{SST}}$ means stronger ocean-induced suppression of intensity.
 
 # Findings
 
