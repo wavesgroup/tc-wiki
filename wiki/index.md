@@ -2,6 +2,13 @@
 
 Initialized on 2026-04-05 and currently seeded by two peer-reviewed review articles plus fifty-seven primary papers: one asymmetric-heating energetics paper, one theoretical boundary-layer paper, one idealized 3-D versus axisymmetric modeling study, one mature-outflow structural study, a three-paper Stern-Nolan inner-core structure chain (2009-2015), a four-paper Falko-Judt-led secondary-eyewall/predictability/RI-mode chain (2010-2023), a five-paper Michael-Fischer first-author chain on rapid intensification and vortex-convective structure (2018-2025), a five-paper Paul-Reasor-led shear-resilience chain spanning theory, aircraft case diagnosis, composites, and heuristic modeling (2004-2015), a nine-paper air-sea exchange-and-coefficient chain that combines four high-wind drag papers (2003-2020) with five explicit CBLAST flux and major-hurricane coefficient papers (2007-2012), a five-paper potential-intensity theory-and-testing chain (1986-2011), a three-paper hurricane directional-wave-spectrum chain spanning open ocean, landfall, and modern airborne operations (2001-2021), a five-paper Curcic-linked wave-coupled transport/surge/predictability chain (2016-2022), plus a five-paper cold-wake air-sea coupling chain (1981-2003), and a three-paper aircraft-observing-system/targeted-dropwindsonde boundary-layer chain (2006-2023). Current syntheses should still be read as a structured starting point, not as a settled multi-paper consensus.
 
+Jump to:
+
+- [Papers](#papers)
+- [Topics](#topics)
+- [Methods](#methods)
+- [Indexes](#indexes)
+
 ## Papers
 
 - [Recent Developments in the Fluid Dynamics of Tropical Cyclones](papers/montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md): Peer-reviewed review article on vortex intensification, structure, boundary-layer control, potential intensity, and quasi-steady-state behavior.
