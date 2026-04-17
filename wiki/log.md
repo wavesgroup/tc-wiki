@@ -565,3 +565,32 @@ Pages updated:
 Notes:
 - This pass stays within the high-wind drag and exchange-coefficient chain because those papers are unusually equation-central and already form one of the wiki's main synthesis branches.
 - Powell (2003) and Bell et al. (2012) were upgraded from direct searchable mirrors; Donelan (2004) and Curcic and Haus (2020) remain partly abstract-constrained, so their preserved equations are limited to the core bulk-drag relationships and reported saturation behavior.
+
+## [2026-04-17] ingest | philip-klotzbach-atlantic-climate-controls-2010-2020
+
+Ingested five peer-reviewed Philip Klotzbach-led or Klotzbach-coauthored papers chosen as the most wiki-relevant Klotzbach branch for Atlantic climate controls, rapid-intensification conditioning, and seasonal forecasting: Klotzbach (2010), Klotzbach (2011), Klotzbach (2012), Jones et al. (2020), and Klotzbach et al. (2020).
+
+Selection rationale:
+- The existing wiki had strong storm-scale RI, shear-resilience, and numerical-modeling coverage but lacked a coherent Atlantic subseasonal-to-seasonal climate-controls branch.
+- This five-paper set closes that gap with a compact progression from MJO subseasonal modulation, to ENSO seasonal modulation and landfall context, to climate conditioning of RI, to vertical-wind-shear mechanism diagnostics, to an explicit seasonal forecast application.
+- Jones et al. (2020) was included as the one non-first-author paper because it provides the environmental-shear mechanism needed to connect Klotzbach's climate teleconnection papers to the seasonal forecast model.
+
+Pages added:
+- [wiki/papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md](papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md)
+- [wiki/papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md](papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md)
+- [wiki/papers/klotzbach-2012-enso-mjo-atlantic-ri.md](papers/klotzbach-2012-enso-mjo-atlantic-ri.md)
+- [wiki/papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md](papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md)
+- [wiki/papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md](papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md)
+- [wiki/topics/atlantic-hurricane-climate-controls-and-seasonal-forecasting.md](topics/atlantic-hurricane-climate-controls-and-seasonal-forecasting.md)
+
+Pages updated:
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/topics/rapid-intensification.md](topics/rapid-intensification.md)
+- [wiki/index.md](index.md)
+- [wiki/authors.md](authors.md)
+- [wiki/log.md](log.md)
+- [README.md](../README.md)
+
+Notes:
+- The 2010-2012 Klotzbach pages are anchored to full-text PDFs, but the two 2020 pages are still abstract-constrained and should be upgraded with deeper full-text extraction in a later pass.
+- No `wiki/tc-cases.md` changes were needed because this ingest is basin-scale and climatological rather than centered on specific named storm cases.

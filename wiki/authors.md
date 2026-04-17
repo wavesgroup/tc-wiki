@@ -12,7 +12,8 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## B
 
-- **Bell, Michael M.**: [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md)
+- **Barnes, Elizabeth A.**: [Jones et al. (2020)](papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md)
+- **Bell, Michael M.**: [Bell et al. (2012)](papers/bell-montgomery-emanuel-2012-major-hurricane-exchange-coefficients-cblast.md); [Jones et al. (2020)](papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md); [Klotzbach et al. (2020)](papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md)
 - **Bender, Morris A.**: [Bender and Ginis (2000)](papers/bender-ginis-2000-real-case-hurricane-ocean-interaction.md); [Hazelton et al. (2018)](papers/hazelton-et-al-2018-2017-atlantic-hurricane-forecasts-high-resolution-fvgfs.md); [Hazelton et al. (2021)](papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md)
 - **Berner, J.**: [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
 - **Black, M. L.**: [Aberson et al. (2006)](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
@@ -24,6 +25,7 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## C
 
+- **Caron, Luis-Philippe**: [Klotzbach et al. (2020)](papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md)
 - **Chan, Johnny C. L.**: [Chan et al. (2001)](papers/chan-duan-shay-2001-intensity-change-simple-coupled-model.md)
 - **Chen, Shuyi S.**: [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Chen and Curcic (2016)](papers/chen-curcic-2016-ocean-surface-waves-ike-sandy.md); [Curcic et al. (2016)](papers/curcic-chen-ozgokmen-2016-hurricane-induced-ocean-waves-stokes-drift.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md); [Dietrich et al. (2018)](papers/dietrich-et-al-2018-sensitivity-storm-surge-predictions-isaac.md); [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - **Chen, X.**: [Fischer et al. (2023)](papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
@@ -79,10 +81,12 @@ Letter jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [
 
 ## J
 
+- **Jones, Jhordanne J.**: [Jones et al. (2020)](papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md)
 - **Judt, F.**: [Judt and Chen (2010)](papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md); [Judt and Chen (2016)](papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md); [Judt et al. (2016)](papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md); [Judt et al. (2023)](papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
 
 ## K
 
+- **Klotzbach, Philip J.**: [Klotzbach (2010)](papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md); [Klotzbach (2011)](papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md); [Klotzbach (2012)](papers/klotzbach-2012-enso-mjo-atlantic-ri.md); [Jones et al. (2020)](papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md); [Klotzbach et al. (2020)](papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md)
 - **Knio, Omar M.**: [Li et al. (2019)](papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
 - **Krabill, W. B.**: [Walsh et al. (2002)](papers/walsh-et-al-2002-hurricane-directional-wave-spectrum-landfall.md)
 

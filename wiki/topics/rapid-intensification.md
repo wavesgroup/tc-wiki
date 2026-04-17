@@ -2,8 +2,8 @@
 title: "Rapid Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-13"
-source_count: 13
+last_updated: "2026-04-17"
+source_count: 14
 ---
 
 # Definition
@@ -20,6 +20,8 @@ Fischer et al. (2025) also show that vortex structure is not enough by itself: R
 
 [Judt and Chen (2016)](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md) provide an earlier ensemble-predictability precursor using Hurricane Earl (2010). Their study shows that many members still undergo RI and reach major-hurricane intensity, but the onset timing has low predictability and splits into early- and late-RI structural pathways. [Fischer et al. (2018)](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md) and [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) then provide climatological evidence that RI episodes involve anomalously vigorous inner-core convection and are more likely in specific upper-tropospheric trough geometries that reduce effective ventilation. [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) adds a high-resolution ensemble mechanism test showing how shear/ventilation disruptions can delay RI even in initially similar forecasts. [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) then links weak-storm vertical alignment, precipitation symmetry, and future intensification in observations, setting up the multicase RI-focused synthesis in 2025.
 
+[Klotzbach (2012)](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md) adds an earlier basin-scale climate-controls branch to this topic. That paper shows that Atlantic RI episodes are much more common in La Niña years than in El Niño years and much more common in favorable MJO phases 1-2 than in unfavorable phases 6-7. Inference for this wiki: RI is not only conditioned by inner-core structure and immediate environment; its basinwide odds are also shifted by subseasonal and seasonal background state.
+
 
 Reasor-led shear-resilience work strengthens the wiki's RI-in-shear branch. [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) show in idealized dynamics that vortex-Rossby-wave alignment can reduce tilt, while [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md) and [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md) diagnose RI in Hurricane Guillermo (1997) as a shear-resilient structural evolution rather than simple shear avoidance. [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) and [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) further frame RI outcomes as regime dependent on environmental flow plus internal vortex structure.
 
@@ -32,6 +34,7 @@ Reasor-led shear-resilience work strengthens the wiki's RI-in-shear branch. [Rea
 - [Fischer et al. (2019)](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md) find that RI in TC-trough interactions is most common for specific upper-level geometry linked to reduced warm-core ventilation rather than simple eddy-angular-momentum forcing.
 - [Fischer et al. (2023)](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md) show in a high-resolution ensemble that stronger ventilation and dry intrusion can delay RI by disrupting inner-core heating and increasing vortex tilt before later realignment.
 - [Fischer et al. (2024)](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md) show that tilt is strongly related to 12-36 h intensity change for weak storms, with small-tilt cases exhibiting tighter and more symmetric inner-core precipitation structures.
+- [Klotzbach (2012)](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md) shows that Atlantic RI events are climatologically more frequent in La Niña years and in favorable MJO phases, especially when those states align.
 - [Fischer et al. (2025)](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md) find significantly smaller vortex tilt magnitudes in RI than in slowly intensifying or nonintensifying storms, consistent with more vertically aligned RI vortices.
 - Fischer et al. (2025) also show that RI episodes have deeper anomalous ascent and stronger upper-tropospheric outflow, whereas nonintensifying storms have a shallower overturning circulation with stronger midlevel outflow.
 - The same paper finds that RI storms have both more convective bursts and greater fractional eyewall coverage of convective bursts than non-RI storms.
@@ -52,11 +55,13 @@ Reasor-led shear-resilience work strengthens the wiki's RI-in-shear branch. [Rea
 - Do the tall, narrow, aligned vortex characteristics appear before RI onset, or do they partly emerge during RI itself?
 - How do these RI-favorable structures change in stronger storms, near land, or in basins not heavily sampled by NOAA aircraft?
 - What role do shear-relative asymmetries and vortex-tilt evolution play in setting whether convective bursts initiate RI or merely accompany it?
+- How much of climate-mode RI modulation acts through genesis location and storm track history versus direct inner-core environmental control?
 - Which of the observed RI-favorable structural metrics are robust enough to improve operational statistical or machine-learning guidance?
 
 # Related Pages
 
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
+- [Atlantic Hurricane Climate Controls and Seasonal Forecasting](atlantic-hurricane-climate-controls-and-seasonal-forecasting.md)
 - [Rotating Convection Paradigm](rotating-convection-paradigm.md)
 - [Boundary-Layer Control](boundary-layer-control.md)
 - [Tropical Cyclone Predictability](tropical-cyclone-predictability.md)
@@ -65,6 +70,7 @@ Reasor-led shear-resilience work strengthens the wiki's RI-in-shear branch. [Rea
 - [Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md)
 - [Normalized Convective Characteristics of Tropical Cyclone Rapid Intensification Events in the North Atlantic and Eastern North Pacific](../papers/fischer-tang-corbosiero-rozoff-2018-normalized-convective-characteristics-ri.md)
 - [A Climatological Analysis of Tropical Cyclone Rapid Intensification in Environments of Upper-Tropospheric Troughs](../papers/fischer-tang-corbosiero-2019-ri-upper-tropospheric-troughs.md)
+- [El Niño-Southern Oscillation, the Madden-Julian Oscillation and Atlantic Basin Tropical Cyclone Rapid Intensification](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md)
 - [A Tale of Two Vortex Evolutions: Using a High-Resolution Ensemble to Assess the Impacts of Ventilation on a Tropical Cyclone Rapid Intensification Event](../papers/fischer-et-al-2023-two-vortex-evolutions-ventilation-ri.md)
 - [An Observational Analysis of the Relationship between Tropical Cyclone Vortex Tilt, Precipitation Structure, and Intensity Change](../papers/fischer-et-al-2024-vortex-tilt-precipitation-intensity-change.md)
 - [Are Rapidly Intensifying Tropical Cyclones Associated with Unique Vortex and Convective Characteristics?](../papers/fischer-et-al-2025-rapidly-intensifying-tropical-cyclones-vortex-convective-characteristics.md)

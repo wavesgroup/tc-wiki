@@ -2,8 +2,8 @@
 title: "Tropical Cyclone Predictability"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-13"
-source_count: 13
+last_updated: "2026-04-17"
+source_count: 18
 ---
 
 # Definition
@@ -23,7 +23,9 @@ The wiki now has a first dedicated predictability branch anchored by two Judt-le
 
 Reasor-centered shear-resilience papers extend this branch beyond stochastic-ensemble diagnostics. [Reasor et al. (2004)](../papers/reasor-montgomery-grasso-2004-vortex-resiliency-vertical-shear.md) and [Reasor and Montgomery (2015)](../papers/reasor-montgomery-2015-heuristic-model-tc-resilience.md) provide mechanism-oriented resilience framing, while [Reasor and Eastin (2009)](../papers/reasor-eastin-2009-ri-guillermo-part-i-low-wavenumber-structure.md), [Reasor and Eastin (2012)](../papers/reasor-eastin-2012-ri-guillermo-part-ii-resiliency-in-shear.md), and [Reasor et al. (2013)](../papers/reasor-rogers-lorsolo-2013-environmental-flow-impacts-on-tc-structure.md) show that forecast-relevant RI behavior in shear depends strongly on evolving inner-core structure and environmental-flow regime.
 
-Inference for this wiki: tropical-cyclone predictability should be treated as scale dependent and regime dependent. Large-scale flow places longer-lived bounds on vortex evolution, but internal convective reorganization and structural mode transitions strongly limit practical predictability of RI onset and short-term intensity change.
+The new Klotzbach-centered Atlantic climate-controls branch extends predictability to longer leads and coarser scales. [Klotzbach (2010)](../papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md) shows that Atlantic genesis, intensification, and U.S. landfalls are materially modulated by MJO phase on roughly 2-week time scales, while [Klotzbach (2011)](../papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md) shows that ENSO shifts the seasonal Atlantic background for hurricane activity and landfall probabilities. [Klotzbach (2012)](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md) then extends that logic to RI itself, showing that favorable subseasonal and seasonal climate states increase RI odds. [Jones et al. (2020)](../papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md) and [Klotzbach et al. (2020)](../papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md) show how this longer-lead predictability can be interpreted and partly operationalized through seasonal environmental predictors, especially Atlantic vertical-wind-shear modes and hybrid statistical/dynamical forecast systems.
+
+Inference for this wiki: tropical-cyclone predictability should be treated as scale dependent and regime dependent, but also as climate conditioned. Large-scale modes such as the MJO and ENSO place probabilistic bounds on genesis geography, RI likelihood, and seasonal activity, while internal convective reorganization and structural mode transitions still sharply limit practical predictability of RI onset and short-term intensity change.
 
 [Aberson (2011)](../papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md) adds an adaptive-observing branch: targeted dropwindsonde assimilation in the GFS produced case-dependent but measurable tropical-cyclone forecast improvements. Inference for this wiki: intrinsic predictability limits and observing-network design must be interpreted together, because targeted sampling can recover skill in some sensitive flow configurations.
 
@@ -44,20 +46,32 @@ Inference for this wiki: tropical-cyclone predictability should be treated as sc
 - [Hazelton et al. (2020)](../papers/hazelton-et-al-2020-high-resolution-ensemble-hfv3-hurricane-michael-ri-shear.md) show that member-to-member RI outcomes in Hurricane Michael depend strongly on tilt reduction and upshear moistening even when bulk shear is similar.
 - [Hazelton et al. (2021)](../papers/hazelton-et-al-2021-2019-atlantic-hurricane-forecasts-global-nested-hafs.md) provide system-scale evidence that RI and transition regimes remain concentrated forecast-failure modes in a prototype HAFS configuration.
 - [Judt et al. (2023)](../papers/judt-rios-berrios-bryan-2023-marathon-vs-sprint-ri-modes.md) argue that structurally distinct RI modes help explain why forecast skill and scientific consensus break down most sharply around RI onset.
+- [Klotzbach (2010)](../papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md) shows that Atlantic TC activity and even U.S. landfalls are materially modulated by MJO phase, implying meaningful subseasonal predictability in basinwide probabilities.
+- [Klotzbach (2011)](../papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md) shows that ENSO materially shifts Atlantic hurricane frequency, major-hurricane probability, and regional landfall likelihood on seasonal time scales.
+- [Klotzbach (2012)](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md) shows that RI probability itself is climate conditioned, with more Atlantic RI in La Niña years and in favorable MJO phases.
+- [Jones et al. (2020)](../papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md) show that seasonal Atlantic vertical-wind-shear predictability depends on both tropical and subtropical climate modes, including anticyclonic Rossby wave breaking.
+- [Klotzbach et al. (2020)](../papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md) show that predicting environmental controls directly with a seasonal dynamical model can improve seasonal ACE outlook skill.
 
 # Open Questions
 
 - Which aspects of RI timing are intrinsically unpredictable, and which are still limited mainly by initialization or model physics?
 - How often do forecast busts arise from missing the correct RI mode rather than from mean-state environmental error?
 - Can large-scale predictability of the mean vortex be translated into useful probabilistic bounds on short-term intensity change?
+- How much useful RI predictability comes from climate-mode conditioning versus storm-scale structural initialization?
 - Which structural precursors are robust enough to improve operational ensemble calibration for RI?
 
 # Related Pages
 
 - [Rapid Intensification](rapid-intensification.md)
+- [Atlantic Hurricane Climate Controls and Seasonal Forecasting](atlantic-hurricane-climate-controls-and-seasonal-forecasting.md)
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
 - [Tropical Cyclone Numerical Modeling](tropical-cyclone-numerical-modeling.md)
 - [Tropical Cyclone Fluid Dynamics](../syntheses/tropical-cyclone-fluid-dynamics.md)
+- [On the Madden-Julian Oscillation-Atlantic Hurricane Relationship](../papers/klotzbach-2010-mjo-atlantic-hurricane-relationship.md)
+- [El Niño-Southern Oscillation's Impact on Atlantic Basin Hurricanes and U.S. Landfalls](../papers/klotzbach-2011-enso-atlantic-hurricanes-us-landfalls.md)
+- [El Niño-Southern Oscillation, the Madden-Julian Oscillation and Atlantic Basin Tropical Cyclone Rapid Intensification](../papers/klotzbach-2012-enso-mjo-atlantic-ri.md)
+- [Tropical and Subtropical North Atlantic Vertical Wind Shear and Seasonal Tropical Cyclone Activity](../papers/jones-bell-klotzbach-2020-na-atlantic-vws-seasonal-tc-activity.md)
+- [A Statistical/Dynamical Model for North Atlantic Seasonal Hurricane Prediction](../papers/klotzbach-caron-bell-2020-statistical-dynamical-north-atlantic-seasonal-hurricane-prediction.md)
 - [Predictability of Tropical Cyclone Intensity: Scale-Dependent Forecast Error Growth in High-Resolution Stochastic Kinetic-Energy Backscatter Ensembles](../papers/judt-chen-berner-2016-intensity-predictability-scale-dependent-error-growth.md)
 - [Predictability and Dynamics of Tropical Cyclone Rapid Intensification Deduced from High-Resolution Stochastic Ensembles](../papers/judt-chen-2016-ri-predictability-stochastic-ensembles.md)
 - [Uncertainty Propagation in Coupled Atmosphere-Wave-Ocean Prediction System: A Study of Hurricane Earl (2010)](../papers/li-et-al-2019-uncertainty-propagation-coupled-atmosphere-wave-ocean-earl.md)
