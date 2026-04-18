@@ -2,7 +2,7 @@
 title: "Boundary-Layer Control"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-17"
 source_count: 16
 ---
 
@@ -76,6 +76,7 @@ The new CBLAST papers add a direct turbulence and coherent-structure bridge to t
 - [Rotating Convection Paradigm](rotating-convection-paradigm.md)
 - [Tropical Cyclone Size Growth](tropical-cyclone-size-growth.md)
 - [Potential Intensity](potential-intensity.md)
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](tropical-cyclone-observing-systems-and-adaptive-sampling.md)
 - [Tropical Cyclone Exchange Coefficients](tropical-cyclone-exchange-coefficients.md)
 - [Hurricane Boundary-Layer Models](../methods/hurricane-boundary-layer-models.md)
 - [Wind and Waves in Extreme Hurricanes](../papers/holthuijsen-powell-pietrzak-2012-wind-and-waves-in-extreme-hurricanes.md)

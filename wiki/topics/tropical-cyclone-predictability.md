@@ -63,6 +63,7 @@ Inference for this wiki: tropical-cyclone predictability should be treated as sc
 # Related Pages
 
 - [Rapid Intensification](rapid-intensification.md)
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](tropical-cyclone-observing-systems-and-adaptive-sampling.md)
 - [Atlantic Hurricane Climate Controls and Seasonal Forecasting](atlantic-hurricane-climate-controls-and-seasonal-forecasting.md)
 - [Tropical Cyclone Intensification](tropical-cyclone-intensification.md)
 - [Tropical Cyclone Numerical Modeling](tropical-cyclone-numerical-modeling.md)

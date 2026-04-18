@@ -2,7 +2,7 @@
 title: "Secondary Eyewall Formation"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-17"
 source_count: 1
 ---
 
@@ -12,7 +12,7 @@ Secondary eyewall formation refers to the development of an outer concentric rin
 
 # Current Synthesis
 
-This is currently a first-pass page built from one direct primary study. [Judt and Chen (2010)](../papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md) compare Hurricanes Rita and Katrina (2005) during the RAINEX period and argue that Rita's secondary eyewall formed when convectively generated potential vorticity (PV) accumulated in the rainband region, creating a secondary PV/vorticity maximum that later became the outer eyewall.
+Current evidence in the wiki is anchored by one direct primary study. [Judt and Chen (2010)](../papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md) compare Hurricanes Rita and Katrina (2005) during the RAINEX period and argue that Rita's secondary eyewall formed when convectively generated potential vorticity (PV) accumulated in the rainband region, creating a secondary PV/vorticity maximum that later became the outer eyewall.
 
 The paper further argues that a strong moat formed between Rita's primary eyewall and the outer convective ring, suppressing radial propagation of vortex Rossby waves (VRWs). In that interpretation, VRWs were not the initiating cause of secondary-eyewall formation in Rita. Katrina, by contrast, retained outward-propagating VRWs without forming a comparable secondary eyewall during the same analysis window.
 

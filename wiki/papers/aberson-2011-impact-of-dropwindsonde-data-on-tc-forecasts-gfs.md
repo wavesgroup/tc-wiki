@@ -2,8 +2,9 @@
 title: "The Impact of Dropwindsonde Data from the THORPEX-Pacific Area Regional Campaign and the NOAA Hurricane Field Program on Tropical Cyclone Forecasts in the Global Forecast System"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-17"
 source_count: 1
+source_access: "metadata_only"
 ---
 
 # Citation
@@ -42,11 +43,12 @@ Aberson (2011) asks how much targeted dropwindsonde observations from NOAA Hurri
 
 This is a curated ingest queue, not a full bibliography.
 
-- `Program-scale context:` Aberson, S. D., M. L. Black, R. A. Black, R. W. Burpee, J. J. Cione, C. W. Landsea, and F. D. Marks Jr., 2006: *Thirty years of tropical cyclone research with the NOAA P-3 aircraft*. *Bulletin of the American Meteorological Society*. DOI: [10.1175/BAMS-87-8-1039](https://doi.org/10.1175/BAMS-87-8-1039).
+- `Program-scale context:` [Thirty Years of Tropical Cyclone Research with the NOAA P-3 Aircraft](aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md).
 - `Targeting methods context:` Aberson, S. D., S. J. Majumdar, C. A. Reynolds, and B. J. Etherton, 2011: *An observing system experiment for tropical cyclone targeting techniques using the Global Forecast System*. *Monthly Weather Review*. DOI: [10.1175/2010MWR3397.1](https://doi.org/10.1175/2010MWR3397.1).
 
 # Linked Pages
 
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](../topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md)
 - [Tropical Cyclone Predictability](../topics/tropical-cyclone-predictability.md)
 - [Tropical Cyclone Numerical Modeling](../topics/tropical-cyclone-numerical-modeling.md)
 - [Air-Sea Interaction](../topics/air-sea-interaction.md)

@@ -2,7 +2,7 @@
 title: "Tropical Cyclone Intensification"
 page_type: "topic"
 status: "active"
-last_updated: "2026-04-13"
+last_updated: "2026-04-17"
 source_count: 42
 ---
 
@@ -24,7 +24,7 @@ Third, the paper argues that intensification physics is not fully captured by ax
 
 [Nolan et al. (2007)](../papers/nolan-moon-stern-2007-tropical-cyclone-intensification-from-asymmetric-convection.md) add an energetics constraint on how asymmetric convection feeds back on the mean vortex. In their balanced-vortex framework, intensity change from localized forcing is governed mainly by the azimuthal-mean heating, while purely asymmetric forcing often produces weak net change or weakening because transient asymmetries can draw energy from the symmetric circulation.
 
-[Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because this ingest is currently abstract-constrained, these links are recorded as first-pass structural hypotheses pending full-text extraction.
+[Stern and Nolan (2009)](../papers/stern-nolan-2009-reexamining-vertical-structure-tangential-winds.md), [Stern and Nolan (2012)](../papers/stern-nolan-2012-height-of-warm-core.md), and [Stern et al. (2015)](../papers/stern-vigh-nolan-et-al-2015-eyewall-contraction-intensification.md) extend this chain by linking intensity change to inner-core vertical structure. Across these papers, contraction and intensification are related but not identical processes: early contraction often co-occurs with spin-up, while warm-core and tangential-wind vertical structure can evolve on partially distinct timescales. Because these pages remain abstract-constrained, the structural links should be treated as provisional until fuller extraction clarifies the metric-level details.
 
 [Judt and Chen (2010)](../papers/judt-chen-2010-rainband-pv-secondary-eyewall-rita.md) add a mature-storm outer-core pathway that is mostly absent from the earlier intensification pages. In their Rita case, convectively generated rainband PV accumulates into a secondary outer-ring maximum while a moat forms between the primary and secondary eyewalls. Inference for this wiki: intensity change near mature stages cannot be treated as an eyewall-only problem, because outer-core convective organization can reorganize the vortex and set up eyewall replacement behavior.
 

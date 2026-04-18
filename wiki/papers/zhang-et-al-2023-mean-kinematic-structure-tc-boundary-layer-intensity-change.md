@@ -2,8 +2,9 @@
 title: "The Mean Kinematic Structure of the Tropical Cyclone Boundary Layer in Relation to Intensity Change"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-17"
 source_count: 2
+source_access: "metadata_only"
 ---
 
 # Citation
@@ -47,6 +48,7 @@ This is a curated ingest queue, not a full bibliography.
 
 # Linked Pages
 
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](../topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md)
 - [Boundary-Layer Control](../topics/boundary-layer-control.md)
 - [Tropical Cyclone Intensification](../topics/tropical-cyclone-intensification.md)
 - [Rapid Intensification](../topics/rapid-intensification.md)

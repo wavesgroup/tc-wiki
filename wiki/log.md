@@ -594,3 +594,32 @@ Pages updated:
 Notes:
 - The 2010-2012 Klotzbach pages are anchored to full-text PDFs, but the two 2020 pages are still abstract-constrained and should be upgraded with deeper full-text extraction in a later pass.
 - No `wiki/tc-cases.md` changes were needed because this ingest is basin-scale and climatological rather than centered on specific named storm cases.
+
+## [2026-04-17] refine | drift-remediation-and-observing-systems-lint
+
+Repaired structural drift in the wiki, added a dedicated observing-systems topic, and codified a repo-local lint workflow to reduce future drift.
+
+Pages added:
+- [wiki/topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md](topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md)
+- [scripts/lint_wiki.py](../scripts/lint_wiki.py)
+
+Pages updated:
+- [README.md](../README.md)
+- [wiki/index.md](index.md)
+- [wiki/papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md](papers/smith-montgomery-2010-hurricane-boundary-layer-theory.md)
+- [wiki/papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md](papers/aberson-et-al-2006-thirty-years-tc-research-noaa-p3-aircraft.md)
+- [wiki/papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md](papers/aberson-2011-impact-of-dropwindsonde-data-on-tc-forecasts-gfs.md)
+- [wiki/papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md](papers/zhang-et-al-2023-mean-kinematic-structure-tc-boundary-layer-intensity-change.md)
+- [wiki/topics/boundary-layer-control.md](topics/boundary-layer-control.md)
+- [wiki/topics/secondary-eyewall-formation.md](topics/secondary-eyewall-formation.md)
+- [wiki/topics/tropical-cyclone-intensification.md](topics/tropical-cyclone-intensification.md)
+- [wiki/topics/tropical-cyclone-predictability.md](topics/tropical-cyclone-predictability.md)
+- [wiki/topics/tropical-cyclone-size-growth.md](topics/tropical-cyclone-size-growth.md)
+- [tc-wiki skill file](../.agents/skills/tc-wiki/SKILL.md)
+- [wiki schema reference](../.agents/skills/tc-wiki/references/wiki-schema.md)
+- [wiki/log.md](log.md)
+
+Notes:
+- Refreshed the top-level `README.md` counters; the current storm count is now 16.
+- Replaced stale index blurbs that described edit history rather than current content, and folded the dated `New Evidence` append block on the size-growth topic back into the canonical synthesis sections.
+- Added `source_access` metadata to the paper pages touched in this pass and introduced lint checks for it; legacy paper pages still missing `source_access` currently surface as warnings rather than errors.

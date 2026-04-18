@@ -42,6 +42,12 @@ source_count: 12
 ---
 ```
 
+For paper pages, also add:
+
+```yaml
+source_access: "full_text"  # or metadata_only | citation_network | mixed
+```
+
 Useful `page_type` values:
 
 - `paper`
@@ -61,8 +67,10 @@ Suggested sections:
 - `# Citation`
 - `# Research Question`
 - `# Data And Methods`
+- `# Key Equations` when the page is equation-central and grounded in direct full-text access
 - `# Findings`
 - `# Limitations`
+- `# Referenced Papers`
 - `# Linked Pages`
 
 The paper page is the staging area for source-grounded facts before they propagate elsewhere.
@@ -78,6 +86,7 @@ Suggested sections:
 - `# Related Pages`
 
 Topic pages should synthesize, not merely stack summaries.
+Absorb new evidence into these canonical sections rather than appending dated `New Evidence` blocks.
 
 ### Storm Pages
 
@@ -121,6 +130,7 @@ Use the DOI in the paper page even if the wiki also keeps a citation key.
 ```
 
 The index is the first navigation surface for both users and agents. Keep summaries short and current.
+Avoid blurbs that describe edit history rather than content, such as `new`, `seed`, `first-pass`, or `early`.
 
 ## Log Convention
 

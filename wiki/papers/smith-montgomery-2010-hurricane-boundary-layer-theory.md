@@ -2,8 +2,9 @@
 title: "Hurricane Boundary-Layer Theory"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-15"
+last_updated: "2026-04-17"
 source_count: 1
+source_access: "full_text"
 ---
 
 # Citation
@@ -68,6 +69,14 @@ so the same upper-boundary condition also removes radial advection of absolute a
 - Its arguments are developed largely in an axisymmetric framework and do not directly resolve asymmetric convection or 3D turbulence.
 - The paper clarifies limitations of steady boundary-layer formulations more than it provides a closed replacement theory for the fully coupled eyewall ascent region.
 - Some implications for potential intensity and forecast models are interpretive extensions from the paper's boundary-layer arguments rather than standalone results tested here.
+
+# Referenced Papers
+
+This is a curated ingest queue, not a full bibliography.
+
+- `Review synthesis anchor:` [Recent Developments in the Fluid Dynamics of Tropical Cyclones](montgomery-smith-2017-fluid-dynamics-of-tropical-cyclones.md).
+- `Observational boundary-layer depth test:` [On the Characteristic Height Scales of the Hurricane Boundary Layer](zhang-et-al-2011-characteristic-height-scales-hurricane-boundary-layer.md).
+- `3-D context on axisymmetric limits:` [Asymmetric and Axisymmetric Dynamics of Tropical Cyclones](persing-et-al-2013-asymmetric-and-axisymmetric-dynamics-of-tropical-cyclones.md).
 
 # Linked Pages
 

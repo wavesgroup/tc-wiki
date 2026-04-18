@@ -2,8 +2,9 @@
 title: "Thirty Years of Tropical Cyclone Research with the NOAA P-3 Aircraft"
 page_type: "paper"
 status: "active"
-last_updated: "2026-04-10"
+last_updated: "2026-04-17"
 source_count: 1
+source_access: "metadata_only"
 ---
 
 # Citation
@@ -47,6 +48,7 @@ This is a curated ingest queue, not a full bibliography.
 
 # Linked Pages
 
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](../topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md)
 - [Tropical Cyclone Predictability](../topics/tropical-cyclone-predictability.md)
 - [Boundary-Layer Control](../topics/boundary-layer-control.md)
 - [Air-Sea Interaction](../topics/air-sea-interaction.md)

@@ -34,6 +34,17 @@ Default to peer-reviewed sources. If the user wants to include preprints, report
 3. If the repo has no established schema, use [wiki-schema.md](./references/wiki-schema.md) as the default.
 4. Never modify raw source files.
 
+## Paper Frontmatter Access Status
+
+For paper pages, add or refresh a `source_access` frontmatter field whenever you touch the page:
+
+- `full_text`: the page is grounded in direct full article text or PDF access
+- `metadata_only`: the page is grounded mainly in abstract, DOI landing page, bibliographic, or publisher-summary metadata
+- `citation_network`: the page is grounded mainly in indirect citation traces or reference-list context
+- `mixed`: the page combines more than one access mode and cannot be represented cleanly by one stronger category
+
+Treat `source_access` as a maintenance signal, not as marketing. If access is constrained, say so plainly.
+
 ## Core Operations
 
 ### Ingest A Paper
@@ -45,26 +56,40 @@ Default to peer-reviewed sources. If the user wants to include preprints, report
    - data sources, methods, and variables
    - key findings, limitations, and uncertainty
 3. Create or update the paper page first.
-4. When a paper hinges on one or more central equations, preserve the most wiki-relevant equation(s) on the paper page in GitHub-compatible LaTeX math rendered by MathJax:
+4. Add or refresh the paper page's `source_access` frontmatter field using the conventions above.
+5. When a paper hinges on one or more central equations, preserve the most wiki-relevant equation(s) on the paper page in GitHub-compatible LaTeX math rendered by MathJax:
    - include only governing equations, diagnostic formulas, or compact budget relations that materially improve reuse
    - prefer one to three high-value equations, not full derivations or incidental algebra
    - define symbols in nearby prose and explain why the equation matters in the paper
    - treat the paper page as the canonical home for the equation; repeat it on topic or synthesis pages only when it becomes a cross-paper organizing concept
-5. Add a `# Referenced Papers` section near the end of the paper page as a curated ingest queue:
+   - if `source_access: full_text` and the paper is equation-central, include a `# Key Equations` section
+   - if direct full text is not available, do not reconstruct equations from memory or secondary summaries; record the gap explicitly instead
+6. Add a `# Referenced Papers` section near the end of the paper page as a curated ingest queue:
    - list the most wiki-relevant cited papers, not the full bibliography
    - prioritize papers that support claims already propagated into topic, method, storm, dataset, basin, or synthesis pages
    - when a cited paper later gets its own wiki page, replace the plain citation with a direct wiki link
-6. Update every materially affected topic, storm, dataset, method, and synthesis page.
-7. Update `index.md`.
-8. When present, refresh repository-wide indexes such as `authors.md` and `tc-cases.md` so they reflect the current ingest.
-9. If `README.md` includes top-level wiki count links, check and refresh them on every ingestion using current repository totals:
+7. Update every materially affected topic, storm, dataset, method, and synthesis page.
+8. Update `index.md`.
+9. When present, refresh repository-wide indexes such as `authors.md` and `tc-cases.md` so they reflect the current ingest.
+10. If `README.md` includes top-level wiki count links, check and refresh them on every ingestion using current repository totals:
    - `Papers (x)`: count current `papers/*.md` pages
    - `Authors (y)`: count current author entries in `authors.md`
    - `Storms (z)`: count current storm entries in `tc-cases.md`
-10. Append a short chronological entry to `log.md`.
+11. Append a short chronological entry to `log.md`.
    - Always add new entries at the bottom of the file so `log.md` remains in ascending chronological order (earlier entries first, later entries last).
 
 Do not stop at the paper summary. The point of the wiki is to propagate new evidence into the existing synthesis.
+
+### Finalize Any Wiki Edit
+
+Before finalizing any wiki mutation:
+
+1. Run `python3 scripts/lint_wiki.py` from the repository root.
+2. Resolve all reported errors.
+3. If warnings remain, mention them explicitly to the user or record them in `log.md` when they materially affect confidence.
+4. Ensure new evidence is integrated into the canonical page sections rather than appended as dated `New Evidence`-style blocks.
+5. Ensure `index.md` blurbs describe current content, not edit history with labels such as `new`, `seed`, `first-pass`, or `early`.
+6. Ensure every new page receives at least one intentional non-index inbound link from another content page.
 
 ### Query The Wiki
 
@@ -84,6 +109,11 @@ Look for:
 - repeated concepts or storms that still lack their own page
 - orphan pages with weak linking
 - terminology drift, especially for similar but non-identical metrics
+- generated artifact drift in `README.md`, `authors.md`, and `tc-cases.md`
+- schema drift such as missing required paper sections or ad hoc dated append sections
+- access-status drift, especially inconsistent or missing `source_access` labeling on paper pages
+
+Prefer using `python3 scripts/lint_wiki.py` for the repeatable structural checks, then do a human pass for scientific-content issues the script cannot judge.
 
 ### Maintain `authors.md`
 

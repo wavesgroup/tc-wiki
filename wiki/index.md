@@ -85,21 +85,22 @@ Jump to:
 
 ## Topics
 
-- [Tropical Cyclone Intensification](topics/tropical-cyclone-intensification.md): Current seed synthesis of how spin-up is framed in the review literature.
+- [Tropical Cyclone Intensification](topics/tropical-cyclone-intensification.md): Synthesis of multiscale spin-up pathways across rotating convection, boundary-layer dynamics, asymmetric fluxes, and coupled surface exchange.
 - [Rapid Intensification](topics/rapid-intensification.md): Current synthesis of the vortex and convective structures that favor RI after controlling for storm intensity.
-- [Tropical Cyclone Predictability](topics/tropical-cyclone-predictability.md): New topic page on scale-dependent intensity predictability, RI timing uncertainty, and regime-dependent forecast limits.
-- [Atlantic Hurricane Climate Controls and Seasonal Forecasting](topics/atlantic-hurricane-climate-controls-and-seasonal-forecasting.md): New Atlantic-focused synthesis linking MJO, ENSO, seasonal shear patterns, RI odds, and hybrid seasonal outlook skill.
+- [Tropical Cyclone Predictability](topics/tropical-cyclone-predictability.md): Scale-dependent synthesis of intensity predictability, RI timing uncertainty, shear resilience, adaptive sampling, and seasonal climate conditioning.
+- [Tropical Cyclone Observing Systems and Adaptive Sampling](topics/tropical-cyclone-observing-systems-and-adaptive-sampling.md): How NOAA aircraft, dropsondes, and targeted sampling connect process understanding to forecast-skill gains.
+- [Atlantic Hurricane Climate Controls and Seasonal Forecasting](topics/atlantic-hurricane-climate-controls-and-seasonal-forecasting.md): Atlantic-focused synthesis linking MJO, ENSO, seasonal shear patterns, RI odds, and hybrid seasonal outlook skill.
 - [Rotating Convection Paradigm](topics/rotating-convection-paradigm.md): Synthesis of rotating deep convection, vortex-tube stretching, vortical plumes, and asymmetric spin-up.
 - [Boundary-Layer Control](topics/boundary-layer-control.md): Role of the frictional boundary layer in eyewall placement, spin-up, and thermodynamic structure.
 - [Potential Intensity](topics/potential-intensity.md): Upper-bound intensity theory, its utility, and limitations emphasized in the review.
 - [Tropical Cyclone Outflow](topics/tropical-cyclone-outflow.md): How upper-level outflow and cirrus-shield structure are supplied by both eyewall and rainband convection, and why that matters for interpretation.
-- [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md): Early page on inner-core and outer-wind expansion as discussed in the review.
-- [Secondary Eyewall Formation](topics/secondary-eyewall-formation.md): First-pass page on concentric-eyewall initiation, centered on rainband PV aggregation in Hurricane Rita (2005).
+- [Tropical Cyclone Size Growth](topics/tropical-cyclone-size-growth.md): Synthesis of inner-core contraction, outer-wind expansion, and secondary-eyewall-related size change.
+- [Secondary Eyewall Formation](topics/secondary-eyewall-formation.md): Synthesis of concentric-eyewall initiation focused on rainband PV aggregation, moat structure, and outer-core reorganization.
 - [Steady-State Tropical Cyclones](topics/steady-state-tropical-cyclones.md): Why the existence of a realistic globally steady hurricane remains contested.
 - [Air-Sea Interaction](topics/air-sea-interaction.md): Two-way coupling synthesis linking cold-wake feedback and high-wind flux parameterization constraints.
 - [Tropical Cyclone Exchange Coefficients](topics/tropical-cyclone-exchange-coefficients.md): Direct observational and synthesis page on `CD`, `CE`, `CK`, and `CK/CD` across CBLAST and related high-wind studies.
 - [Tropical Cyclone Wave Coupling](topics/tropical-cyclone-wave-coupling.md): How waves, Stokes drift, radiation stress, and forcing choice alter hurricane transport, surge, and coupled-model behavior.
-- [Tropical Cyclone Numerical Modeling](topics/tropical-cyclone-numerical-modeling.md): New synthesis page tracing Andrew-Hazelton-led FV3/HAFS forecast-system and process-diagnostics evidence.
+- [Tropical Cyclone Numerical Modeling](topics/tropical-cyclone-numerical-modeling.md): Synthesis tracing coupled atmosphere-wave-ocean modeling, stochastic ensembles, and FV3/HAFS forecast-system evidence.
 
 ## Methods
 
